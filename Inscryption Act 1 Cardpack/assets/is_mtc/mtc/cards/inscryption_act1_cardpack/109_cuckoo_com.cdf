@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=109_cuckoo
+RarityLevel=com
+
+Name=Cuckoo
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/109_cuckoo_com

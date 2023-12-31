@@ -1,0 +1,10 @@
+
+EditionID=inscryption_finale_cardpack
+CardID=006_gravedigger
+RarityLevel=com
+
+Name=Gravedigger
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_finale_cardpack/006_gravedigger_com

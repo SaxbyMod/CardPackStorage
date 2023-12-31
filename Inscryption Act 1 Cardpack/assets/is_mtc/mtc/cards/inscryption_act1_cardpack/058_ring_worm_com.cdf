@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=058_ring_worm
+RarityLevel=com
+
+Name=Ring Worm
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/058_ring_worm_com

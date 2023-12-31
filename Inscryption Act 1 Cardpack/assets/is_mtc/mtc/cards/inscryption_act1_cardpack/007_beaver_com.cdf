@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=007_beaver
+RarityLevel=com
+
+Name=Beaver
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/007_beaver_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=022_gem_guardian
+RarityLevel=com
+
+Name=Gem Guardian
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/022_gem_guardian_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_finale_cardpack
+CardID=004_frank_stein
+RarityLevel=com
+
+Name=Frank&Stein
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_finale_cardpack/004_frank&stein_com

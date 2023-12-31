@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=011_black_goat_sexy
+RarityLevel=unc
+
+Name=Black Goat Sexy
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/011_black_goat_sexy_unc

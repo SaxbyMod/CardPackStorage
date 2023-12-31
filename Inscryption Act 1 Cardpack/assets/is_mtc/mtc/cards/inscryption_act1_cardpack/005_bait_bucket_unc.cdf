@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=005_bait_bucket
+RarityLevel=unc
+
+Name=Bait Bucket
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/005_bait_bucket_unc

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=016_exeskeleton
+RarityLevel=com
+
+Name=Exeskeleton
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/016_exeskeleton_com

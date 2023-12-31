@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=002_amoebot
+RarityLevel=com
+
+Name=Amoebot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/002_amoebot_com

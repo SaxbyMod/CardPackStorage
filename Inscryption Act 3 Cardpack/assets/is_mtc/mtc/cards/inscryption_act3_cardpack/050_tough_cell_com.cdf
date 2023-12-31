@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=050_tough_cell
+RarityLevel=com
+
+Name=Tough Cell
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/050_tough_cell_com

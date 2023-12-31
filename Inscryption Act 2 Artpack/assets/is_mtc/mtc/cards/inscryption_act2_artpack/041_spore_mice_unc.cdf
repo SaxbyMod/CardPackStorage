@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=041_spore_mice
+RarityLevel=unc
+
+Name=Spore Mice
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act2_artpack/041_spore_mice_unc

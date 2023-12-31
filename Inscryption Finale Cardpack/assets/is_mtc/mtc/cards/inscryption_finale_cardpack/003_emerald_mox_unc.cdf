@@ -1,0 +1,10 @@
+
+EditionID=inscryption_finale_cardpack
+CardID=003_emerald_mox
+RarityLevel=unc
+
+Name=Emerald Mox
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_finale_cardpack/003_emerald_mox_unc

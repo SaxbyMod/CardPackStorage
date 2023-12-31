@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=081_urayuli
+RarityLevel=rare
+
+Name=Urayuli
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/081_urayuli_rare

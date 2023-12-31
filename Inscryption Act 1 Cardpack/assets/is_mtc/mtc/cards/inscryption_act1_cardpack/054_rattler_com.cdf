@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=054_rattler
+RarityLevel=com
+
+Name=Rattler
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/054_rattler_com

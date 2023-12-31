@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=015_caged_wolf
+RarityLevel=unc
+
+Name=Caged Wolf
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/015_caged_wolf_unc

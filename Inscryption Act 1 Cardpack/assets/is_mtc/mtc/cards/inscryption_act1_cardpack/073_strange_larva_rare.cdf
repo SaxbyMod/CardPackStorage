@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=073_strange_larva
+RarityLevel=rare
+
+Name=Strange Larva
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/073_strange_larva_rare

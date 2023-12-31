@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=022_coyote
+RarityLevel=com
+
+Name=Coyote
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/022_coyote_com

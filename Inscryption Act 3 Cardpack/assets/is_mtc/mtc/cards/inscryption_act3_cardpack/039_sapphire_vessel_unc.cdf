@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=039_sapphire_vessel
+RarityLevel=unc
+
+Name=Sapphire Vessel
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act3_cardpack/039_sapphire_vessel_unc

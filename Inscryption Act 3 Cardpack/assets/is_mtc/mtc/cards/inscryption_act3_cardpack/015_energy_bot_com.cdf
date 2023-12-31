@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=015_energy_bot
+RarityLevel=com
+
+Name=Energy Bot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/015_energy_bot_com

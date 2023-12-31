@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=071_stoat_talking
+RarityLevel=anc
+
+Name=Stoat Talking
+Category=Uncategorized
+DropWeight=2
+
+IllustrationPath=inscryption_act1_cardpack/071_stoat_talking_anc

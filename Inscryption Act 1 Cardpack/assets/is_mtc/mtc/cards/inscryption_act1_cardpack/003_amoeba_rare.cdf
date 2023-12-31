@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=003_amoeba
+RarityLevel=rare
+
+Name=Amoeba
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/003_amoeba_rare

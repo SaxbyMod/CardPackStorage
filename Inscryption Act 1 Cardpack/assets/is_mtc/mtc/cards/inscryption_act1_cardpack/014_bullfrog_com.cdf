@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=014_bullfrog
+RarityLevel=com
+
+Name=Bullfrog
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/014_bullfrog_com

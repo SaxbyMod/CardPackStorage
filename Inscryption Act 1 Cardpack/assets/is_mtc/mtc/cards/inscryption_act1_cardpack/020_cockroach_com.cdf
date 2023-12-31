@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=020_cockroach
+RarityLevel=com
+
+Name=Cockroach
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/020_cockroach_com

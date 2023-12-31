@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=130_tomb_robber
+RarityLevel=rare
+
+Name=Tomb Robber
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act2_artpack/130_tomb_robber_rare

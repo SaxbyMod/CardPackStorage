@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=008_bloodhound
+RarityLevel=com
+
+Name=Bloodhound
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/008_bloodhound_com

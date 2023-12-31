@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=044_moose_buck
+RarityLevel=com
+
+Name=Moose Buck
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/044_moose_buck_com

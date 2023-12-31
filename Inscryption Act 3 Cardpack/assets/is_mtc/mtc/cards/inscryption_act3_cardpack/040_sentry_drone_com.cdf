@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=040_sentry_drone
+RarityLevel=com
+
+Name=Sentry Drone
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/040_sentry_drone_com

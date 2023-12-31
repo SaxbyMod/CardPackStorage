@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=048_pack_mule
+RarityLevel=com
+
+Name=Pack Mule
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/048_pack_mule_com

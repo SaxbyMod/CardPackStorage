@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=092_wild_bull
+RarityLevel=com
+
+Name=Wild Bull
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/092_wild_bull_com

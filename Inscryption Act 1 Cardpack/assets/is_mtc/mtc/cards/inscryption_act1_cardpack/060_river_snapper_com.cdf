@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=060_river_snapper
+RarityLevel=com
+
+Name=River Snapper
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/060_river_snapper_com

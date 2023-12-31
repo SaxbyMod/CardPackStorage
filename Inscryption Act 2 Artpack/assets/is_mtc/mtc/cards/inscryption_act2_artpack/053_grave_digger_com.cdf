@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=053_grave_digger
+RarityLevel=com
+
+Name=Grave Digger
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/053_grave_digger_com

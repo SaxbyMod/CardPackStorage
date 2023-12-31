@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=033_greater_smoke
+RarityLevel=unc
+
+Name=Greater Smoke
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/033_greater_smoke_unc

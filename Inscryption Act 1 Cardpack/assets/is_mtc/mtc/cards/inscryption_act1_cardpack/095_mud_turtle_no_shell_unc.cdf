@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=095_mud_turtle_no_shell
+RarityLevel=unc
+
+Name=Mud Turtle No Shell
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/095_mud_turtle_no_shell_unc

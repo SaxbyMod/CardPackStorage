@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=088_wriggling_leg
+RarityLevel=unc
+
+Name=Wriggling Leg
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/088_wriggling_leg_unc

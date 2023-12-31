@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=039_magpie
+RarityLevel=com
+
+Name=Magpie
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/039_magpie_com

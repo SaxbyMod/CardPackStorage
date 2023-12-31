@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=027_buff_conduit
+RarityLevel=com
+
+Name=Buff Conduit
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/027_buff_conduit_com

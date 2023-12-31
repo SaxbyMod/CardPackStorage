@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=037_leaping_trap
+RarityLevel=unc
+
+Name=Leaping Trap
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/037_leaping_trap_unc

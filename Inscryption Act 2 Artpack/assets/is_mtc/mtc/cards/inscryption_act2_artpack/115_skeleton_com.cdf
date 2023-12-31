@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=115_skeleton
+RarityLevel=com
+
+Name=Skeleton
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/115_skeleton_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=070_stinkbug_talking
+RarityLevel=anc
+
+Name=Stinkbug Talking
+Category=Uncategorized
+DropWeight=2
+
+IllustrationPath=inscryption_act1_cardpack/070_stinkbug_talking_anc

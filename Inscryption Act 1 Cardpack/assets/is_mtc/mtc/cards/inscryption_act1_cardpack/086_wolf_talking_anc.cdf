@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=086_wolf_talking
+RarityLevel=anc
+
+Name=Wolf Talking
+Category=Uncategorized
+DropWeight=2
+
+IllustrationPath=inscryption_act1_cardpack/086_wolf_talking_anc

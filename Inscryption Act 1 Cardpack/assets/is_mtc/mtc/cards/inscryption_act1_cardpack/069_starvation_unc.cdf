@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=069_starvation
+RarityLevel=unc
+
+Name=Starvation
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/069_starvation_unc

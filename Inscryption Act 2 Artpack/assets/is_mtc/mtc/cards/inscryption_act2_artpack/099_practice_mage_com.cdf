@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=099_practice_mage
+RarityLevel=com
+
+Name=Practice Mage
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/099_practice_mage_com

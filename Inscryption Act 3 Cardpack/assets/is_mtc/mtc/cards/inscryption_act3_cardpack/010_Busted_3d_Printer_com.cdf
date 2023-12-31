@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=010_busted_3d_printer
+RarityLevel=com
+
+Name=Busted 3D Printer
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/010_Busted_3d_Printer_com

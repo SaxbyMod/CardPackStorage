@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=087_worker_ant
+RarityLevel=com
+
+Name=Worker Ant
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/087_worker_ant_com

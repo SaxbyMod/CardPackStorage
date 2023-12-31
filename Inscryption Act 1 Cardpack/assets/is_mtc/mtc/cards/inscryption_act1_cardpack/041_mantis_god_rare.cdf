@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=041_mantis_god
+RarityLevel=rare
+
+Name=Mantis God
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/041_mantis_god_rare

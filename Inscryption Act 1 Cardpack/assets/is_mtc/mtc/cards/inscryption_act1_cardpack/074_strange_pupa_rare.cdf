@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=074_strange_pupa
+RarityLevel=rare
+
+Name=Strange Pupa
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/074_strange_pupa_rare

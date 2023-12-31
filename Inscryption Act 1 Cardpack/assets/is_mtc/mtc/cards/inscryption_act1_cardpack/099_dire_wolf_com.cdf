@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=099_dire_wolf
+RarityLevel=com
+
+Name=Dire Wolf
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/099_dire_wolf_com

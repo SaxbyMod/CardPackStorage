@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=002_amalgam
+RarityLevel=rare
+
+Name=Amalgam
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/002_amalgam_rare

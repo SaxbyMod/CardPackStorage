@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=035_grizzly
+RarityLevel=com
+
+Name=Grizzly
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/035_grizzly_com

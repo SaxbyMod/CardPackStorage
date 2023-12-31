@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=081_ijiraq
+RarityLevel=rare
+
+Name=Ijiraq
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act2_artpack/081_ijiraq_rare

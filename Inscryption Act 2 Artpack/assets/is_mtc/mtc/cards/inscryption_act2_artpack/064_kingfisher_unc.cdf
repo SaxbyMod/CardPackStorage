@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=064_kingfisher
+RarityLevel=unc
+
+Name=Kingfisher
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act2_artpack/064_kingfisher_unc

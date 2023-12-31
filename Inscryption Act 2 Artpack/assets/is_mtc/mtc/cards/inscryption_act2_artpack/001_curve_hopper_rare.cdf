@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=001_curve_hopper
+RarityLevel=rare
+
+Name=Curve Hopper
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act2_artpack/001_curve_hopper_rare

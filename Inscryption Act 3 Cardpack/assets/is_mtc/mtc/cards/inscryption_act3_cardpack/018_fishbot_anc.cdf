@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=018_fishbot
+RarityLevel=anc
+
+Name=Fishbot
+Category=Uncategorized
+DropWeight=2
+
+IllustrationPath=inscryption_act3_cardpack/018_fishbot_anc

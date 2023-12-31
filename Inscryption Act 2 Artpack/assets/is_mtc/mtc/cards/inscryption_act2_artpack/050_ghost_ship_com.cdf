@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=050_ghost_ship
+RarityLevel=com
+
+Name=Ghost Ship
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/050_ghost_ship_com

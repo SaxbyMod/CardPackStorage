@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=021_corpse_maggots
+RarityLevel=com
+
+Name=Corpse Maggots
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/021_corpse_maggots_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=119_bell_tentacle
+RarityLevel=unc
+
+Name=Bell Tentacle
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act2_artpack/119_bell_tentacle_unc

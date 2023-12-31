@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=038_ruby_vessel
+RarityLevel=unc
+
+Name=Ruby Vessel
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act3_cardpack/038_ruby_vessel_unc

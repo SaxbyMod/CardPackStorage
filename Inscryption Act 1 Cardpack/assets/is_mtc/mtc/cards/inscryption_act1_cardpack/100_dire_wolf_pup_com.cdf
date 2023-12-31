@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=100_dire_wolf_pup
+RarityLevel=com
+
+Name=Dire Wolf Pup
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/100_dire_wolf_pup_com

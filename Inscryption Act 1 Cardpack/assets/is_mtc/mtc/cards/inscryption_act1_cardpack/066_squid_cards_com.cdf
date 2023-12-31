@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=066_squid_cards
+RarityLevel=com
+
+Name=Squid Cards
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/066_squid_cards_com

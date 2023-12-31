@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=009_blue_sporemage
+RarityLevel=unc
+
+Name=Blue Sporemage
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act2_artpack/009_blue_sporemage_unc

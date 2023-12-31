@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=027_insectodrone
+RarityLevel=com
+
+Name=Insectodrone
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/027_insectodrone_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=108_broken_egg
+RarityLevel=unc
+
+Name=Broken Egg
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/108_broken_egg_unc

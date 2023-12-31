@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=012_double_gunner
+RarityLevel=com
+
+Name=Double Gunner
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/012_double_gunner_com

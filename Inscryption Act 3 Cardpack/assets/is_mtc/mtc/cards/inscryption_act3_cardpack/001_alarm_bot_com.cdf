@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=001_alarm_bot
+RarityLevel=com
+
+Name=Alarm Bot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/001_alarm_bot_com

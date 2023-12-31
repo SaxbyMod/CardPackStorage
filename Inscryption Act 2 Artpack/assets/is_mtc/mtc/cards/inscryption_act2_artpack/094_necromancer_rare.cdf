@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=094_necromancer
+RarityLevel=rare
+
+Name=Necromancer
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act2_artpack/094_necromancer_rare

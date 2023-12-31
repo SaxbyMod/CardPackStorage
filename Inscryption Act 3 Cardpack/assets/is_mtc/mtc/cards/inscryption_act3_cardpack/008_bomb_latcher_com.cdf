@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=008_bomb_latcher
+RarityLevel=com
+
+Name=Bomb Latcher
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/008_bomb_latcher_com

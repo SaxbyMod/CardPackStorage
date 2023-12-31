@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=027_frozen_opossum
+RarityLevel=unc
+
+Name=Frozen Opossum
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/027_frozen_opossum_unc

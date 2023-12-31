@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=051_pronghorn
+RarityLevel=com
+
+Name=Pronghorn
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/051_pronghorn_com

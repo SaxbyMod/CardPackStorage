@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=028_furry_tail
+RarityLevel=unc
+
+Name=Furry Tail
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/028_furry_tail_unc

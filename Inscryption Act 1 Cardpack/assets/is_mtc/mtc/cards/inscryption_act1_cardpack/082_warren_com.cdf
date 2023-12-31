@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=082_warren
+RarityLevel=com
+
+Name=Warren
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/082_warren_com

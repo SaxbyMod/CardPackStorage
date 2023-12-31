@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=076_tail_feathers
+RarityLevel=unc
+
+Name=Tail Feathers
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/076_tail_feathers_unc

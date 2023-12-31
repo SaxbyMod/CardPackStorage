@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=009_beehive
+RarityLevel=com
+
+Name=Beehive
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/009_beehive_com

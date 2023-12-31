@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=013_boulder
+RarityLevel=unc
+
+Name=Boulder
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/013_boulder_unc

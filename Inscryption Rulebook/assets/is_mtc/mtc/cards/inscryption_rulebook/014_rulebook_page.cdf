@@ -1,0 +1,10 @@
+
+EditionID=inscryption_rulebook
+CardID=014_rulebook_page
+RarityLevel=common
+
+Name=Rulebook Page
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_rulebook/014_rulebook_page

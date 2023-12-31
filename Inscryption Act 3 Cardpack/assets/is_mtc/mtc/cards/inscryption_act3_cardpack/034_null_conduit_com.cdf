@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=034_null_conduit
+RarityLevel=com
+
+Name=Null Conduit
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/034_null_conduit_com

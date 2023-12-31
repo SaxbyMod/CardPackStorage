@@ -1,0 +1,10 @@
+
+EditionID=inscryption_finale_cardpack
+CardID=009_practice_mage
+RarityLevel=com
+
+Name=Practice Mage
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_finale_cardpack/009_practice_mage_com

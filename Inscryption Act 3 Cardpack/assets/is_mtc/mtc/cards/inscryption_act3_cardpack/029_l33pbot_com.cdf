@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=029_l33pbot
+RarityLevel=com
+
+Name=L33Pbot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/029_l33pbot_com

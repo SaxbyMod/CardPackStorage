@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=014_bonehound
+RarityLevel=com
+
+Name=Bonehound
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/014_bonehound_com

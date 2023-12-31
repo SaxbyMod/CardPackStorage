@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=042_shieldbot
+RarityLevel=com
+
+Name=Shieldbot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/042_shieldbot_com

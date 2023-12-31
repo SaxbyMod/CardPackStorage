@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=091_vertebrae
+RarityLevel=unc
+
+Name=Vertebrae
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/091_vertebrae_unc

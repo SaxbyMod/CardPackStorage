@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=122_squirrel
+RarityLevel=com
+
+Name=Squirrel
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/122_squirrel_com

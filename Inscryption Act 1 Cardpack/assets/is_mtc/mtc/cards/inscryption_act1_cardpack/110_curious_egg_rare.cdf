@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=110_curious_egg
+RarityLevel=rare
+
+Name=Curious Egg
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/110_curious_egg_rare

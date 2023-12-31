@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=046_opossum
+RarityLevel=com
+
+Name=Opossum
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/046_opossum_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=021_gem_detonator
+RarityLevel=com
+
+Name=Gem Detonator
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/021_gem_detonator_com

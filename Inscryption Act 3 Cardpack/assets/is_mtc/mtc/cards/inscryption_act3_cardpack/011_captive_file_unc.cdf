@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=011_captive_file
+RarityLevel=unc
+
+Name=Captive File
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act3_cardpack/011_captive_file_unc

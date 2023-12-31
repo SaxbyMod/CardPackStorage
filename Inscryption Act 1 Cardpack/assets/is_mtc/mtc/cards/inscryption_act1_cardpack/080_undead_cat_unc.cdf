@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=080_undead_cat
+RarityLevel=unc
+
+Name=Undead Cat
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/080_undead_cat_unc

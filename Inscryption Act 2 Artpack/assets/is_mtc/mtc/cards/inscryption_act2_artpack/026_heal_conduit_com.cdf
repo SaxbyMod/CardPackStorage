@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=026_heal_conduit
+RarityLevel=com
+
+Name=Heal Conduit
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/026_heal_conduit_com

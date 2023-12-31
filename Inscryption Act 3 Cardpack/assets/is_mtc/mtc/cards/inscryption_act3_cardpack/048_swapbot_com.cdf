@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=048_swapbot
+RarityLevel=com
+
+Name=Swapbot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/048_swapbot_com

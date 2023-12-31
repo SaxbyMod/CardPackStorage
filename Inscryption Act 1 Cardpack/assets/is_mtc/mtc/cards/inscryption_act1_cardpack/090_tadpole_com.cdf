@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=090_tadpole
+RarityLevel=com
+
+Name=Tadpole
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/090_tadpole_com

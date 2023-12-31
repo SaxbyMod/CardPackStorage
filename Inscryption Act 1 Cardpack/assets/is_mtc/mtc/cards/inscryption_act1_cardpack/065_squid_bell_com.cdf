@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=065_squid_bell
+RarityLevel=com
+
+Name=Squid Bell
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/065_squid_bell_com

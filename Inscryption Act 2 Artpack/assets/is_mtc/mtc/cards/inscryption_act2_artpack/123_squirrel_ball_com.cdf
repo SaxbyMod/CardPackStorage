@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=123_squirrel_ball
+RarityLevel=com
+
+Name=Squirrel Ball
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/123_squirrel_ball_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=028_kind_cell
+RarityLevel=com
+
+Name=Kind Cell
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/028_kind_cell_com

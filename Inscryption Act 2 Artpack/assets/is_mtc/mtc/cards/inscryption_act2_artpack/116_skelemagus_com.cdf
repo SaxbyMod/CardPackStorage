@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=116_skelemagus
+RarityLevel=com
+
+Name=Skelemagus
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/116_skelemagus_com

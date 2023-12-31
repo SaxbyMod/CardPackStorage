@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=072_strange_frog
+RarityLevel=unc
+
+Name=Strange Frog
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/072_strange_frog_unc

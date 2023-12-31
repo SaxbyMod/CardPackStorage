@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=102_raccoon
+RarityLevel=com
+
+Name=Raccoon
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/102_raccoon_com

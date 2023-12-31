@@ -1,0 +1,10 @@
+
+EditionID=inscryption_finale_cardpack
+CardID=008_orange_mage
+RarityLevel=com
+
+Name=Orange Mage
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_finale_cardpack/008_orange_mage_com

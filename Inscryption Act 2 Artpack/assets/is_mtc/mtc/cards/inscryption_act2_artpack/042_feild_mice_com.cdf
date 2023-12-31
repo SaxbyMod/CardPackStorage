@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=042_feild_mice
+RarityLevel=com
+
+Name=Feild Mice
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/042_feild_mice_com

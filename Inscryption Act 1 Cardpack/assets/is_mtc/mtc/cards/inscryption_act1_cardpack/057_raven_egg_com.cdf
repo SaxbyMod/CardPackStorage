@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=057_raven_egg
+RarityLevel=com
+
+Name=Raven Egg
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/057_raven_egg_com

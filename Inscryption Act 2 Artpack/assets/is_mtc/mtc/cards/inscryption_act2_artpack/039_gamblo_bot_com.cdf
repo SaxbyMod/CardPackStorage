@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=039_gamblo_bot
+RarityLevel=com
+
+Name=Gamblo Bot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/039_gamblo_bot_com

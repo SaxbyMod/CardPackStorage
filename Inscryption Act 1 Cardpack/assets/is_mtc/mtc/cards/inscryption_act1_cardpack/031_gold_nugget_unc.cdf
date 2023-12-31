@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=031_gold_nugget
+RarityLevel=unc
+
+Name=Gold Nugget
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/031_gold_nugget_unc

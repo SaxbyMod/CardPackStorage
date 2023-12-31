@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=033_mycobot
+RarityLevel=unc
+
+Name=Mycobot
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act3_cardpack/033_mycobot_unc

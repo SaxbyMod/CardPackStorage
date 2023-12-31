@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=036_kingfisher
+RarityLevel=com
+
+Name=Kingfisher
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/036_kingfisher_com

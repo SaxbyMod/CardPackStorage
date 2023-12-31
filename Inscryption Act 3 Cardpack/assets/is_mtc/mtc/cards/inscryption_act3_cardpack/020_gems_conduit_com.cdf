@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=020_gems_conduit
+RarityLevel=com
+
+Name=Gems Conduit
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/020_gems_conduit_com

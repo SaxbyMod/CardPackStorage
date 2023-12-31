@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=019_gembound_ripper
+RarityLevel=com
+
+Name=Gembound Ripper
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/019_gembound_ripper_com

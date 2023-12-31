@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=003_automaton
+RarityLevel=com
+
+Name=Automaton
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/003_automaton_com

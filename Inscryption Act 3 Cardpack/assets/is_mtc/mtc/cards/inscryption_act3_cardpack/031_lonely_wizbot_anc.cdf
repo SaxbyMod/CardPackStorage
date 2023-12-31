@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=031_lonely_wizbot
+RarityLevel=anc
+
+Name=Lonely Wizbot
+Category=Uncategorized
+DropWeight=2
+
+IllustrationPath=inscryption_act3_cardpack/031_lonely_wizbot_anc

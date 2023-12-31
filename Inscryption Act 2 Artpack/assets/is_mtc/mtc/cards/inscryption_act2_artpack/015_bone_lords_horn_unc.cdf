@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=015_bone_lords_horn
+RarityLevel=unc
+
+Name=Bone Lords Horn
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act2_artpack/015_bone_lords_horn_unc

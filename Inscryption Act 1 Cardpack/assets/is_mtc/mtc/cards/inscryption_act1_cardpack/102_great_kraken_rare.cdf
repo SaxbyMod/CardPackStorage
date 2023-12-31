@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=102_great_kraken
+RarityLevel=rare
+
+Name=Great Kraken
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=inscryption_act1_cardpack/102_great_kraken_rare

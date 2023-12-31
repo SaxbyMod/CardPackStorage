@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=101_flying_ant
+RarityLevel=com
+
+Name=Flying Ant
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/101_flying_ant_com

@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=106_lammergeier
+RarityLevel=com
+
+Name=Lammergeier
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/106_lammergeier_com

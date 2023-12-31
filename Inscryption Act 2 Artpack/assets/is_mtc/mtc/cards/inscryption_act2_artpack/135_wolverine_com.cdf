@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act2_artpack
+CardID=135_wolverine
+RarityLevel=com
+
+Name=Wolverine
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act2_artpack/135_wolverine_com

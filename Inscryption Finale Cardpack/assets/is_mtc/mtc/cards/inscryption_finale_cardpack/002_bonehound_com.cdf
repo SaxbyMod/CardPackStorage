@@ -1,0 +1,10 @@
+
+EditionID=inscryption_finale_cardpack
+CardID=002_bonehound
+RarityLevel=com
+
+Name=Bonehound
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_finale_cardpack/002_bonehound_com

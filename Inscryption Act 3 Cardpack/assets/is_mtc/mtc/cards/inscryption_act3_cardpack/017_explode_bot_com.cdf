@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=017_explode_bot
+RarityLevel=com
+
+Name=Explode Bot
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act3_cardpack/017_explode_bot_com

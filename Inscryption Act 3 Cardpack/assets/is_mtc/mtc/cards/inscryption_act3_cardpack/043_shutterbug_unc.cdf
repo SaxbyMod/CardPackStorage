@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act3_cardpack
+CardID=043_shutterbug
+RarityLevel=unc
+
+Name=Shutterbug
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act3_cardpack/043_shutterbug_unc

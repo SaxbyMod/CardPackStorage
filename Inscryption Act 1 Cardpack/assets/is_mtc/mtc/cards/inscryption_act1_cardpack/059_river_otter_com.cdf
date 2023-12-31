@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=059_river_otter
+RarityLevel=com
+
+Name=River Otter
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=inscryption_act1_cardpack/059_river_otter_com

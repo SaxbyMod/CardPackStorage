@@ -1,0 +1,10 @@
+
+EditionID=inscryption_act1_cardpack
+CardID=030_golden_pelt
+RarityLevel=unc
+
+Name=Golden Pelt
+Category=Uncategorized
+DropWeight=5
+
+IllustrationPath=inscryption_act1_cardpack/030_golden_pelt_unc
