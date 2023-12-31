@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=072_moxemerald
+RarityLevel=common
+Name=Moxemerald
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/072_moxemerald

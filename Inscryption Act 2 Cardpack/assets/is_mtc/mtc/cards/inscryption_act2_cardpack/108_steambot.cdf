@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=108_steambot
+RarityLevel=common
+Name=Steambot
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/108_steambot

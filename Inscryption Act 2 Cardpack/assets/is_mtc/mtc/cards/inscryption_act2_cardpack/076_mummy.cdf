@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=076_mummy
+RarityLevel=common
+Name=Mummy
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/076_mummy

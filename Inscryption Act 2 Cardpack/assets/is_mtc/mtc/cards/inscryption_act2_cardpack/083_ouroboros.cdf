@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=083_ouroboros
+RarityLevel=common
+Name=Ouroboros
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/083_ouroboros

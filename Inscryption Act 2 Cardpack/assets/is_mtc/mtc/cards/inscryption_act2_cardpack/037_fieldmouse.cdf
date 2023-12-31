@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=037_fieldmouse
+RarityLevel=common
+Name=Fieldmouse
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/037_fieldmouse

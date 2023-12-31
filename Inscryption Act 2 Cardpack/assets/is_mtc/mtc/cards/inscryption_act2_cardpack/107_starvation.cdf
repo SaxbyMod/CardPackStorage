@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=107_starvation
+RarityLevel=common
+Name=Starvation
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/107_starvation

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=045_gravedigger_fused
+RarityLevel=common
+Name=Gravedigger Fused
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/045_gravedigger_fused

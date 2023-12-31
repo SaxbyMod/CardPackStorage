@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=106_squirrelball
+RarityLevel=common
+Name=Squirrelball
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/106_squirrelball

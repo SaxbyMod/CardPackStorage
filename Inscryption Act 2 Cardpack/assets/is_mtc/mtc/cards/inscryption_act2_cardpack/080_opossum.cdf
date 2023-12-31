@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=080_opossum
+RarityLevel=common
+Name=Opossum
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/080_opossum

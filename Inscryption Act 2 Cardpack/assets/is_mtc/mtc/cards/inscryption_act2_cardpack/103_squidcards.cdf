@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=103_squidcards
+RarityLevel=common
+Name=Squidcards
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/103_squidcards

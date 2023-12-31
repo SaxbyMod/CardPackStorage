@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=093_rubygolem
+RarityLevel=common
+Name=Rubygolem
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/093_rubygolem

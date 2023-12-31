@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=090_revenant
+RarityLevel=common
+Name=Revenant
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/090_revenant

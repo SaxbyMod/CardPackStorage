@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=021_closerbot
+RarityLevel=common
+Name=Closerbot
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/021_closerbot

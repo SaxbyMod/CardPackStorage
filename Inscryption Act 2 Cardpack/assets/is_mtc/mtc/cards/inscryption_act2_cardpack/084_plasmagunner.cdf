@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=084_plasmagunner
+RarityLevel=common
+Name=Plasmagunner
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/084_plasmagunner

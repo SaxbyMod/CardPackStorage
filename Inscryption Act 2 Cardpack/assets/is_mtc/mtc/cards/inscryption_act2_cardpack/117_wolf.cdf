@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=117_wolf
+RarityLevel=common
+Name=Wolf
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/117_wolf

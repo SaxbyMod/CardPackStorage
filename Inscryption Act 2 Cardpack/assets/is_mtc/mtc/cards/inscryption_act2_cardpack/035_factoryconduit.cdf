@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=035_factoryconduit
+RarityLevel=common
+Name=Factoryconduit
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/035_factoryconduit

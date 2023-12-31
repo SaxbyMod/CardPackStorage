@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=059_mantisgod
+RarityLevel=common
+Name=Mantisgod
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/059_mantisgod

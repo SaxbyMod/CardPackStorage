@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=003_attackconduit
+RarityLevel=common
+Name=Attackconduit
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/003_attackconduit

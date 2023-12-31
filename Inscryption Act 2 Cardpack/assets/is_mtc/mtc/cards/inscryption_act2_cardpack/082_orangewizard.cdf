@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=082_orangewizard
+RarityLevel=common
+Name=Orangewizard
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/082_orangewizard

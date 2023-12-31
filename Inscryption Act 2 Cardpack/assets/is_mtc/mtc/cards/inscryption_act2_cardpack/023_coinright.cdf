@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=023_coinright
+RarityLevel=common
+Name=Coinright
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/023_coinright

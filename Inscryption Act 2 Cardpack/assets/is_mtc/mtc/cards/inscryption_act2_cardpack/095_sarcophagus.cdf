@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=095_sarcophagus
+RarityLevel=common
+Name=Sarcophagus
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/095_sarcophagus

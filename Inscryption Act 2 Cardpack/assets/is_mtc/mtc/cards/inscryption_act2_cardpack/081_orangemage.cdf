@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=081_orangemage
+RarityLevel=common
+Name=Orangemage
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/081_orangemage

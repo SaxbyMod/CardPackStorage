@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=071_moxdualob
+RarityLevel=common
+Name=Moxdualob
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/071_moxdualob

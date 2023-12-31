@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=096_sawyer
+RarityLevel=common
+Name=Sawyer
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/096_sawyer

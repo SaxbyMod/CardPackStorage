@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=057_leapbot
+RarityLevel=common
+Name=Leapbot
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/057_leapbot

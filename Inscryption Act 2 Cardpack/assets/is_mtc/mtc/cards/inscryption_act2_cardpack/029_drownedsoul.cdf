@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=029_drownedsoul
+RarityLevel=common
+Name=Drownedsoul
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/029_drownedsoul

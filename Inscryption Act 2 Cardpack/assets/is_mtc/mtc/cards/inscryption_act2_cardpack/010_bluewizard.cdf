@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=010_bluewizard
+RarityLevel=common
+Name=Bluewizard
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/010_bluewizard

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=020_catundead
+RarityLevel=common
+Name=Catundead
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/020_catundead

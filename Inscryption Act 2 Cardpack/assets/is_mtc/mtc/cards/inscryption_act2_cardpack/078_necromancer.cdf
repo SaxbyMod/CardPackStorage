@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=078_necromancer
+RarityLevel=common
+Name=Necromancer
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/078_necromancer

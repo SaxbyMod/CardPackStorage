@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=074_moxsapphire
+RarityLevel=common
+Name=Moxsapphire
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/074_moxsapphire

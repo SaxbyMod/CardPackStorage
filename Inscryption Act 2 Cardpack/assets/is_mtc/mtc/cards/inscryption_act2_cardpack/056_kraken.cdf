@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=056_kraken
+RarityLevel=common
+Name=Kraken
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/056_kraken

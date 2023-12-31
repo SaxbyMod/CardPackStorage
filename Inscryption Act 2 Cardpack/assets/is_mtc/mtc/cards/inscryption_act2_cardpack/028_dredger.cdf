@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=028_dredger
+RarityLevel=common
+Name=Dredger
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/028_dredger

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=105_squirrel
+RarityLevel=common
+Name=Squirrel
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/105_squirrel

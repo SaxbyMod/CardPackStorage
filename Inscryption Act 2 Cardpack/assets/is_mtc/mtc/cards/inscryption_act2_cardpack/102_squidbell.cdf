@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=102_squidbell
+RarityLevel=common
+Name=Squidbell
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/102_squidbell

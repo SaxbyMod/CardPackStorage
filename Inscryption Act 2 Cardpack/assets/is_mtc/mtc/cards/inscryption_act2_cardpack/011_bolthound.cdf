@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=011_bolthound
+RarityLevel=common
+Name=Bolthound
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/011_bolthound

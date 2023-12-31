@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=067_mole
+RarityLevel=common
+Name=Mole
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/067_mole

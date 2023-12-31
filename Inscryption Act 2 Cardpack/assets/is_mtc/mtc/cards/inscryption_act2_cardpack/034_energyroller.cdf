@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=034_energyroller
+RarityLevel=common
+Name=Energyroller
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/034_energyroller

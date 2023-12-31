@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=019_cat
+RarityLevel=common
+Name=Cat
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/019_cat

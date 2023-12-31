@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=042_gemfiend
+RarityLevel=common
+Name=Gemfiend
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/042_gemfiend

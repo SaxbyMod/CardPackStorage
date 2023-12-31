@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=085_practicemage
+RarityLevel=common
+Name=Practicemage
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/085_practicemage

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=033_energyconduit
+RarityLevel=common
+Name=Energyconduit
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/033_energyconduit

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=031_elk
+RarityLevel=common
+Name=Elk
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/031_elk

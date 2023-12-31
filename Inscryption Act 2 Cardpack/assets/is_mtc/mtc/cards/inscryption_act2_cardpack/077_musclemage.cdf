@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=077_musclemage
+RarityLevel=common
+Name=Musclemage
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/077_musclemage

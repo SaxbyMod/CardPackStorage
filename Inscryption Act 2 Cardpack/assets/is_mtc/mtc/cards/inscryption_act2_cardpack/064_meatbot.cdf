@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=064_meatbot
+RarityLevel=common
+Name=Meatbot
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/064_meatbot
