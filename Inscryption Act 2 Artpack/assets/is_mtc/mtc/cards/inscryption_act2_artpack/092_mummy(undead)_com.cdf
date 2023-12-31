@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=092_mummy
+RarityLevel=com
+Name=Mummy
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/092_mummy(undead)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=034_draugr
+RarityLevel=com
+Name=Draugr
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/034_draugr(undead)_com

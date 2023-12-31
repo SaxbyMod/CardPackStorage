@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=098_sentry_spore
+RarityLevel=unc
+Name=Sentry Spore
+Category=Technology
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_cardpack/098_sentry_spore(technology)_unc

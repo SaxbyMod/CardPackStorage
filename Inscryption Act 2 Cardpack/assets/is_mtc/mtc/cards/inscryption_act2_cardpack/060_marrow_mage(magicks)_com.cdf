@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=060_marrow_mage
+RarityLevel=com
+Name=Marrow Mage
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/060_marrow_mage(magicks)_com

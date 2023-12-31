@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=089_sapphire_mox
+RarityLevel=com
+Name=Sapphire Mox
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/089_sapphire(magicks)_mox_com

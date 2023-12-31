@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=136_zombie
+RarityLevel=com
+Name=Zombie
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/136_zombie(undead)_com

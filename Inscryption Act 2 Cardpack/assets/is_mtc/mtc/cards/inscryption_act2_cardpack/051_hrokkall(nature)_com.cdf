@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=051_hrokkall
+RarityLevel=com
+Name=Hrokkall
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/051_hrokkall(nature)_com

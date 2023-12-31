@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=047_geck
+RarityLevel=rare
+Name=Geck
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/047_geck(nature)_rare

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=118_sniper_bot
+RarityLevel=com
+Name=Sniper Bot
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/118_sniper_bot(technology)_com

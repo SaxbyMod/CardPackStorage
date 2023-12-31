@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=087_pupil
-RarityLevel=common
-Name=Pupil
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/087_pupil

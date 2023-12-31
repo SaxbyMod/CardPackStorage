@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=006_banshee
+RarityLevel=com
+Name=Banshee
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/006_banshee(undead)_com

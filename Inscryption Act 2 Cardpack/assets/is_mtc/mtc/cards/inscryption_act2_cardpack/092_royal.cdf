@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=092_royal
-RarityLevel=common
-Name=Royal
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/092_royal

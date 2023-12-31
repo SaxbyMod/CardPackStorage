@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=092_royal_dominguez
+RarityLevel=anc
+Name=Royal Dominguez
+Category=Undead
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/092_royal_dominguez(undead)_anc

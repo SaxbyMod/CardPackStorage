@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=041_spore_mice
+RarityLevel=unc
+Name=Spore Mice
+Category=Nature
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_artpack/041_spore_mice(nature)_unc

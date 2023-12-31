@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=031_pharaos_pets
+RarityLevel=com
+Name=Pharaos Pets
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/031_pharaos_pets(undead)_com

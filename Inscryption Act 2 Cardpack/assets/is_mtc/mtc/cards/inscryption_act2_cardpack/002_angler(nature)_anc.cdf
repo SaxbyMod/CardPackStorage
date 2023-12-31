@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=002_angler
+RarityLevel=anc
+Name=Angler
+Category=Nature
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/002_angler(nature)_anc

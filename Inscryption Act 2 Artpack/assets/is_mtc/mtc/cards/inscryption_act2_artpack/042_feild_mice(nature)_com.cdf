@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=042_feild_mice
+RarityLevel=com
+Name=Feild Mice
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/042_feild_mice(nature)_com

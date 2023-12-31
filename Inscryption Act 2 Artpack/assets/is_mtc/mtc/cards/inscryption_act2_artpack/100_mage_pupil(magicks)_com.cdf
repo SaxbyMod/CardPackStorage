@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=100_mage_pupil
+RarityLevel=com
+Name=Mage Pupil
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/100_mage_pupil(magicks)_com

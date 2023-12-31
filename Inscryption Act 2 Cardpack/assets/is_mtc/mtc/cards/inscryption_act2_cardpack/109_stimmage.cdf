@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=109_stimmage
-RarityLevel=common
-Name=Stimmage
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/109_stimmage

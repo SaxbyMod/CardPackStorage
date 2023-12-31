@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=064_m34tbot
+RarityLevel=com
+Name=M34tbot
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/064_m34tbot(technology)_com

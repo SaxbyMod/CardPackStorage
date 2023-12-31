@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=064_kingfisher
+RarityLevel=unc
+Name=Kingfisher
+Category=Nature
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_artpack/064_kingfisher(nature)_unc

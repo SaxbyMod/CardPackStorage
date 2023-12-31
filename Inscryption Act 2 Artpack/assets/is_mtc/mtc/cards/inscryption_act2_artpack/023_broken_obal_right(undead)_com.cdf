@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=023_broken_obal_right
+RarityLevel=com
+Name=Broken Obal Right
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/023_broken_obal_right(undead)_com

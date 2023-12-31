@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=049_hawk
+RarityLevel=com
+Name=Hawk
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/049_hawk(nature)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=130_tomb_robber
+RarityLevel=rare
+Name=Tomb Robber
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/130_tomb_robber(technology)_rare

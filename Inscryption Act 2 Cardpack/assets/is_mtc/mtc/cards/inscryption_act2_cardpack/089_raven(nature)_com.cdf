@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=089_raven
+RarityLevel=com
+Name=Raven
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/089_raven(nature)_com

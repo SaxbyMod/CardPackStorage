@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=038_fieldmouse_fused
-RarityLevel=common
-Name=Fieldmouse Fused
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/038_fieldmouse_fused

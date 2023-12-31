@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=116_warren
-RarityLevel=common
-Name=Warren
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/116_warren

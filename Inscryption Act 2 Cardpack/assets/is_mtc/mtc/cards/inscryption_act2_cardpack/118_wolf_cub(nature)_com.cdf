@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=118_wolf_cub
+RarityLevel=com
+Name=Wolf Cub
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/118_wolf_cub(nature)_com

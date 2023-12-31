@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=069_mage_knight
+RarityLevel=com
+Name=Mage Knight
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/069_mage_knight(magicks)_com

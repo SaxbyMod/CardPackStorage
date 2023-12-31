@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=014_bonelordhorn
-RarityLevel=common
-Name=Bonelordhorn
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/014_bonelordhorn

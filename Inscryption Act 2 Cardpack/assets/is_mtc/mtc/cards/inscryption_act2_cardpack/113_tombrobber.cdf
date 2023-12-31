@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=113_tombrobber
-RarityLevel=common
-Name=Tombrobber
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/113_tombrobber

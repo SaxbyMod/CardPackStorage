@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=026_deadpets
-RarityLevel=common
-Name=Deadpets
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/026_deadpets

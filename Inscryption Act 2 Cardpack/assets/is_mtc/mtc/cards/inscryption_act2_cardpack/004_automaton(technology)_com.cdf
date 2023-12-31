@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=004_automaton
+RarityLevel=com
+Name=Automaton
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/004_automaton(technology)_com

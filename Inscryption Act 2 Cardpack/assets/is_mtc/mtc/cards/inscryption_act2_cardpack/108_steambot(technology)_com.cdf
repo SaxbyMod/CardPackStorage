@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=108_steambot
+RarityLevel=com
+Name=Steambot
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/108_steambot(technology)_com

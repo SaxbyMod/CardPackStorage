@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=048_gem_feind
+RarityLevel=com
+Name=Gem Feind
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/048_gem_feind(magicks)_com

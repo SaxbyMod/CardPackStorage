@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=016_briar
-RarityLevel=common
-Name=Briar
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/016_briar

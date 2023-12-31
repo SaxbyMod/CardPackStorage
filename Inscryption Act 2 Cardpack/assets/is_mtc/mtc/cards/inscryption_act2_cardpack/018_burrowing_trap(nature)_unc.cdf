@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=018_burrowing_trap
+RarityLevel=unc
+Name=Burrowing Trap
+Category=Nature
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_cardpack/018_burrowing_trap(nature)_unc

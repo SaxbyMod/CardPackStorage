@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=073_moxruby
-RarityLevel=common
-Name=Moxruby
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/073_moxruby

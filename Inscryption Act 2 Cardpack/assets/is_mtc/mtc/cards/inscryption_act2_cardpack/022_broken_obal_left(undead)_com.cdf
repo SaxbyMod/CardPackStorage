@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=022_broken_obal_left
+RarityLevel=com
+Name=Broken Obal Left
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/022_broken_obal_left(undead)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=088_rabbit
+RarityLevel=unc
+Name=Rabbit
+Category=Nature
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_cardpack/088_rabbit(nature)_unc

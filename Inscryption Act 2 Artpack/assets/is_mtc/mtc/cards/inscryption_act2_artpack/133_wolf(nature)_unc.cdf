@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=133_wolf
+RarityLevel=unc
+Name=Wolf
+Category=Nature
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_artpack/133_wolf(nature)_unc

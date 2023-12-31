@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=132_warren
+RarityLevel=com
+Name=Warren
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/132_warren(nature)_com

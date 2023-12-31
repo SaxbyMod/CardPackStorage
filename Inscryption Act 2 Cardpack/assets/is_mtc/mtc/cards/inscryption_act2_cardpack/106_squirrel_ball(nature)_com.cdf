@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=106_squirrel_ball
+RarityLevel=com
+Name=Squirrel Ball
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/106_squirrel_ball(nature)_com

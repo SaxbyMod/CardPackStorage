@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=068_pelt_lice
+RarityLevel=rare
+Name=Pelt Lice
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/068_pelt_lice(nature)_rare

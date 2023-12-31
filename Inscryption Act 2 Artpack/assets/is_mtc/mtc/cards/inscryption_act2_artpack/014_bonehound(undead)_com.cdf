@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=014_bonehound
+RarityLevel=com
+Name=Bonehound
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/014_bonehound(undead)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=067_l33p_bot
+RarityLevel=com
+Name=L33p Bot
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/067_l33p_bot(technology)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=071_mantis_god
+RarityLevel=rare
+Name=Mantis God
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/071_mantis_god(nature)_rare

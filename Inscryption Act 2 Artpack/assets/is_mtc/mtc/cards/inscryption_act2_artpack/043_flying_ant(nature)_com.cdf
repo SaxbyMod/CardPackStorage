@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=043_flying_ant
+RarityLevel=com
+Name=Flying Ant
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/043_flying_ant(nature)_com

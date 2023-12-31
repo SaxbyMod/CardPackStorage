@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=068_mole_man
+RarityLevel=rare
+Name=Mole Man
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/068_mole_man(nature)_rare

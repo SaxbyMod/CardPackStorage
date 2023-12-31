@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=065_melter
+RarityLevel=anc
+Name=Melter
+Category=Technology
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/065_melter(technology)_anc

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=003_alpha
+RarityLevel=com
+Name=Alpha
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/003_alpha(nature)_com

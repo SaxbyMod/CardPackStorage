@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=033_dire_wolf_cub
+RarityLevel=com
+Name=Dire Wolf Cub
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/033_dire_wolf_cub(nature)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=050_headless_horseman
+RarityLevel=rare
+Name=Headless Horseman
+Category=Undead
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/050_headless_horseman(undead)_rare

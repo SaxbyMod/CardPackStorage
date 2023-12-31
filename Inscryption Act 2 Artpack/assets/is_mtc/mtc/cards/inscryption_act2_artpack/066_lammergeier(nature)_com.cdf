@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=066_lammergeier
+RarityLevel=com
+Name=Lammergeier
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/066_lammergeier(nature)_com

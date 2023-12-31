@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=084_bleene_s_mox
+RarityLevel=rare
+Name=Bleene's Mox
+Category=Magicks
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/084_bleene's_mox(magicks)_rare

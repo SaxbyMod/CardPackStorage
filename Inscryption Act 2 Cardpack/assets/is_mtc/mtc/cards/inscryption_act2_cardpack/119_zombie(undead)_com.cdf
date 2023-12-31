@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=119_zombie
+RarityLevel=com
+Name=Zombie
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/119_zombie(undead)_com

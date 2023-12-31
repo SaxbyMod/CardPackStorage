@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=129_thick_droid
+RarityLevel=com
+Name=Thick Droid
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/129_thick_droid(technology)_com

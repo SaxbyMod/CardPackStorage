@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=072_gourmage
+RarityLevel=com
+Name=Gourmage
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/072_gourmage(magicks)_com

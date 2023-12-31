@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=041_frank_n_stein
+RarityLevel=com
+Name=Frank N Stein
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/041_frank_n_stein(undead)_com

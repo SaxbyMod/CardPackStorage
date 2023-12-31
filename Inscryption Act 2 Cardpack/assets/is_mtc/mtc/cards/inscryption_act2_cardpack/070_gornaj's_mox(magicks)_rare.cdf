@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=070_gornaj_s_mox
+RarityLevel=rare
+Name=Gornaj's Mox
+Category=Magicks
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/070_gornaj's_mox(magicks)_rare

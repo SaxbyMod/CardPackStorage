@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=060_hrokkall
+RarityLevel=rare
+Name=Hrokkall
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/060_hrokkall(technology)_rare

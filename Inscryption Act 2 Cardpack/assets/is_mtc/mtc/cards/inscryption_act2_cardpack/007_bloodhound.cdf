@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=007_bloodhound
-RarityLevel=common
-Name=Bloodhound
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/007_bloodhound

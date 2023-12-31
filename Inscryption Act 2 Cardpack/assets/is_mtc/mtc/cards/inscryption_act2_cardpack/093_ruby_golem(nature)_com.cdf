@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=093_ruby_golem
+RarityLevel=com
+Name=Ruby Golem
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/093_ruby_golem(nature)_com

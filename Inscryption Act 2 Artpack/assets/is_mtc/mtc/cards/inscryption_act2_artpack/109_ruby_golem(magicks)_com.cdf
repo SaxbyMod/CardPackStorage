@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=109_ruby_golem
+RarityLevel=com
+Name=Ruby Golem
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/109_ruby_golem(magicks)_com

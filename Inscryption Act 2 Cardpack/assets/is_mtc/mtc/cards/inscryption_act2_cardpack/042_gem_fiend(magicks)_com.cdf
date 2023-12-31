@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=042_gem_fiend
+RarityLevel=com
+Name=Gem Fiend
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/042_gem_fiend(magicks)_com

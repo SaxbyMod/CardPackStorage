@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=052_insectodrone
-RarityLevel=common
-Name=Insectodrone
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/052_insectodrone

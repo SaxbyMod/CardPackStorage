@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=115_skeleton
+RarityLevel=com
+Name=Skeleton
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/115_skeleton(undead)_com

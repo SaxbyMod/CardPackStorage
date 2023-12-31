@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=082_amber
+RarityLevel=anc
+Name=Amber
+Category=Magicks
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/082_amber(magicks)_anc

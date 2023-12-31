@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=030_dead_hand
+RarityLevel=rare
+Name=Dead Hand
+Category=Undead
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/030_dead_hand(undead)_rare

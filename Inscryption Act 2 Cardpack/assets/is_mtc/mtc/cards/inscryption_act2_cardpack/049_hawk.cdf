@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=049_hawk
-RarityLevel=common
-Name=Hawk
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/049_hawk

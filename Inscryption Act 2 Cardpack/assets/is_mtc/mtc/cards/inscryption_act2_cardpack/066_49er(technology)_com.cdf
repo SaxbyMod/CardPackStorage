@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=066_49er
+RarityLevel=com
+Name=49er
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/066_49er(technology)_com

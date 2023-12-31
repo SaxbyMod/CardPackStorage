@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=037_elk_fawn
+RarityLevel=com
+Name=Elk Fawn
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/037_elk_fawn(nature)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=106_revenant
+RarityLevel=com
+Name=Revenant
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/106_revenant(undead)_com

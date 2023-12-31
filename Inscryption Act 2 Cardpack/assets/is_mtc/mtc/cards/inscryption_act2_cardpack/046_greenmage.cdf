@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=046_greenmage
-RarityLevel=common
-Name=Greenmage
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/046_greenmage

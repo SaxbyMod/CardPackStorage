@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=045_sporedigger
+RarityLevel=unc
+Name=Sporedigger
+Category=Undead
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_cardpack/045_sporedigger(undead)_unc

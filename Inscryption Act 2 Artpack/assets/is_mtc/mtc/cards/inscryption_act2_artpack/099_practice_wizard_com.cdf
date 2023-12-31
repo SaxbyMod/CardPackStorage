@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=099_practice_wizard
+RarityLevel=com
+Name=Practice Wizard
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/099_practice_wizard_com

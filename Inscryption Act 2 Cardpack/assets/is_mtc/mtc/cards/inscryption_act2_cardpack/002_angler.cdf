@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=002_angler
-RarityLevel=common
-Name=Angler
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/002_angler

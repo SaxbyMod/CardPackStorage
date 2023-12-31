@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=009_bluemage_fused
-RarityLevel=common
-Name=Bluemage Fused
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/009_bluemage_fused

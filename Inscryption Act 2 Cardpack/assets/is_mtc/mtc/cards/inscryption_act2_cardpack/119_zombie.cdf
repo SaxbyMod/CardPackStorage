@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=119_zombie
-RarityLevel=common
-Name=Zombie
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/119_zombie

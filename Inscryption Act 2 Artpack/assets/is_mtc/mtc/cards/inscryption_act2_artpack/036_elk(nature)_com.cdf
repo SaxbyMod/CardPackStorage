@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=036_elk
+RarityLevel=com
+Name=Elk
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/036_elk(nature)_com

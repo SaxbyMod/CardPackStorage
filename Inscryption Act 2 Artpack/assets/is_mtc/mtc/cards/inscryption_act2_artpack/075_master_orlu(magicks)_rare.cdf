@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=075_master_orlu
+RarityLevel=rare
+Name=Master Orlu
+Category=Magicks
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/075_master_orlu(magicks)_rare

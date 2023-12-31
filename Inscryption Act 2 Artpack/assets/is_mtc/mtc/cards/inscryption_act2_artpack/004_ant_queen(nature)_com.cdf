@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=004_ant_queen
+RarityLevel=com
+Name=Ant Queen
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/004_ant_queen(nature)_com

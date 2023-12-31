@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=114_shutter_bug
+RarityLevel=rare
+Name=Shutter Bug
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/114_shutter_bug(technology)_rare

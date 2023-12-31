@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=043_ghostship
-RarityLevel=common
-Name=Ghostship
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/043_ghostship

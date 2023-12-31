@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=112_thickbot
-RarityLevel=common
-Name=Thickbot
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/112_thickbot

@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=075_moxtriple
-RarityLevel=common
-Name=Moxtriple
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/075_moxtriple

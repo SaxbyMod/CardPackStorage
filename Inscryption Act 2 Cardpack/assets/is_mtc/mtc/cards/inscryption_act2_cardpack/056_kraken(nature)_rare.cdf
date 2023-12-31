@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=056_kraken
+RarityLevel=rare
+Name=Kraken
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/056_kraken(nature)_rare

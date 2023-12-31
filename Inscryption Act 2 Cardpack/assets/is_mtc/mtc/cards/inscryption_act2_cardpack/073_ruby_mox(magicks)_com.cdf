@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=073_ruby_mox
+RarityLevel=com
+Name=Ruby Mox
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/073_ruby_mox(magicks)_com

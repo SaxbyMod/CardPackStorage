@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=001_curve_hopper
+RarityLevel=rare
+Name=Curve Hopper
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/001_curve_hopper(technology)_rare

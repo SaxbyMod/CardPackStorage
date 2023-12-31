@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=091_mud_turtle
+RarityLevel=com
+Name=Mud Turtle
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/091_mud_turtle(nature)_com

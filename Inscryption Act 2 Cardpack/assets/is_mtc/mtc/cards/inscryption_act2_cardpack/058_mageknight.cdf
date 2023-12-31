@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=058_mageknight
-RarityLevel=common
-Name=Mageknight
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/058_mageknight

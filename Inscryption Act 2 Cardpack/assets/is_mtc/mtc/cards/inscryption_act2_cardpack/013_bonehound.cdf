@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=013_bonehound
-RarityLevel=common
-Name=Bonehound
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/013_bonehound

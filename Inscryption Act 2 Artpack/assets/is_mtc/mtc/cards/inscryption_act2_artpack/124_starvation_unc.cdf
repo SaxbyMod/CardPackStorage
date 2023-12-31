@@ -1,10 +1,8 @@
-
 EditionID=inscryption_act2_artpack
 CardID=124_starvation
 RarityLevel=unc
-
 Name=Starvation
 Category=Uncategorized
 DropWeight=5
-
+Description=
 IllustrationPath=inscryption_act2_artpack/124_starvation_unc

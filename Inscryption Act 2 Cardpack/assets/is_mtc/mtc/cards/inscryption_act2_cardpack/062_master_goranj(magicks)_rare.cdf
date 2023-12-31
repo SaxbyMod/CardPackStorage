@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=062_master_goranj
+RarityLevel=rare
+Name=Master Goranj
+Category=Magicks
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/062_master_goranj(magicks)_rare

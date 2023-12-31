@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=016_bone_heap
+RarityLevel=rare
+Name=Bone Heap
+Category=Undead
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/016_bone_heap(undead)_rare

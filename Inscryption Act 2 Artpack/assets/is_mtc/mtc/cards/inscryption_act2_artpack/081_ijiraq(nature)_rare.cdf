@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=081_ijiraq
+RarityLevel=rare
+Name=Ijiraq
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/081_ijiraq(nature)_rare

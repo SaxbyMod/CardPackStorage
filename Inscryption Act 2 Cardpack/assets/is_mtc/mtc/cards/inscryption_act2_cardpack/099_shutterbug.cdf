@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=099_shutterbug
-RarityLevel=common
-Name=Shutterbug
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/099_shutterbug

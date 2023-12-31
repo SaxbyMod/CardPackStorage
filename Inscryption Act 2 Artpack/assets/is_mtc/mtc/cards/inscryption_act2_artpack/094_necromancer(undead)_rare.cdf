@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=094_necromancer
+RarityLevel=rare
+Name=Necromancer
+Category=Undead
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/094_necromancer(undead)_rare

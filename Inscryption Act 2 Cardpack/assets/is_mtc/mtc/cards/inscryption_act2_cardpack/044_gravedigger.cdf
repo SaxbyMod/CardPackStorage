@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=044_gravedigger
-RarityLevel=common
-Name=Gravedigger
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/044_gravedigger

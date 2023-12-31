@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=040_the_walkers
+RarityLevel=com
+Name=The Walkers
+Category=Undead
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/040_the_walkers(undead)_com

@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=048_grizzly
-RarityLevel=common
-Name=Grizzly
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/048_grizzly

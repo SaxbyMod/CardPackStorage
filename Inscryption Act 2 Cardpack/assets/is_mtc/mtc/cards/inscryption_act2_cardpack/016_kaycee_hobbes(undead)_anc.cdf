@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=016_kaycee_hobbes
+RarityLevel=anc
+Name=Kaycee Hobbes
+Category=Undead
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/016_kaycee_hobbes(undead)_anc

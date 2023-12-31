@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=021_double_gunner
+RarityLevel=com
+Name=Double Gunner
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/021_double_gunner(technology)_com

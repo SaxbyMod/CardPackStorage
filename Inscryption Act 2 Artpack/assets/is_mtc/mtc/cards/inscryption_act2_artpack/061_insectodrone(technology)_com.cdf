@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=061_insectodrone
+RarityLevel=com
+Name=Insectodrone
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/061_insectodrone(technology)_com

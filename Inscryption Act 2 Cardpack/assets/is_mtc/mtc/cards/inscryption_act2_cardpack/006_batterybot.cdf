@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=006_batterybot
-RarityLevel=common
-Name=Batterybot
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/006_batterybot

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=027_buff_conduit
+RarityLevel=com
+Name=Buff Conduit
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/027_buff_conduit(technology)_com

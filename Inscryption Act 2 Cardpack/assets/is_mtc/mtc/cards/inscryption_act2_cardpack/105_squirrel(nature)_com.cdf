@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=105_squirrel
+RarityLevel=com
+Name=Squirrel
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/105_squirrel(nature)_com

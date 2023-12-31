@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=048_grizzly
+RarityLevel=com
+Name=Grizzly
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/048_grizzly(nature)_com

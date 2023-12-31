@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=039_hover_mage
+RarityLevel=com
+Name=Hover Mage
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/039_hover_mage(magicks)_com

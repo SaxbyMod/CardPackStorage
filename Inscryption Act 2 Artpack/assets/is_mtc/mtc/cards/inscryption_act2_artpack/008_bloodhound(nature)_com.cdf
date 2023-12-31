@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=008_bloodhound
+RarityLevel=com
+Name=Bloodhound
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/008_bloodhound(nature)_com

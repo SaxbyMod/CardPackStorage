@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=006_energy_bot
+RarityLevel=com
+Name=Energy Bot
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/006_energy_bot(technology)_com

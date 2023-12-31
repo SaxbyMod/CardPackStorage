@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=066_minecart
-RarityLevel=common
-Name=Minecart
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/066_minecart

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=009_spore_mage
+RarityLevel=unc
+Name=Spore Mage
+Category=Magicks
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_cardpack/009_spore_mage(magicks)_unc

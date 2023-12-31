@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=079_null_conduit
+RarityLevel=com
+Name=Null Conduit
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/079_null_conduit(technology)_com

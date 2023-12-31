@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=017_bull
+RarityLevel=com
+Name=Bull
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/017_bull(nature)_com

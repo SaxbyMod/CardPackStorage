@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=070_moxdualgo
-RarityLevel=common
-Name=Moxdualgo
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/070_moxdualgo

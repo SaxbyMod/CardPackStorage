@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=084_plasma_gunner
+RarityLevel=rare
+Name=Plasma Gunner
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/084_plasma_gunner(technology)_rare

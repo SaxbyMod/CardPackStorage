@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=097_orange_mage
+RarityLevel=com
+Name=Orange Mage
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/097_orange_mage(magicks)_com

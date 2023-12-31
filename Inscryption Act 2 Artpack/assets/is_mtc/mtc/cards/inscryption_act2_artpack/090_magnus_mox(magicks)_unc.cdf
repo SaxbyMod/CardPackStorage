@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=090_magnus_mox
+RarityLevel=unc
+Name=Magnus Mox
+Category=Magicks
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_artpack/090_magnus_mox(magicks)_unc

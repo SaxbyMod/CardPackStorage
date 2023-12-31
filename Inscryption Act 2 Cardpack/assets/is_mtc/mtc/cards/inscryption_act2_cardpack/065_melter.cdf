@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=065_melter
-RarityLevel=common
-Name=Melter
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/065_melter

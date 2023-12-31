@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=083_ouroboros
+RarityLevel=rare
+Name=Ouroboros
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/083_ouroboros(nature)_rare

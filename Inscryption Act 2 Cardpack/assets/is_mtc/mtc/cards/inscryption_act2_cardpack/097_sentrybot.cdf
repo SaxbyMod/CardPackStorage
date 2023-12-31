@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=097_sentrybot
-RarityLevel=common
-Name=Sentrybot
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/097_sentrybot

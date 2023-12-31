@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=051_hrokkall
-RarityLevel=common
-Name=Hrokkall
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/051_hrokkall

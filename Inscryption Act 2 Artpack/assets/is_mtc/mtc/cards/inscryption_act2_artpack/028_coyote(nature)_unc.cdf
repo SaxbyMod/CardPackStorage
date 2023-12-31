@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=028_coyote
+RarityLevel=unc
+Name=Coyote
+Category=Nature
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_artpack/028_coyote(nature)_unc

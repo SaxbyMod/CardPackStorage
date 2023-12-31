@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=039_flyingmage
-RarityLevel=common
-Name=Flyingmage
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/039_flyingmage

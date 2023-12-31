@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=082_moleman
+RarityLevel=rare
+Name=Moleman
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/082_moleman(nature)_rare

@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=032_elkcub
-RarityLevel=common
-Name=Elkcub
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/032_elkcub

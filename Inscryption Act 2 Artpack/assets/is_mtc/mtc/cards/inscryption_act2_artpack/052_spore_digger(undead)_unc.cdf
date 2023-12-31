@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=052_spore_digger
+RarityLevel=unc
+Name=Spore Digger
+Category=Undead
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_artpack/052_spore_digger(undead)_unc

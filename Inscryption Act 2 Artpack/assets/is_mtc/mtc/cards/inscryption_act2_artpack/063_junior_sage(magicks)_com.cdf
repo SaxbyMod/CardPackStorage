@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=063_junior_sage
+RarityLevel=com
+Name=Junior Sage
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/063_junior_sage(magicks)_com

@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=110_stoat
-RarityLevel=common
-Name=Stoat
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/110_stoat

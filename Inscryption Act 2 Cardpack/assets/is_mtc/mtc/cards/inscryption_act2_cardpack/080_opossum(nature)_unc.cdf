@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=080_opossum
+RarityLevel=unc
+Name=Opossum
+Category=Nature
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_cardpack/080_opossum(nature)_unc

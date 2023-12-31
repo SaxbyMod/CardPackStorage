@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=118_wolfcub
-RarityLevel=common
-Name=Wolfcub
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/118_wolfcub

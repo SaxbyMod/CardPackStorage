@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=013_mrs
+RarityLevel=rare
+Name=Mrs
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/013_mrs._bomb(technology)_rare

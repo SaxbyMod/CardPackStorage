@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=022_coinleft
-RarityLevel=common
-Name=Coinleft
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/022_coinleft

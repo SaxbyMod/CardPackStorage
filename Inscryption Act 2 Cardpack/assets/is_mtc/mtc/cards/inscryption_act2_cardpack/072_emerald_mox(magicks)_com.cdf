@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=072_emerald_mox
+RarityLevel=com
+Name=Emerald Mox
+Category=Magicks
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/072_emerald_mox(magicks)_com

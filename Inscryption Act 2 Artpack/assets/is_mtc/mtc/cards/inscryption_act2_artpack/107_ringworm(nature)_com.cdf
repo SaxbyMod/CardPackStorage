@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=107_ringworm
+RarityLevel=com
+Name=Ringworm
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/107_ringworm(nature)_com

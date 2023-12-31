@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=019_cat
+RarityLevel=com
+Name=Cat
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/019_cat(nature)_com

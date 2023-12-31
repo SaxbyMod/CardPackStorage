@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=096_sawyer
+RarityLevel=anc
+Name=Sawyer
+Category=Undead
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/096_sawyer(undead)_anc

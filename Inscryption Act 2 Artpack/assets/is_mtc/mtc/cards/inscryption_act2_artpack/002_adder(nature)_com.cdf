@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=002_adder
+RarityLevel=com
+Name=Adder
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/002_adder(nature)_com

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=110_stoat
+RarityLevel=com
+Name=Stoat
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/110_stoat(nature)_com

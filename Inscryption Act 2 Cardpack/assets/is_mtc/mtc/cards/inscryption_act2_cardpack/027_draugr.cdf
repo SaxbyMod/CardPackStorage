@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=027_draugr
-RarityLevel=common
-Name=Draugr
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/027_draugr

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=014_bone_lords_horn
+RarityLevel=unc
+Name=Bone Lords Horn
+Category=Undead
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_cardpack/014_bone_lords_horn(undead)_unc

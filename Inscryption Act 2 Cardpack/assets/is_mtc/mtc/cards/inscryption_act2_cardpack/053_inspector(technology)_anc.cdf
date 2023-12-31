@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=053_inspector
+RarityLevel=anc
+Name=Inspector
+Category=Technology
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/053_inspector(technology)_anc

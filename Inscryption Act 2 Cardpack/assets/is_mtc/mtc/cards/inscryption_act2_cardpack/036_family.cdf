@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=036_family
-RarityLevel=common
-Name=Family
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/036_family

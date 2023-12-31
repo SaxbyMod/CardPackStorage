@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=080_mole
+RarityLevel=com
+Name=Mole
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/080_mole(nature)_com

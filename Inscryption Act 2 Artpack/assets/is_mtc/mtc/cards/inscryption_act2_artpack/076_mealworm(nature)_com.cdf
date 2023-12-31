@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=076_mealworm
+RarityLevel=com
+Name=Mealworm
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/076_mealworm(nature)_com

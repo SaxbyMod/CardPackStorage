@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=054_juniorsage
-RarityLevel=common
-Name=Juniorsage
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/054_juniorsage

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=135_wolverine
+RarityLevel=com
+Name=Wolverine
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/135_wolverine(nature)_com

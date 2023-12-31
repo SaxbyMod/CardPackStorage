@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=030_training_dummy
+RarityLevel=anc
+Name=Training Dummy
+Category=Magicks
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/030_training_dummy(magicks)_anc

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=009_blue_sporemage
+RarityLevel=unc
+Name=Blue Sporemage
+Category=Magicks
+DropWeight=5
+Description=
+IllustrationPath=inscryption_act2_artpack/009_blue_sporemage(magicks)_unc

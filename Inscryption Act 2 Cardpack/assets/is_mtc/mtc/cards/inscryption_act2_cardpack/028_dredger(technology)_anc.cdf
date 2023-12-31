@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=028_dredger
+RarityLevel=anc
+Name=Dredger
+Category=Technology
+DropWeight=2
+Description=
+IllustrationPath=inscryption_act2_cardpack/028_dredger(technology)_anc

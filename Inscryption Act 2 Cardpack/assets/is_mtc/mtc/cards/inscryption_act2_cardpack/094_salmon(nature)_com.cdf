@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=094_salmon
+RarityLevel=com
+Name=Salmon
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/094_salmon(nature)_com

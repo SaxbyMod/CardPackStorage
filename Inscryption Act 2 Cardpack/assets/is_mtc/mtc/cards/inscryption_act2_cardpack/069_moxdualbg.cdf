@@ -1,8 +1,0 @@
-EditionID=inscryption_act2_cardpack
-CardID=069_moxdualbg
-RarityLevel=common
-Name=Moxdualbg
-Category=Uncategorized
-DropWeight=10
-Description=
-IllustrationPath=inscryption_act2_cardpack/069_moxdualbg

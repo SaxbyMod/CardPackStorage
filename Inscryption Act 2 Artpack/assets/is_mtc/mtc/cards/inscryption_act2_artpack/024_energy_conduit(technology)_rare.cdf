@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=024_energy_conduit
+RarityLevel=rare
+Name=Energy Conduit
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/024_energy_conduit(technology)_rare

@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=034_gamblobot
+RarityLevel=com
+Name=Gamblobot
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/034_gamblobot(technology)_com

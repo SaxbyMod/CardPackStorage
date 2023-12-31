@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=097_sentry
+RarityLevel=com
+Name=Sentry
+Category=Technology
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_cardpack/097_sentry(technology)_com

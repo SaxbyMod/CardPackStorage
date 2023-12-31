@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=131_urayuli
+RarityLevel=rare
+Name=Urayuli
+Category=Nature
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_artpack/131_urayuli(nature)_rare

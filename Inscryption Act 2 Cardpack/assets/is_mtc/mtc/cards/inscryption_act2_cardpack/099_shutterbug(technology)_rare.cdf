@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_cardpack
+CardID=099_shutterbug
+RarityLevel=rare
+Name=Shutterbug
+Category=Technology
+DropWeight=3
+Description=
+IllustrationPath=inscryption_act2_cardpack/099_shutterbug(technology)_rare

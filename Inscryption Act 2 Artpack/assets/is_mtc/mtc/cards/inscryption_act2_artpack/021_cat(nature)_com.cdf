@@ -1,0 +1,8 @@
+EditionID=inscryption_act2_artpack
+CardID=021_cat
+RarityLevel=com
+Name=Cat
+Category=Nature
+DropWeight=10
+Description=
+IllustrationPath=inscryption_act2_artpack/021_cat(nature)_com
