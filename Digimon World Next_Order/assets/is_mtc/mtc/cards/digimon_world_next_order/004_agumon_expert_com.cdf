@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=004_agumon_expert
+RarityLevel=com
+Name=Agumon Expert
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/004_agumon_expert_com

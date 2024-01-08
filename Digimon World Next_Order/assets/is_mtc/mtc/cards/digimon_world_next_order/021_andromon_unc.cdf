@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=021_andromon
+RarityLevel=unc
+Name=Andromon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/021_andromon_unc

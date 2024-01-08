@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=400_redvegiemon
+RarityLevel=com
+Name=Redvegiemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/400_redvegiemon_com

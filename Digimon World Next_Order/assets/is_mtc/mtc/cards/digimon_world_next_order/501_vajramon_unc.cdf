@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=501_vajramon
+RarityLevel=unc
+Name=Vajramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/501_vajramon_unc

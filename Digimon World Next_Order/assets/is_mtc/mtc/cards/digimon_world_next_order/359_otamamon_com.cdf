@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=359_otamamon
+RarityLevel=com
+Name=Otamamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/359_otamamon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=210_hyogamon
+RarityLevel=com
+Name=Hyogamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/210_hyogamon_com

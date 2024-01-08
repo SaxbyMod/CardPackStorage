@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=422_scorpiomon
+RarityLevel=unc
+Name=Scorpiomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/422_scorpiomon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=173_ghoulmon
+RarityLevel=rare
+Name=Ghoulmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/173_ghoulmon_rare

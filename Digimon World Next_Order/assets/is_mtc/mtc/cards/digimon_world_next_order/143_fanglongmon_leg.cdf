@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=143_fanglongmon
+RarityLevel=leg
+Name=Fanglongmon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/143_fanglongmon_leg

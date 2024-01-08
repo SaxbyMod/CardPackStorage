@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=500_vademon
+RarityLevel=unc
+Name=Vademon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/500_vademon_unc

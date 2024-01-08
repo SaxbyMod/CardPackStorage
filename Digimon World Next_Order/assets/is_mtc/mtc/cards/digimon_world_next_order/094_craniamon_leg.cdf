@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=094_craniamon
+RarityLevel=leg
+Name=Craniamon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/094_craniamon_leg

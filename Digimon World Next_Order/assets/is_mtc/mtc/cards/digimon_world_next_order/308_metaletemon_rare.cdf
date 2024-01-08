@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=308_metaletemon
+RarityLevel=rare
+Name=Metaletemon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/308_metaletemon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=022_angemon
+RarityLevel=com
+Name=Angemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/022_angemon_com

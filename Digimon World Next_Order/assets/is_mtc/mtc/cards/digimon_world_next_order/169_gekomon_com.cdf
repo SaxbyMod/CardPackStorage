@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=169_gekomon
+RarityLevel=com
+Name=Gekomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/169_gekomon_com

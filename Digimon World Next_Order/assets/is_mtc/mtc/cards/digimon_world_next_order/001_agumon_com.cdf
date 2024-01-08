@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=001_agumon
+RarityLevel=com
+Name=Agumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/001_agumon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=292_mammothmon
+RarityLevel=unc
+Name=Mammothmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/292_mammothmon_unc

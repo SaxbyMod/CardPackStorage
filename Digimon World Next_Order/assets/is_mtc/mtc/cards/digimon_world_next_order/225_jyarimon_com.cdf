@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=225_jyarimon
+RarityLevel=com
+Name=Jyarimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/225_jyarimon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=239_kingchessmon
+RarityLevel=rare
+Name=Kingchessmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/239_kingchessmon_rare

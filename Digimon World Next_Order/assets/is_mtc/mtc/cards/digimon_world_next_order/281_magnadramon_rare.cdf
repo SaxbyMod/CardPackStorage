@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=281_magnadramon
+RarityLevel=rare
+Name=Magnadramon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/281_magnadramon_rare

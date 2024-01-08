@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=356_ophanimon
+RarityLevel=anc
+Name=Ophanimon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/356_ophanimon_anc

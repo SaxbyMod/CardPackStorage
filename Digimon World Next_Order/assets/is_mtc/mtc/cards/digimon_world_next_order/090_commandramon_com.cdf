@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=090_commandramon
+RarityLevel=com
+Name=Commandramon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/090_commandramon_com

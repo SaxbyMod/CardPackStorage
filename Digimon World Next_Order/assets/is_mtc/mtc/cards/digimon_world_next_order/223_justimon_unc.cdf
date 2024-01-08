@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=223_justimon
+RarityLevel=unc
+Name=Justimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/223_justimon_unc

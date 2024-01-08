@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=344_numemon
+RarityLevel=com
+Name=Numemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/344_numemon_com

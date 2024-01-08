@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=243_kokatorimon
+RarityLevel=com
+Name=Kokatorimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/243_kokatorimon_com

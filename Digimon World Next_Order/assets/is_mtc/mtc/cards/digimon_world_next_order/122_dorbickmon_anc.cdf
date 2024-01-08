@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=122_dorbickmon
+RarityLevel=anc
+Name=Dorbickmon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/122_dorbickmon_anc

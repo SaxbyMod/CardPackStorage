@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=057_bladekuwagamon
+RarityLevel=com
+Name=Bladekuwagamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/057_bladekuwagamon_com

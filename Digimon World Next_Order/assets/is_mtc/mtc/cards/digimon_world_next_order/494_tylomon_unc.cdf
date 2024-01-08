@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=494_tylomon
+RarityLevel=unc
+Name=Tylomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/494_tylomon_unc

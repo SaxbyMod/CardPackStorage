@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=347_ogremon
+RarityLevel=com
+Name=Ogremon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/347_ogremon_com

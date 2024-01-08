@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=345_nyaromon
+RarityLevel=com
+Name=Nyaromon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/345_nyaromon_com

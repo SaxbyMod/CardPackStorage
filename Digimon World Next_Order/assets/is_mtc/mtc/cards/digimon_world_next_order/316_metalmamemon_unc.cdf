@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=316_metalmamemon
+RarityLevel=unc
+Name=Metalmamemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/316_metalmamemon_unc

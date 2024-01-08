@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=114_diaboromon
+RarityLevel=leg
+Name=Diaboromon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/114_diaboromon_leg

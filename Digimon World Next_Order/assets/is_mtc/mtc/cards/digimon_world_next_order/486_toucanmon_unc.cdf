@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=486_toucanmon
+RarityLevel=unc
+Name=Toucanmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/486_toucanmon_unc

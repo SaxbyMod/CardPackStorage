@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=071_catchmamemon
+RarityLevel=unc
+Name=Catchmamemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/071_catchmamemon_unc

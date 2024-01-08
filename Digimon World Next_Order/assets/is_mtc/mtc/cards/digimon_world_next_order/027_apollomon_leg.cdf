@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=027_apollomon
+RarityLevel=leg
+Name=Apollomon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/027_apollomon_leg

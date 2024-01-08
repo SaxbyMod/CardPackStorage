@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=488_triceramon
+RarityLevel=unc
+Name=Triceramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/488_triceramon_unc

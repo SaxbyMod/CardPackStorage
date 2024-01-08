@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=241_knightchessmon_black
+RarityLevel=com
+Name=Knightchessmon Black
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/241_knightchessmon_black_com

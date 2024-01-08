@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=413_ryudamon
+RarityLevel=com
+Name=Ryudamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/413_ryudamon_com

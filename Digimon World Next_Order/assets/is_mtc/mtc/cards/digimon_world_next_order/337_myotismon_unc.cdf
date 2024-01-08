@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=337_myotismon
+RarityLevel=unc
+Name=Myotismon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/337_myotismon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=079_charmeleonmon
+RarityLevel=unc
+Name=Charmeleonmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/079_charmeleonmon_unc

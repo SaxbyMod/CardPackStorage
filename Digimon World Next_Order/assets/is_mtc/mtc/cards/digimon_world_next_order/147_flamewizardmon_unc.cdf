@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=147_flamewizardmon
+RarityLevel=unc
+Name=Flamewizardmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/147_flamewizardmon_unc

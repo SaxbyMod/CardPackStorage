@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=324_minomon
+RarityLevel=com
+Name=Minomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/324_minomon_com

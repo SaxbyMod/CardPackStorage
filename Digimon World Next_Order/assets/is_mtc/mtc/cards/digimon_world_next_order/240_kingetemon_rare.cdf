@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=240_kingetemon
+RarityLevel=rare
+Name=Kingetemon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/240_kingetemon_rare

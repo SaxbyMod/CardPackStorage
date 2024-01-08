@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=417_salamandermon
+RarityLevel=unc
+Name=Salamandermon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/417_salamandermon_unc

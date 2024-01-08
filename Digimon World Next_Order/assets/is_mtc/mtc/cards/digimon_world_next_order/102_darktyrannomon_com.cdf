@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=102_darktyrannomon
+RarityLevel=com
+Name=Darktyrannomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/102_darktyrannomon_com

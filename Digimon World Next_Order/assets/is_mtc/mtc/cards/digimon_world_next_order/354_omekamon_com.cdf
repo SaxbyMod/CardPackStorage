@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=354_omekamon
+RarityLevel=com
+Name=Omekamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/354_omekamon_com

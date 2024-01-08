@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=034_aurumon
+RarityLevel=unc
+Name=Aurumon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/034_aurumon_unc

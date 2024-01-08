@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=305_meramon
+RarityLevel=com
+Name=Meramon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/305_meramon_com

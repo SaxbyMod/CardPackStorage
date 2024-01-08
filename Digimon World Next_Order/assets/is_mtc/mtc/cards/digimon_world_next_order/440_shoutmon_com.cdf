@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=440_shoutmon
+RarityLevel=com
+Name=Shoutmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/440_shoutmon_com

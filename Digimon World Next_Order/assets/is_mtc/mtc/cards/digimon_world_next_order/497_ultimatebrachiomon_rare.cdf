@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=497_ultimatebrachiomon
+RarityLevel=rare
+Name=Ultimatebrachiomon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/497_ultimatebrachiomon_rare

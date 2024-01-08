@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=181_goblimon
+RarityLevel=com
+Name=Goblimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/181_goblimon_com

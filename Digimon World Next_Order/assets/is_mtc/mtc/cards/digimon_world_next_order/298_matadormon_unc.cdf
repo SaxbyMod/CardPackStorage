@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=298_matadormon
+RarityLevel=unc
+Name=Matadormon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/298_matadormon_unc

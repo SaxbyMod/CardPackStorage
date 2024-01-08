@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=320_meteormon
+RarityLevel=unc
+Name=Meteormon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/320_meteormon_unc

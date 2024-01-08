@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=291_mametyramon
+RarityLevel=unc
+Name=Mametyramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/291_mametyramon_unc

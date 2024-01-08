@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=220_jesmon
+RarityLevel=leg
+Name=Jesmon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/220_jesmon_leg

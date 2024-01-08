@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=026_apocalymon
+RarityLevel=anc
+Name=Apocalymon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/026_apocalymon_anc

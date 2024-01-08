@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=202_hagurumon
+RarityLevel=com
+Name=Hagurumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/202_hagurumon_com

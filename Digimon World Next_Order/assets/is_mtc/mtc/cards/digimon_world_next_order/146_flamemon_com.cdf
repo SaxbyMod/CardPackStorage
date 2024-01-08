@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=146_flamemon
+RarityLevel=com
+Name=Flamemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/146_flamemon_com

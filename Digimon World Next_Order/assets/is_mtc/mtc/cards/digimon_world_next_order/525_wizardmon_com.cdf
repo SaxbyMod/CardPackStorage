@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=525_wizardmon
+RarityLevel=com
+Name=Wizardmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/525_wizardmon_com

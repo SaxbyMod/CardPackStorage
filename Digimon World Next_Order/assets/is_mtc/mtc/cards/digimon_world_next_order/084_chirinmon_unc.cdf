@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=084_chirinmon
+RarityLevel=unc
+Name=Chirinmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/084_chirinmon_unc

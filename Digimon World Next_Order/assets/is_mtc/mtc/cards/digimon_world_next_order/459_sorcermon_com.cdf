@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=459_sorcermon
+RarityLevel=com
+Name=Sorcermon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/459_sorcermon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=200_gururumon
+RarityLevel=com
+Name=Gururumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/200_gururumon_com

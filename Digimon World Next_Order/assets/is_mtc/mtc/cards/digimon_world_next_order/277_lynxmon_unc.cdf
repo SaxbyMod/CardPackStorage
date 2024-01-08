@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=277_lynxmon
+RarityLevel=unc
+Name=Lynxmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/277_lynxmon_unc

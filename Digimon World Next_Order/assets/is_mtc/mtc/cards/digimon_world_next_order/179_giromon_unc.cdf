@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=179_giromon
+RarityLevel=unc
+Name=Giromon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/179_giromon_unc

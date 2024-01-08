@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=061_botamon
+RarityLevel=com
+Name=Botamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/061_botamon_com

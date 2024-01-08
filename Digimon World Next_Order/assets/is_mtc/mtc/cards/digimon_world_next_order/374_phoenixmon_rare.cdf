@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=374_phoenixmon
+RarityLevel=rare
+Name=Phoenixmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/374_phoenixmon_rare

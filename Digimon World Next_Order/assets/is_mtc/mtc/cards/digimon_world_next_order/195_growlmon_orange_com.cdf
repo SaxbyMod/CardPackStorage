@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=195_growlmon_orange
+RarityLevel=com
+Name=Growlmon Orange
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/195_growlmon_orange_com

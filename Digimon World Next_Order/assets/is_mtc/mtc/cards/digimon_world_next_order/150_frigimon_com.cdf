@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=150_frigimon
+RarityLevel=com
+Name=Frigimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/150_frigimon_com

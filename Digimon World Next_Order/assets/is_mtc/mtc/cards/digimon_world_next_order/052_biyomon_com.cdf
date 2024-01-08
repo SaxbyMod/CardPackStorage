@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=052_biyomon
+RarityLevel=com
+Name=Biyomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/052_biyomon_com

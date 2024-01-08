@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=435_sheepmon
+RarityLevel=unc
+Name=Sheepmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/435_sheepmon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=465_submarimon
+RarityLevel=unc
+Name=Submarimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/465_submarimon_unc

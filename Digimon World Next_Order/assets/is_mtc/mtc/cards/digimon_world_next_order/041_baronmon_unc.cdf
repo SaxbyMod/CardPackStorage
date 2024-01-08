@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=041_baronmon
+RarityLevel=unc
+Name=Baronmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/041_baronmon_unc

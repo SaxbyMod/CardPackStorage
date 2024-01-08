@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=154_gabumon_black
+RarityLevel=com
+Name=Gabumon Black
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/154_gabumon_black_com

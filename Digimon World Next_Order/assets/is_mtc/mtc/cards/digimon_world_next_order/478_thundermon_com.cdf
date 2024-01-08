@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=478_thundermon
+RarityLevel=com
+Name=Thundermon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/478_thundermon_com

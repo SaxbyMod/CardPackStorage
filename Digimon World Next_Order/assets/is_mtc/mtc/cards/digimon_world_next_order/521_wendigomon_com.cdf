@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=521_wendigomon
+RarityLevel=com
+Name=Wendigomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/521_wendigomon_com

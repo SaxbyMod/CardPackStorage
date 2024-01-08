@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=401_relemon
+RarityLevel=com
+Name=Relemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/401_relemon_com

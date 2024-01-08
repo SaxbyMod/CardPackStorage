@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=397_raptordramon
+RarityLevel=com
+Name=Raptordramon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/397_raptordramon_com

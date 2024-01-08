@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=167_gawappamon
+RarityLevel=com
+Name=Gawappamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/167_gawappamon_com

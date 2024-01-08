@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=157_gankoomon
+RarityLevel=leg
+Name=Gankoomon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/157_gankoomon_leg

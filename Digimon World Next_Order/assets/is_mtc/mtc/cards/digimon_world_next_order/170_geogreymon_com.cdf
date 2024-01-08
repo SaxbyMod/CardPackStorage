@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=170_geogreymon
+RarityLevel=com
+Name=Geogreymon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/170_geogreymon_com

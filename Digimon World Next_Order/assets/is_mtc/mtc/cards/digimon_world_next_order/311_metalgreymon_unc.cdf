@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=311_metalgreymon
+RarityLevel=unc
+Name=Metalgreymon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/311_metalgreymon_unc

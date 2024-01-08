@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=339_nefertimon
+RarityLevel=unc
+Name=Nefertimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/339_nefertimon_unc

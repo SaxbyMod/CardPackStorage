@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=419_samudramon
+RarityLevel=rare
+Name=Samudramon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/419_samudramon_rare

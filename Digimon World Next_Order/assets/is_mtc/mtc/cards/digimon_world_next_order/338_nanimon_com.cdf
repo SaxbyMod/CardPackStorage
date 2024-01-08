@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=338_nanimon
+RarityLevel=com
+Name=Nanimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/338_nanimon_com

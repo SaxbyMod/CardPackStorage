@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=372_penguinmon
+RarityLevel=com
+Name=Penguinmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/372_penguinmon_com

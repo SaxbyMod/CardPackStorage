@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=199_gummymon
+RarityLevel=com
+Name=Gummymon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/199_gummymon_com

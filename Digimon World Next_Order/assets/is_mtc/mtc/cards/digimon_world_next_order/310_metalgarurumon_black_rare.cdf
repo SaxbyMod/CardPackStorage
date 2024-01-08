@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=310_metalgarurumon_black
+RarityLevel=rare
+Name=Metalgarurumon Black
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/310_metalgarurumon_black_rare

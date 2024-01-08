@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=333_moosemon
+RarityLevel=unc
+Name=Moosemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/333_moosemon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=019_ancientvolcanomon
+RarityLevel=anc
+Name=Ancientvolcanomon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/019_ancientvolcanomon_anc

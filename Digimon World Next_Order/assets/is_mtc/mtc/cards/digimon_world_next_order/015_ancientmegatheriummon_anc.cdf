@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=015_ancientmegatheriummon
+RarityLevel=anc
+Name=Ancientmegatheriummon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/015_ancientmegatheriummon_anc

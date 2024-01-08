@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=444_shoutmon_x4
+RarityLevel=unc
+Name=Shoutmon X4
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/444_shoutmon_x4_unc

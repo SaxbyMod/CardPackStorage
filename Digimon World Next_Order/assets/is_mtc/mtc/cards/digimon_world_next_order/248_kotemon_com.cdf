@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=248_kotemon
+RarityLevel=com
+Name=Kotemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/248_kotemon_com

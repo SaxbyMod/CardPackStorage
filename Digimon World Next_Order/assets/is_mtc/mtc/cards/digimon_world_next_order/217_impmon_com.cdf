@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=217_impmon
+RarityLevel=com
+Name=Impmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/217_impmon_com

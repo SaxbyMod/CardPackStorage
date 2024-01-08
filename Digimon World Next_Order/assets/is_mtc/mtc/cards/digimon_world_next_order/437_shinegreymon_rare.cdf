@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=437_shinegreymon
+RarityLevel=rare
+Name=Shinegreymon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/437_shinegreymon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=416_sakuyamon
+RarityLevel=rare
+Name=Sakuyamon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/416_sakuyamon_rare

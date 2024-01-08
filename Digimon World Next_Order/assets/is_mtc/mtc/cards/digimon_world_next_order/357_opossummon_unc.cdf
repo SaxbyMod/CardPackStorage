@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=357_opossummon
+RarityLevel=unc
+Name=Opossummon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/357_opossummon_unc

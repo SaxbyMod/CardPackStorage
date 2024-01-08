@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=462_stegomon
+RarityLevel=unc
+Name=Stegomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/462_stegomon_unc

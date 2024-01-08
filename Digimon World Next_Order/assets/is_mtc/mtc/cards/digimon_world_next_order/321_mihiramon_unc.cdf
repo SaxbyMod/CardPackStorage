@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=321_mihiramon
+RarityLevel=unc
+Name=Mihiramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/321_mihiramon_unc

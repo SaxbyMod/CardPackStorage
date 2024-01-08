@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=168_gazimon
+RarityLevel=com
+Name=Gazimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/168_gazimon_com

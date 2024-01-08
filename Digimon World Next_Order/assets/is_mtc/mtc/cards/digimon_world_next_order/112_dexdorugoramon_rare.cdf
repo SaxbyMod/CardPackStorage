@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=112_dexdorugoramon
+RarityLevel=rare
+Name=Dexdorugoramon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/112_dexdorugoramon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=043_beelzemon_blast_mode
+RarityLevel=leg
+Name=Beelzemon Blast Mode
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/043_beelzemon_blast_mode_leg

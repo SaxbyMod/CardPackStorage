@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=037_baihumon
+RarityLevel=anc
+Name=Baihumon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/037_baihumon_anc

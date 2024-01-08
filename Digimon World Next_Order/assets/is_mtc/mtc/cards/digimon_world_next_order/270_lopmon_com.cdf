@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=270_lopmon
+RarityLevel=com
+Name=Lopmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/270_lopmon_com

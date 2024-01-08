@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=464_strabimon
+RarityLevel=com
+Name=Strabimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/464_strabimon_com

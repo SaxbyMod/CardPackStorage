@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=399_ravemon_burst_mode
+RarityLevel=rare
+Name=Ravemon Burst Mode
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/399_ravemon_burst_mode_rare

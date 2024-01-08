@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=313_metalkabuterimon
+RarityLevel=unc
+Name=Metalkabuterimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/313_metalkabuterimon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=234_kenkimon
+RarityLevel=unc
+Name=Kenkimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/234_kenkimon_unc

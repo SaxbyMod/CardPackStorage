@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=166_gatomon
+RarityLevel=com
+Name=Gatomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/166_gatomon_com

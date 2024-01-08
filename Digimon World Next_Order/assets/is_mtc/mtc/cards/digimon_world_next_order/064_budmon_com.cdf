@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=064_budmon
+RarityLevel=com
+Name=Budmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/064_budmon_com

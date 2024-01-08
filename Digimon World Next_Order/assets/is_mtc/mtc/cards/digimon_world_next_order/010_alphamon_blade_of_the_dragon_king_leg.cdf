@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=010_alphamon_blade_of_the_dragon_king
+RarityLevel=leg
+Name=Alphamon Blade Of The Dragon King
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/010_alphamon_blade_of_the_dragon_king_leg

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=174_gigadramon
+RarityLevel=unc
+Name=Gigadramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/174_gigadramon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=124_dorugoramon
+RarityLevel=rare
+Name=Dorugoramon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/124_dorugoramon_rare

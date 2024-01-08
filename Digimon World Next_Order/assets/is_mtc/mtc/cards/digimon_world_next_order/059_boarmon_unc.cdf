@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=059_boarmon
+RarityLevel=unc
+Name=Boarmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/059_boarmon_unc

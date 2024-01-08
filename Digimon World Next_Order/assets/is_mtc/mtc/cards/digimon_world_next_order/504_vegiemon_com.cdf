@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=504_vegiemon
+RarityLevel=com
+Name=Vegiemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/504_vegiemon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=068_calmaramon
+RarityLevel=unc
+Name=Calmaramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/068_calmaramon_unc

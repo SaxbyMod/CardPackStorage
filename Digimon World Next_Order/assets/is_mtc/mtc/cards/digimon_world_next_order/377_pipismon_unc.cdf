@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=377_pipismon
+RarityLevel=unc
+Name=Pipismon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/377_pipismon_unc

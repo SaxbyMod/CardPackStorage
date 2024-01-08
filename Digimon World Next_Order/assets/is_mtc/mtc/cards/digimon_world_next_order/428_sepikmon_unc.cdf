@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=428_sepikmon
+RarityLevel=unc
+Name=Sepikmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/428_sepikmon_unc

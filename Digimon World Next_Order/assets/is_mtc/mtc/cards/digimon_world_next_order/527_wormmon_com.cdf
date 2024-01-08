@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=527_wormmon
+RarityLevel=com
+Name=Wormmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/527_wormmon_com

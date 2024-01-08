@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=410_rosemon
+RarityLevel=rare
+Name=Rosemon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/410_rosemon_rare

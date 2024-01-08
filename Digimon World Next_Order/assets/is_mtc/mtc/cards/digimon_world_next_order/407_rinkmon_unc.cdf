@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=407_rinkmon
+RarityLevel=unc
+Name=Rinkmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/407_rinkmon_unc

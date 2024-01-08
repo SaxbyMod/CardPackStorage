@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=474_taomon
+RarityLevel=unc
+Name=Taomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/474_taomon_unc

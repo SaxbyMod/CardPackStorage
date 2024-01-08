@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=405_rhinokabuterimon
+RarityLevel=rare
+Name=Rhinokabuterimon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/405_rhinokabuterimon_rare

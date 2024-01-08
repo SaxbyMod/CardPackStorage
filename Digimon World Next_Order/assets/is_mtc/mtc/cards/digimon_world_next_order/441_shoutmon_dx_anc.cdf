@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=441_shoutmon_dx
+RarityLevel=anc
+Name=Shoutmon Dx
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/441_shoutmon_dx_anc

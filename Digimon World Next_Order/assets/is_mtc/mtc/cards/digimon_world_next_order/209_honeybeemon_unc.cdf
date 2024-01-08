@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=209_honeybeemon
+RarityLevel=unc
+Name=Honeybeemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/209_honeybeemon_unc

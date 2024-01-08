@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=449_shurimon
+RarityLevel=unc
+Name=Shurimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/449_shurimon_unc

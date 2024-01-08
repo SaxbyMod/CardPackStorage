@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=443_shoutmon_x3
+RarityLevel=unc
+Name=Shoutmon X3
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/443_shoutmon_x3_unc

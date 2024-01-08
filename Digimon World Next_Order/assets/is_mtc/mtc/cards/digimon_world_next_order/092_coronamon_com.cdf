@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=092_coronamon
+RarityLevel=com
+Name=Coronamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/092_coronamon_com

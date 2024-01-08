@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=293_mantaraymon
+RarityLevel=unc
+Name=Mantaraymon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/293_mantaraymon_unc

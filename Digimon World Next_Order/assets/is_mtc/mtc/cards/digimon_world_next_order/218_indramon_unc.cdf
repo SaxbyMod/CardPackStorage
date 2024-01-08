@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=218_indramon
+RarityLevel=unc
+Name=Indramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/218_indramon_unc

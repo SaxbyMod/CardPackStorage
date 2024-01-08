@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=414_saberleomon
+RarityLevel=rare
+Name=Saberleomon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/414_saberleomon_rare

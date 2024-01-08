@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=236_keramon
+RarityLevel=com
+Name=Keramon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/236_keramon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=388_pteramon
+RarityLevel=unc
+Name=Pteramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/388_pteramon_unc

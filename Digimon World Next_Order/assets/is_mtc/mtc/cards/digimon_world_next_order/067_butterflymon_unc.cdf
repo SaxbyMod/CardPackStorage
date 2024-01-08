@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=067_butterflymon
+RarityLevel=unc
+Name=Butterflymon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/067_butterflymon_unc

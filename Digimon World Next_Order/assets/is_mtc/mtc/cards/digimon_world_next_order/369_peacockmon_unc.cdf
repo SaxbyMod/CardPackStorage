@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=369_peacockmon
+RarityLevel=unc
+Name=Peacockmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/369_peacockmon_unc

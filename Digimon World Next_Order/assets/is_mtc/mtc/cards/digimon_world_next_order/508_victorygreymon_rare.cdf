@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=508_victorygreymon
+RarityLevel=rare
+Name=Victorygreymon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/508_victorygreymon_rare

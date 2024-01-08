@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=370_peckmon
+RarityLevel=com
+Name=Peckmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/370_peckmon_com

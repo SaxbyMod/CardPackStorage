@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=301_megagargomon
+RarityLevel=rare
+Name=Megagargomon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/301_megagargomon_rare

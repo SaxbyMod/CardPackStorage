@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=237_kimeramon
+RarityLevel=unc
+Name=Kimeramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/237_kimeramon_unc

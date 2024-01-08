@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=023_angewomon
+RarityLevel=unc
+Name=Angewomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/023_angewomon_unc

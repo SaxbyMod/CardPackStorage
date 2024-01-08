@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=062_bucchiemon
+RarityLevel=unc
+Name=Bucchiemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/062_bucchiemon_unc

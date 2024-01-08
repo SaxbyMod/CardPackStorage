@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=238_king_drasil_7d6
+RarityLevel=leg
+Name=King Drasil 7D6
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/238_king_drasil_7d6_leg

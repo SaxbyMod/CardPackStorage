@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=161_gargomon
+RarityLevel=com
+Name=Gargomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/161_gargomon_com

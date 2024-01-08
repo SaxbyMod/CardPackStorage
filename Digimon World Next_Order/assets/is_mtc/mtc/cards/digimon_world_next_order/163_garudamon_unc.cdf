@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=163_garudamon
+RarityLevel=unc
+Name=Garudamon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/163_garudamon_unc

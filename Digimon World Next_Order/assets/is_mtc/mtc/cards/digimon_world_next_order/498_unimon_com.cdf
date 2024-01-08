@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=498_unimon
+RarityLevel=com
+Name=Unimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/498_unimon_com

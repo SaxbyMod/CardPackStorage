@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=394_rabbitmon
+RarityLevel=unc
+Name=Rabbitmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/394_rabbitmon_unc

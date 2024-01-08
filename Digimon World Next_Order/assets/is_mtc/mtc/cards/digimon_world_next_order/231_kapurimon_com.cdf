@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=231_kapurimon
+RarityLevel=com
+Name=Kapurimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/231_kapurimon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=224_justimon_blitz_arm
+RarityLevel=rare
+Name=Justimon Blitz Arm
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/224_justimon_blitz_arm_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=247_koromon
+RarityLevel=com
+Name=Koromon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/247_koromon_com

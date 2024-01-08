@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=531_yukimibotamon
+RarityLevel=com
+Name=Yukimibotamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/531_yukimibotamon_com

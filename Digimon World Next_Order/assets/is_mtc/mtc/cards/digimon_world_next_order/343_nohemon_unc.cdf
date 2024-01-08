@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=343_nohemon
+RarityLevel=unc
+Name=Nohemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/343_nohemon_unc

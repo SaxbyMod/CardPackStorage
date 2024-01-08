@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=206_herculeskabuterimon
+RarityLevel=rare
+Name=Herculeskabuterimon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/206_herculeskabuterimon_rare

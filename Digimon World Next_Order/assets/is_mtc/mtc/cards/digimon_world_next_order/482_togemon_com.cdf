@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=482_togemon
+RarityLevel=com
+Name=Togemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/482_togemon_com

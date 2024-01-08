@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=376_piedmon
+RarityLevel=rare
+Name=Piedmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/376_piedmon_rare

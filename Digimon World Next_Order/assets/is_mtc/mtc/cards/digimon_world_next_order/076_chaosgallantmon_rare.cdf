@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=076_chaosgallantmon
+RarityLevel=rare
+Name=Chaosgallantmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/076_chaosgallantmon_rare

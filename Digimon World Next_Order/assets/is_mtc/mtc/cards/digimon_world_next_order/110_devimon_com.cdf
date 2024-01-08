@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=110_devimon
+RarityLevel=com
+Name=Devimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/110_devimon_com

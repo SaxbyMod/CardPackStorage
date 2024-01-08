@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=014_ancientkazemon
+RarityLevel=anc
+Name=Ancientkazemon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/014_ancientkazemon_anc

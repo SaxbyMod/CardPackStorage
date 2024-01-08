@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=035_azulongmon
+RarityLevel=anc
+Name=Azulongmon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/035_azulongmon_anc

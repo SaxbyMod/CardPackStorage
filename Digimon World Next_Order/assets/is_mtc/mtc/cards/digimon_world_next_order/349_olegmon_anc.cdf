@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=349_olegmon
+RarityLevel=anc
+Name=Olegmon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/349_olegmon_anc

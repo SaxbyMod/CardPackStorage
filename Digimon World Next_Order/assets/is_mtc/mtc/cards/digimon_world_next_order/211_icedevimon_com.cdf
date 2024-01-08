@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=211_icedevimon
+RarityLevel=com
+Name=Icedevimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/211_icedevimon_com

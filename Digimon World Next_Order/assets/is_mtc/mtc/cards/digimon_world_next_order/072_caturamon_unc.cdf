@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=072_caturamon
+RarityLevel=unc
+Name=Caturamon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/072_caturamon_unc

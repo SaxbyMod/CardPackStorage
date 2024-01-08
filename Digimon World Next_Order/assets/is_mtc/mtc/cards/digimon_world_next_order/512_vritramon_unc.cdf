@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=512_vritramon
+RarityLevel=unc
+Name=Vritramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/512_vritramon_unc

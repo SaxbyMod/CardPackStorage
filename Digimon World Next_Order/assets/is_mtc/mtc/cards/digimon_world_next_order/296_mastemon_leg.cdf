@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=296_mastemon
+RarityLevel=leg
+Name=Mastemon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/296_mastemon_leg

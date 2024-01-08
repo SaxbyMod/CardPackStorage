@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=031_armadillomon
+RarityLevel=com
+Name=Armadillomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/031_armadillomon_com

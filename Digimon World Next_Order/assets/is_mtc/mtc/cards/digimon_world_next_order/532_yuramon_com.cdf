@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=532_yuramon
+RarityLevel=com
+Name=Yuramon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/532_yuramon_com

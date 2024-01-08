@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=030_archelomon
+RarityLevel=unc
+Name=Archelomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/030_archelomon_unc

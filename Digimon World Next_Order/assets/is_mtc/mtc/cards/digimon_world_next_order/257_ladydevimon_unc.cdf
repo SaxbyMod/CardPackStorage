@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=257_ladydevimon
+RarityLevel=unc
+Name=Ladydevimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/257_ladydevimon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=142_fanbeemon
+RarityLevel=com
+Name=Fanbeemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/142_fanbeemon_com

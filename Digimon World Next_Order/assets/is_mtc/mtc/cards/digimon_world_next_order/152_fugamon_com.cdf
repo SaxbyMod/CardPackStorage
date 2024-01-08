@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=152_fugamon
+RarityLevel=com
+Name=Fugamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/152_fugamon_com

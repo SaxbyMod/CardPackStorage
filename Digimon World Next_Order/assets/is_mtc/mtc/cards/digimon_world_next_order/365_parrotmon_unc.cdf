@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=365_parrotmon
+RarityLevel=unc
+Name=Parrotmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/365_parrotmon_unc

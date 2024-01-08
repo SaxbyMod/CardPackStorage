@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=431_shadramon
+RarityLevel=unc
+Name=Shadramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/431_shadramon_unc

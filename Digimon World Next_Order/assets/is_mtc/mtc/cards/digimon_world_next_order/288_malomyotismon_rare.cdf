@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=288_malomyotismon
+RarityLevel=rare
+Name=Malomyotismon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/288_malomyotismon_rare

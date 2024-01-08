@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=177_gigimon
+RarityLevel=com
+Name=Gigimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/177_gigimon_com

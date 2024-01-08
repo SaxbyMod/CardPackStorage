@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=385_prairimon
+RarityLevel=unc
+Name=Prairimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/385_prairimon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=070_candlemon
+RarityLevel=com
+Name=Candlemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/070_candlemon_com

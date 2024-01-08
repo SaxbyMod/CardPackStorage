@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=087_clavisangemon
+RarityLevel=rare
+Name=Clavisangemon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/087_clavisangemon_rare

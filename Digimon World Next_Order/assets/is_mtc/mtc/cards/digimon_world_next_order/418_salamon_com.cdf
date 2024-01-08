@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=418_salamon
+RarityLevel=com
+Name=Salamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/418_salamon_com

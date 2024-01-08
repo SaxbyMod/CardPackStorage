@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=132_ebemon
+RarityLevel=rare
+Name=Ebemon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/132_ebemon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=353_omegamon_zwart_defeat
+RarityLevel=leg
+Name=Omegamon Zwart Defeat
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/353_omegamon_zwart_defeat_leg

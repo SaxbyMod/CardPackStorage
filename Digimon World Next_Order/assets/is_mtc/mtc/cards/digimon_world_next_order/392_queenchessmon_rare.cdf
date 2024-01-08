@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=392_queenchessmon
+RarityLevel=rare
+Name=Queenchessmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/392_queenchessmon_rare

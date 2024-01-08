@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=429_seraphimon
+RarityLevel=anc
+Name=Seraphimon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/429_seraphimon_anc

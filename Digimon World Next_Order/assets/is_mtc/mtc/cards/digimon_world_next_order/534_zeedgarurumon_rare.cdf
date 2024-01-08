@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=534_zeedgarurumon
+RarityLevel=rare
+Name=Zeedgarurumon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/534_zeedgarurumon_rare

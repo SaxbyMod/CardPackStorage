@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=178_ginryumon
+RarityLevel=com
+Name=Ginryumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/178_ginryumon_com

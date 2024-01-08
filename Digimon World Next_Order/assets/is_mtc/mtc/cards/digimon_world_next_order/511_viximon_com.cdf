@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=511_viximon
+RarityLevel=com
+Name=Viximon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/511_viximon_com

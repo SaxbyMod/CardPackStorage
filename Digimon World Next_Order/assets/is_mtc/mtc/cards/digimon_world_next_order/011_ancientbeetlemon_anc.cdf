@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=011_ancientbeetlemon
+RarityLevel=anc
+Name=Ancientbeetlemon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/011_ancientbeetlemon_anc

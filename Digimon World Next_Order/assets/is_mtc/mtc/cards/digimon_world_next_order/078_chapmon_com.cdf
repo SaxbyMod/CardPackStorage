@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=078_chapmon
+RarityLevel=com
+Name=Chapmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/078_chapmon_com

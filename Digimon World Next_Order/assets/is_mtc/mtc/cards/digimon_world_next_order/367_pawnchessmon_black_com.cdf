@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=367_pawnchessmon_black
+RarityLevel=com
+Name=Pawnchessmon Black
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/367_pawnchessmon_black_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=063_bucchiemon_green
+RarityLevel=unc
+Name=Bucchiemon Green
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/063_bucchiemon_green_unc

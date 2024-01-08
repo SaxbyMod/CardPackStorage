@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=129_drimogemon
+RarityLevel=com
+Name=Drimogemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/129_drimogemon_com

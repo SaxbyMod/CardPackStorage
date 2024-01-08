@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=335_motimon
+RarityLevel=com
+Name=Motimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/335_motimon_com

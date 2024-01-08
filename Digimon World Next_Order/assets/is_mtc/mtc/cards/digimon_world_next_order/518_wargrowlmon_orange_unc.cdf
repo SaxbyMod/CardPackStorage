@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=518_wargrowlmon_orange
+RarityLevel=unc
+Name=Wargrowlmon Orange
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/518_wargrowlmon_orange_unc

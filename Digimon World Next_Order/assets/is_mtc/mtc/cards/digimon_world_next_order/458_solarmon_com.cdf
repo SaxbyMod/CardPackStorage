@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=458_solarmon
+RarityLevel=com
+Name=Solarmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/458_solarmon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=409_rookchessmon_black
+RarityLevel=unc
+Name=Rookchessmon Black
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/409_rookchessmon_black_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=127_doumon
+RarityLevel=unc
+Name=Doumon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/127_doumon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=516_wargrowlmon
+RarityLevel=unc
+Name=Wargrowlmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/516_wargrowlmon_unc

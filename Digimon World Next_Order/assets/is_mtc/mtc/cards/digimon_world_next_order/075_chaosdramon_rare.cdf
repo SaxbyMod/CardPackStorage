@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=075_chaosdramon
+RarityLevel=rare
+Name=Chaosdramon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/075_chaosdramon_rare

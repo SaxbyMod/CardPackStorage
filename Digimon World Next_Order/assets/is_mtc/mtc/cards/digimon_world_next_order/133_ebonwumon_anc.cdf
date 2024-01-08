@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=133_ebonwumon
+RarityLevel=anc
+Name=Ebonwumon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/133_ebonwumon_anc

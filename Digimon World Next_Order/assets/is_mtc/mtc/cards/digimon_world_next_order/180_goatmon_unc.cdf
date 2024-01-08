@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=180_goatmon
+RarityLevel=unc
+Name=Goatmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/180_goatmon_unc

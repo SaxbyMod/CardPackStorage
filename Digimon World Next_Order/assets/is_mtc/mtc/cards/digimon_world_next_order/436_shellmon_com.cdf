@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=436_shellmon
+RarityLevel=com
+Name=Shellmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/436_shellmon_com

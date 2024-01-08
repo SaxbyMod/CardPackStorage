@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=398_ravemon
+RarityLevel=rare
+Name=Ravemon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/398_ravemon_rare

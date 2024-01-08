@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=378_piximon
+RarityLevel=unc
+Name=Piximon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/378_piximon_unc

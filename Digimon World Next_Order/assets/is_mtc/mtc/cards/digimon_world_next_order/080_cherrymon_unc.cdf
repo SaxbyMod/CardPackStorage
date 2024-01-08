@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=080_cherrymon
+RarityLevel=unc
+Name=Cherrymon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/080_cherrymon_unc

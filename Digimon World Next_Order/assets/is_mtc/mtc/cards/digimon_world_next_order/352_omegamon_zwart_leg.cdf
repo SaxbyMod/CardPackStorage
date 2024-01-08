@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=352_omegamon_zwart
+RarityLevel=leg
+Name=Omegamon Zwart
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/352_omegamon_zwart_leg

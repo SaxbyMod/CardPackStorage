@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=101_darkdramon
+RarityLevel=rare
+Name=Darkdramon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/101_darkdramon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=149_flybeemon
+RarityLevel=unc
+Name=Flybeemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/149_flybeemon_unc

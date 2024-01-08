@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=412_rusttyranomon
+RarityLevel=leg
+Name=Rusttyranomon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/412_rusttyranomon_leg

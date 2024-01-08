@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=479_tigervespamon
+RarityLevel=rare
+Name=Tigervespamon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/479_tigervespamon_rare

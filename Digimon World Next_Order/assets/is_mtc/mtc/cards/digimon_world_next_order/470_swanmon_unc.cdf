@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=470_swanmon
+RarityLevel=unc
+Name=Swanmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/470_swanmon_unc

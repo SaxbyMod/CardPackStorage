@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=093_crabmon
+RarityLevel=com
+Name=Crabmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/093_crabmon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=213_ikkakumon
+RarityLevel=com
+Name=Ikkakumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/213_ikkakumon_com

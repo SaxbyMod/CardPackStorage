@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=233_kendogarurumon
+RarityLevel=unc
+Name=Kendogarurumon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/233_kendogarurumon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=121_dodomon
+RarityLevel=com
+Name=Dodomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/121_dodomon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=273_lucemon_chaos_mode
+RarityLevel=leg
+Name=Lucemon Chaos Mode
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/273_lucemon_chaos_mode_leg

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=098_crusadermon
+RarityLevel=leg
+Name=Crusadermon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/098_crusadermon_leg

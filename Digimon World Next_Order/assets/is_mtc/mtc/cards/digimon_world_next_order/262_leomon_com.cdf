@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=262_leomon
+RarityLevel=com
+Name=Leomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/262_leomon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=086_chuumon
+RarityLevel=com
+Name=Chuumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/086_chuumon_com

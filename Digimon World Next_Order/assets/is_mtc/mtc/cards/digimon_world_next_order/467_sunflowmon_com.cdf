@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=467_sunflowmon
+RarityLevel=com
+Name=Sunflowmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/467_sunflowmon_com

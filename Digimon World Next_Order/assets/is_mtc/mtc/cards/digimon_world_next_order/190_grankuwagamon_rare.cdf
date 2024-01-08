@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=190_grankuwagamon
+RarityLevel=rare
+Name=Grankuwagamon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/190_grankuwagamon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=221_jetsilphymon
+RarityLevel=rare
+Name=Jetsilphymon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/221_jetsilphymon_rare

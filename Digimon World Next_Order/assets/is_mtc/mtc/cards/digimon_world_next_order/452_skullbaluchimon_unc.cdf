@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=452_skullbaluchimon
+RarityLevel=unc
+Name=Skullbaluchimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/452_skullbaluchimon_unc

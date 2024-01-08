@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=492_tsunomon
+RarityLevel=com
+Name=Tsunomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/492_tsunomon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=340_neovamdemon
+RarityLevel=anc
+Name=Neovamdemon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/340_neovamdemon_anc

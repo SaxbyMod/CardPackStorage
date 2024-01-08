@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=381_plesiomon
+RarityLevel=rare
+Name=Plesiomon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/381_plesiomon_rare

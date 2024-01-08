@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=368_pawnchessmon_white
+RarityLevel=com
+Name=Pawnchessmon White
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/368_pawnchessmon_white_com

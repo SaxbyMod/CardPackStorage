@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=204_harpymon
+RarityLevel=unc
+Name=Harpymon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/204_harpymon_unc

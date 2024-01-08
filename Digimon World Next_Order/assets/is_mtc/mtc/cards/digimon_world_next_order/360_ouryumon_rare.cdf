@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=360_ouryumon
+RarityLevel=rare
+Name=Ouryumon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/360_ouryumon_rare

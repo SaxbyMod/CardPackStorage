@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=535_zeedmillenniummon
+RarityLevel=anc
+Name=Zeedmillenniummon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/535_zeedmillenniummon_anc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=047_beowolfmon
+RarityLevel=rare
+Name=Beowolfmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/047_beowolfmon_rare

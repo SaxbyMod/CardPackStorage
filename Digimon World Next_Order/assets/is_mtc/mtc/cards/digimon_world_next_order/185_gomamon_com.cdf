@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=185_gomamon
+RarityLevel=com
+Name=Gomamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/185_gomamon_com

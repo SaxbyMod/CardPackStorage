@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=000_aeroveedramon
+RarityLevel=unc
+Name=Aeroveedramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/000_aeroveedramon_unc

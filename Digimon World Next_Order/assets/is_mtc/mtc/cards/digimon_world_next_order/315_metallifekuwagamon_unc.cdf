@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=315_metallifekuwagamon
+RarityLevel=unc
+Name=Metallifekuwagamon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/315_metallifekuwagamon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=483_togumogumon
+RarityLevel=unc
+Name=Togumogumon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/483_togumogumon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=060_boltmon
+RarityLevel=rare
+Name=Boltmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/060_boltmon_rare

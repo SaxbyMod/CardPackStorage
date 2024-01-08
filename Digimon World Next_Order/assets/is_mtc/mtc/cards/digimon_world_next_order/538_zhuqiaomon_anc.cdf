@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=538_zhuqiaomon
+RarityLevel=anc
+Name=Zhuqiaomon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/538_zhuqiaomon_anc

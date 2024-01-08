@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=116_digitamamon
+RarityLevel=unc
+Name=Digitamamon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/116_digitamamon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=045_belphemon_rage_mode
+RarityLevel=anc
+Name=Belphemon Rage Mode
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/045_belphemon_rage_mode_anc

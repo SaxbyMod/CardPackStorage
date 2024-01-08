@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=485_tonosamamamemon
+RarityLevel=rare
+Name=Tonosamamamemon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/485_tonosamamamemon_rare

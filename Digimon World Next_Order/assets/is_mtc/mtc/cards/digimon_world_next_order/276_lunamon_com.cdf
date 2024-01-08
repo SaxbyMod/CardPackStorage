@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=276_lunamon
+RarityLevel=com
+Name=Lunamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/276_lunamon_com

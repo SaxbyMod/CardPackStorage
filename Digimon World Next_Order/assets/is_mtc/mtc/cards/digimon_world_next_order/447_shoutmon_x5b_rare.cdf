@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=447_shoutmon_x5b
+RarityLevel=rare
+Name=Shoutmon X5b
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/447_shoutmon_x5b_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=306_mercurimon
+RarityLevel=leg
+Name=Mercurimon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/306_mercurimon_leg

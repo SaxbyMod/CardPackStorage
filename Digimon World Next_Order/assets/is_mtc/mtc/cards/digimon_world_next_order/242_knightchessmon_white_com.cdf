@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=242_knightchessmon_white
+RarityLevel=com
+Name=Knightchessmon White
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/242_knightchessmon_white_com

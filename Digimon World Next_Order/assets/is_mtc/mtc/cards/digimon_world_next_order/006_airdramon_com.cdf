@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=006_airdramon
+RarityLevel=com
+Name=Airdramon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/006_airdramon_com

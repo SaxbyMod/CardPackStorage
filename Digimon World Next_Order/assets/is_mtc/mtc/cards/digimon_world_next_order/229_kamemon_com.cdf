@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=229_kamemon
+RarityLevel=com
+Name=Kamemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/229_kamemon_com

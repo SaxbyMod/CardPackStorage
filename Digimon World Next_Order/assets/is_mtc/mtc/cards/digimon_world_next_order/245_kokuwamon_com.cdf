@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=245_kokuwamon
+RarityLevel=com
+Name=Kokuwamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/245_kokuwamon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=117_digmon
+RarityLevel=unc
+Name=Digmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/117_digmon_unc

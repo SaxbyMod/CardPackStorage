@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=005_agunimon
+RarityLevel=unc
+Name=Agunimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/005_agunimon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=260_leafmon
+RarityLevel=com
+Name=Leafmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/260_leafmon_com

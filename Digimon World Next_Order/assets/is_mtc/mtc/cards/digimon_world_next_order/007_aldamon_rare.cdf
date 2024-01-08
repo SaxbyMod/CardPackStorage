@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=007_aldamon
+RarityLevel=rare
+Name=Aldamon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/007_aldamon_rare

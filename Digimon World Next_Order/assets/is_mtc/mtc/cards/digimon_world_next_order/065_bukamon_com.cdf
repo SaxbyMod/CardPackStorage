@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=065_bukamon
+RarityLevel=com
+Name=Bukamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/065_bukamon_com

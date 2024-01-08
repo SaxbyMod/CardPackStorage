@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=216_imperialdramon_paladin_mode
+RarityLevel=leg
+Name=Imperialdramon Paladin Mode
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/216_imperialdramon_paladin_mode_leg

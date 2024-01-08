@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=252_kunemon
+RarityLevel=com
+Name=Kunemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/252_kunemon_com

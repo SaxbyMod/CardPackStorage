@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=135_elephantmon
+RarityLevel=unc
+Name=Elephantmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/135_elephantmon_unc

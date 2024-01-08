@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=151_frogmon
+RarityLevel=unc
+Name=Frogmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/151_frogmon_unc

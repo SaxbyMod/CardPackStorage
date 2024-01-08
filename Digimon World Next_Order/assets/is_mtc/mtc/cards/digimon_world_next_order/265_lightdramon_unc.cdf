@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=265_lightdramon
+RarityLevel=unc
+Name=Lightdramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/265_lightdramon_unc

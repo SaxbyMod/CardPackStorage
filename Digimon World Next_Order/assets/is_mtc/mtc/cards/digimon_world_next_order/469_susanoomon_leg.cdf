@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=469_susanoomon
+RarityLevel=leg
+Name=Susanoomon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/469_susanoomon_leg

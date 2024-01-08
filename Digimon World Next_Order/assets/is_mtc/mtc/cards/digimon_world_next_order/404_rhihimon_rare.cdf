@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=404_rhihimon
+RarityLevel=rare
+Name=Rhihimon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/404_rhihimon_rare

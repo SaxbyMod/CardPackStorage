@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=533_zamielmon
+RarityLevel=anc
+Name=Zamielmon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/533_zamielmon_anc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=013_ancientgreymon
+RarityLevel=anc
+Name=Ancientgreymon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/013_ancientgreymon_anc

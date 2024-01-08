@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=402_renamon
+RarityLevel=com
+Name=Renamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/402_renamon_com

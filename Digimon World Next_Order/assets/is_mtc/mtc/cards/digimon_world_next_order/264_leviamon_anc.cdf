@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=264_leviamon
+RarityLevel=anc
+Name=Leviamon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/264_leviamon_anc

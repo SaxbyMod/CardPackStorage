@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=364_palmon
+RarityLevel=com
+Name=Palmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/364_palmon_com

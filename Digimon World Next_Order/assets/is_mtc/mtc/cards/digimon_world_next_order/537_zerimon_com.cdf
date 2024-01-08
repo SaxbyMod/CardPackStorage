@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=537_zerimon
+RarityLevel=com
+Name=Zerimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/537_zerimon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=130_duskmon
+RarityLevel=unc
+Name=Duskmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/130_duskmon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=323_minervamon
+RarityLevel=leg
+Name=Minervamon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/323_minervamon_leg

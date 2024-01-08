@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=160_garbagemon
+RarityLevel=unc
+Name=Garbagemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/160_garbagemon_unc

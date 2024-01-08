@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=432_shakkoumon
+RarityLevel=unc
+Name=Shakkoumon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/432_shakkoumon_unc

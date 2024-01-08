@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=115_dianamon
+RarityLevel=leg
+Name=Dianamon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/115_dianamon_leg

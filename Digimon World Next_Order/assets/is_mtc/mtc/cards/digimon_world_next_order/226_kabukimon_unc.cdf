@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=226_kabukimon
+RarityLevel=unc
+Name=Kabukimon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/226_kabukimon_unc

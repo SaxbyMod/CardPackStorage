@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=383_poromon
+RarityLevel=com
+Name=Poromon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/383_poromon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=366_patamon
+RarityLevel=com
+Name=Patamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/366_patamon_com

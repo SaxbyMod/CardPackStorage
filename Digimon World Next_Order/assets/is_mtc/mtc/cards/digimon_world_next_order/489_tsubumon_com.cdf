@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=489_tsubumon
+RarityLevel=com
+Name=Tsubumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/489_tsubumon_com

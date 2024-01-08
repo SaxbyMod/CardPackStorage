@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=507_venusmon
+RarityLevel=leg
+Name=Venusmon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/507_venusmon_leg

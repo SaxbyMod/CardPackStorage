@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=137_examon
+RarityLevel=leg
+Name=Examon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/137_examon_leg

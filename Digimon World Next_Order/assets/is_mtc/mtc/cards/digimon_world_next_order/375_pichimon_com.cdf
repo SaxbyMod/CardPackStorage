@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=375_pichimon
+RarityLevel=com
+Name=Pichimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/375_pichimon_com

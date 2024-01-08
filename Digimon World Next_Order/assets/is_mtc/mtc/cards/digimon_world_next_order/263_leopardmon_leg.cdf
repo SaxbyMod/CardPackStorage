@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=263_leopardmon
+RarityLevel=leg
+Name=Leopardmon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/263_leopardmon_leg

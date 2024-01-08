@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=496_ulforceveedramon
+RarityLevel=leg
+Name=Ulforceveedramon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/496_ulforceveedramon_leg

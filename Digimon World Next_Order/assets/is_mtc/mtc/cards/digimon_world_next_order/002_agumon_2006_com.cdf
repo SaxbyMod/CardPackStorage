@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=002_agumon_2006
+RarityLevel=com
+Name=Agumon 2006
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/002_agumon_2006_com

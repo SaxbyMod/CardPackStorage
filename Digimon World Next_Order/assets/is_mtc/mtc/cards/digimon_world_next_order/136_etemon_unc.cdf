@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=136_etemon
+RarityLevel=unc
+Name=Etemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/136_etemon_unc

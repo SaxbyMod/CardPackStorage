@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=128_dracmon
+RarityLevel=com
+Name=Dracmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/128_dracmon_com

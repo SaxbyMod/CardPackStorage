@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=411_rosemon_burst_mode
+RarityLevel=rare
+Name=Rosemon Burst Mode
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/411_rosemon_burst_mode_rare

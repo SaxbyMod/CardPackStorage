@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=539_zudomon
+RarityLevel=unc
+Name=Zudomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/539_zudomon_unc

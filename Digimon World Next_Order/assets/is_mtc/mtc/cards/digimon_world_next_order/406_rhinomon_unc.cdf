@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=406_rhinomon
+RarityLevel=unc
+Name=Rhinomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/406_rhinomon_unc

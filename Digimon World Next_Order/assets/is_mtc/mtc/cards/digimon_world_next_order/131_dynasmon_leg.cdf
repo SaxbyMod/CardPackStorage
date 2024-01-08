@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=131_dynasmon
+RarityLevel=leg
+Name=Dynasmon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/131_dynasmon_leg

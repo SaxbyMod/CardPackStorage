@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=355_omnishoutmon
+RarityLevel=anc
+Name=Omnishoutmon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/355_omnishoutmon_anc

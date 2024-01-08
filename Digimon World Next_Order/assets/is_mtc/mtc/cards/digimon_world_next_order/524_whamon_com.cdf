@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=524_whamon
+RarityLevel=com
+Name=Whamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/524_whamon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=434_shaujinmon
+RarityLevel=unc
+Name=Shaujinmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/434_shaujinmon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=280_magnaangemon
+RarityLevel=unc
+Name=Magnaangemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/280_magnaangemon_unc

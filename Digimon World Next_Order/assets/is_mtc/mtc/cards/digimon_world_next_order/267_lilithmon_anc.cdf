@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=267_lilithmon
+RarityLevel=anc
+Name=Lilithmon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/267_lilithmon_anc

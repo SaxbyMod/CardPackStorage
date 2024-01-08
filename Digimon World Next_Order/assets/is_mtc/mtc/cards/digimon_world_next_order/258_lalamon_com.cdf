@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=258_lalamon
+RarityLevel=com
+Name=Lalamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/258_lalamon_com

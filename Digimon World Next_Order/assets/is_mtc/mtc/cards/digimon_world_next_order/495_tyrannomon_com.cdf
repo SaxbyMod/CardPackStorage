@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=495_tyrannomon
+RarityLevel=com
+Name=Tyrannomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/495_tyrannomon_com

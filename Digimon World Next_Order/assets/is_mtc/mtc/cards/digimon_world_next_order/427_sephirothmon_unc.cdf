@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=427_sephirothmon
+RarityLevel=unc
+Name=Sephirothmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/427_sephirothmon_unc

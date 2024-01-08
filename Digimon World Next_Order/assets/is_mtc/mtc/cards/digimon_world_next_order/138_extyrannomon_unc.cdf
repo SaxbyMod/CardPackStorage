@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=138_extyrannomon
+RarityLevel=unc
+Name=Extyrannomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/138_extyrannomon_unc

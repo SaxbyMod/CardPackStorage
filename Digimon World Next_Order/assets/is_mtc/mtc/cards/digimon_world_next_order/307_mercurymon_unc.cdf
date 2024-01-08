@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=307_mercurymon
+RarityLevel=unc
+Name=Mercurymon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/307_mercurymon_unc

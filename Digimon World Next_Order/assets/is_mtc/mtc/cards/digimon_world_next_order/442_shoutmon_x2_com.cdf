@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=442_shoutmon_x2
+RarityLevel=com
+Name=Shoutmon X2
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/442_shoutmon_x2_com

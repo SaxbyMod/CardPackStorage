@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=036_babamon
+RarityLevel=rare
+Name=Babamon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/036_babamon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=044_beetlemon
+RarityLevel=unc
+Name=Beetlemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/044_beetlemon_unc

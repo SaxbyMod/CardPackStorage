@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=108_depthmon
+RarityLevel=unc
+Name=Depthmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/108_depthmon_unc

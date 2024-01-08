@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=055_blackwargreymon
+RarityLevel=rare
+Name=Blackwargreymon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/055_blackwargreymon_rare

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=208_hisyaryumon
+RarityLevel=unc
+Name=Hisyaryumon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/208_hisyaryumon_unc

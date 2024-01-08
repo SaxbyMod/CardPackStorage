@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=380_platinumsukamon
+RarityLevel=com
+Name=Platinumsukamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/380_platinumsukamon_com

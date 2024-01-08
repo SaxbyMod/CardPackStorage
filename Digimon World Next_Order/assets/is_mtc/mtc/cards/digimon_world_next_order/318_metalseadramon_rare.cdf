@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=318_metalseadramon
+RarityLevel=rare
+Name=Metalseadramon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/318_metalseadramon_rare

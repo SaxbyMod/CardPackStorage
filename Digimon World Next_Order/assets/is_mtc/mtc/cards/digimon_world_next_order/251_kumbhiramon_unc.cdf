@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=251_kumbhiramon
+RarityLevel=unc
+Name=Kumbhiramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/251_kumbhiramon_unc

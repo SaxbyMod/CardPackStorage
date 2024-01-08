@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=081_cherubimon
+RarityLevel=anc
+Name=Cherubimon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/081_cherubimon_anc

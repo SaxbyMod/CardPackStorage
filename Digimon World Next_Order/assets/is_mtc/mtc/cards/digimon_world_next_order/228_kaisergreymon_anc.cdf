@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=228_kaisergreymon
+RarityLevel=anc
+Name=Kaisergreymon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/228_kaisergreymon_anc

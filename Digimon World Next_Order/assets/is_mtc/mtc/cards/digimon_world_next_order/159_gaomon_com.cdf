@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=159_gaomon
+RarityLevel=com
+Name=Gaomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/159_gaomon_com

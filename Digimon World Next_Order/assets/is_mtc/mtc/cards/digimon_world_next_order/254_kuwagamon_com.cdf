@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=254_kuwagamon
+RarityLevel=com
+Name=Kuwagamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/254_kuwagamon_com

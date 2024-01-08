@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=232_kazemon
+RarityLevel=unc
+Name=Kazemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/232_kazemon_unc

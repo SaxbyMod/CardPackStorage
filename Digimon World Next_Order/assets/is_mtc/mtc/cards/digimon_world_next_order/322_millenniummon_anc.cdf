@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=322_millenniummon
+RarityLevel=anc
+Name=Millenniummon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/322_millenniummon_anc

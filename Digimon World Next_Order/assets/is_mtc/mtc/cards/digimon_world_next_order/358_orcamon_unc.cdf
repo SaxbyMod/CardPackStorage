@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=358_orcamon
+RarityLevel=unc
+Name=Orcamon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/358_orcamon_unc

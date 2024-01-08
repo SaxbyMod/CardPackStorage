@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=282_magnagarurumon
+RarityLevel=anc
+Name=Magnagarurumon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/282_magnagarurumon_anc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=363_pajramon
+RarityLevel=unc
+Name=Pajramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/363_pajramon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=141_falcomon
+RarityLevel=com
+Name=Falcomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/141_falcomon_com

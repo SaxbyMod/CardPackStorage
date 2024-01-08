@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=148_flaremon
+RarityLevel=unc
+Name=Flaremon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/148_flaremon_unc

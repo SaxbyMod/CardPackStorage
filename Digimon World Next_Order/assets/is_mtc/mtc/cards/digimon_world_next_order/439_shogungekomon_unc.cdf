@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=439_shogungekomon
+RarityLevel=unc
+Name=Shogungekomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/439_shogungekomon_unc

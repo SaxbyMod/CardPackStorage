@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=526_woodmon
+RarityLevel=com
+Name=Woodmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/526_woodmon_com

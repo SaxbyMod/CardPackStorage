@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=425_sealdramon
+RarityLevel=com
+Name=Sealdramon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/425_sealdramon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=471_syakomon
+RarityLevel=com
+Name=Syakomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/471_syakomon_com

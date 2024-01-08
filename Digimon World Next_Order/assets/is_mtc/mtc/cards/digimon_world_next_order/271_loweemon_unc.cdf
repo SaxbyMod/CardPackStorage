@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=271_loweemon
+RarityLevel=unc
+Name=Loweemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/271_loweemon_unc

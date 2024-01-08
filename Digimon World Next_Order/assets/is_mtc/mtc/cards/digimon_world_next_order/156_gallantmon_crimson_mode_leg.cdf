@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=156_gallantmon_crimson_mode
+RarityLevel=leg
+Name=Gallantmon Crimson Mode
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/156_gallantmon_crimson_mode_leg

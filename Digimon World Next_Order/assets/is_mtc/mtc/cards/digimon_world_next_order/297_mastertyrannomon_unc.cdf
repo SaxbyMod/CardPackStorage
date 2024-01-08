@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=297_mastertyrannomon
+RarityLevel=unc
+Name=Mastertyrannomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/297_mastertyrannomon_unc

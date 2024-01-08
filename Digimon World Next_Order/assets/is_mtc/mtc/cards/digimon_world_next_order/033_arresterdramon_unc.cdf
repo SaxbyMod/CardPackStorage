@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=033_arresterdramon
+RarityLevel=unc
+Name=Arresterdramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/033_arresterdramon_unc

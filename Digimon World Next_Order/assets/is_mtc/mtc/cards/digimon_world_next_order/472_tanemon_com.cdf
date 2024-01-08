@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=472_tanemon
+RarityLevel=com
+Name=Tanemon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/472_tanemon_com

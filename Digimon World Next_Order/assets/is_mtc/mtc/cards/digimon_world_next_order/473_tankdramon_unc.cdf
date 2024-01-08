@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=473_tankdramon
+RarityLevel=unc
+Name=Tankdramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/473_tankdramon_unc

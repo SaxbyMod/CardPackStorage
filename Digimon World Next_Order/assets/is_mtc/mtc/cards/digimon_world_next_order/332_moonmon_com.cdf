@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=332_moonmon
+RarityLevel=com
+Name=Moonmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/332_moonmon_com

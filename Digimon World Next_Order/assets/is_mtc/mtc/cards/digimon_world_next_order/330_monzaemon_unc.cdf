@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=330_monzaemon
+RarityLevel=unc
+Name=Monzaemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/330_monzaemon_unc

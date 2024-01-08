@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=326_miragegaogamon_burst_mode
+RarityLevel=unc
+Name=Miragegaogamon Burst Mode
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/326_miragegaogamon_burst_mode_unc

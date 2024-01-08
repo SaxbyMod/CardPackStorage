@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=530_youkomon
+RarityLevel=com
+Name=Youkomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/530_youkomon_com

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=468_sunmon
+RarityLevel=com
+Name=Sunmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/468_sunmon_com

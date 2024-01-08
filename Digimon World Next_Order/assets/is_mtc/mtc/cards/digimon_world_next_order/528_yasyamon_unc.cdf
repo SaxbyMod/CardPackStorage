@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=528_yasyamon
+RarityLevel=unc
+Name=Yasyamon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/528_yasyamon_unc

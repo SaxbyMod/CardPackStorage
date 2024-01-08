@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=056_blackwargrowlmon
+RarityLevel=unc
+Name=Blackwargrowlmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/056_blackwargrowlmon_unc

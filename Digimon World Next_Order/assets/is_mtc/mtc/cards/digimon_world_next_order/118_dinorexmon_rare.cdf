@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=118_dinorexmon
+RarityLevel=rare
+Name=Dinorexmon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/118_dinorexmon_rare

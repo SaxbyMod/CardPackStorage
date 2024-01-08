@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=066_bullmon
+RarityLevel=unc
+Name=Bullmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/066_bullmon_unc

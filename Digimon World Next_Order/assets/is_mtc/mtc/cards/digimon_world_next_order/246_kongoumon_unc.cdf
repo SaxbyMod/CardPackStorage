@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=246_kongoumon
+RarityLevel=unc
+Name=Kongoumon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/246_kongoumon_unc

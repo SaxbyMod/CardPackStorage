@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=433_shamamon
+RarityLevel=com
+Name=Shamamon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/433_shamamon_com

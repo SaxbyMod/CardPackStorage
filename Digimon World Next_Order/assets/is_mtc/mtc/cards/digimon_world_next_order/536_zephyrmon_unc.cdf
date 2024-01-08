@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=536_zephyrmon
+RarityLevel=unc
+Name=Zephyrmon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/536_zephyrmon_unc

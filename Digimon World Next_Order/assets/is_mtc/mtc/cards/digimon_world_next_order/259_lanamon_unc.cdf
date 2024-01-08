@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=259_lanamon
+RarityLevel=unc
+Name=Lanamon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/259_lanamon_unc

@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=235_kentaurosmon
+RarityLevel=leg
+Name=Kentaurosmon
+Category=Uncategorized
+DropWeight=1
+Description=
+IllustrationPath=digimon_world_next_order/235_kentaurosmon_leg

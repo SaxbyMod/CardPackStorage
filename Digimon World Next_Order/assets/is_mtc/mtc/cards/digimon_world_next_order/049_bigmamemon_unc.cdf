@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=049_bigmamemon
+RarityLevel=unc
+Name=Bigmamemon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/049_bigmamemon_unc

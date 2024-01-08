@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=212_iceleomon
+RarityLevel=unc
+Name=Iceleomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/212_iceleomon_unc

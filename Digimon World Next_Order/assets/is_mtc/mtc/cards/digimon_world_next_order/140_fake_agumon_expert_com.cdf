@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=140_fake_agumon_expert
+RarityLevel=com
+Name=Fake Agumon Expert
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/140_fake_agumon_expert_com

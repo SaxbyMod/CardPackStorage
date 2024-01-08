@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=126_dorumon
+RarityLevel=com
+Name=Dorumon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/126_dorumon_com

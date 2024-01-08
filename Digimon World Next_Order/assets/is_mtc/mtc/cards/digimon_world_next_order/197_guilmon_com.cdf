@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=197_guilmon
+RarityLevel=com
+Name=Guilmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/197_guilmon_com

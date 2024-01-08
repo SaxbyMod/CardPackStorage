@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=088_clockmon
+RarityLevel=com
+Name=Clockmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/088_clockmon_com

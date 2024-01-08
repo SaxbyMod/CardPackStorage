@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=024_ankylomon
+RarityLevel=com
+Name=Ankylomon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/024_ankylomon_com

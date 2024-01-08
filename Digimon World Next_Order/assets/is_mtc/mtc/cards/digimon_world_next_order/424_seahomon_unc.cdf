@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=424_seahomon
+RarityLevel=unc
+Name=Seahomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/424_seahomon_unc

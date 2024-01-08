@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=506_venommyotismon
+RarityLevel=rare
+Name=Venommyotismon
+Category=Uncategorized
+DropWeight=3
+Description=
+IllustrationPath=digimon_world_next_order/506_venommyotismon_rare

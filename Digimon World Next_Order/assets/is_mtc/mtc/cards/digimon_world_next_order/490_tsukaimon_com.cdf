@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=490_tsukaimon
+RarityLevel=com
+Name=Tsukaimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/490_tsukaimon_com

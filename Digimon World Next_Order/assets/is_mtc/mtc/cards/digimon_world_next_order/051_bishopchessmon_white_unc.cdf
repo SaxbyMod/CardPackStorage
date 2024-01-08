@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=051_bishopchessmon_white
+RarityLevel=unc
+Name=Bishopchessmon White
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/051_bishopchessmon_white_unc

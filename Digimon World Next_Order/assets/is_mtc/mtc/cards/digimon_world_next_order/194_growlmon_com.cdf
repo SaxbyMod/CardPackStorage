@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=194_growlmon
+RarityLevel=com
+Name=Growlmon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/194_growlmon_com

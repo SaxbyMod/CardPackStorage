@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=299_medievalgallantmon
+RarityLevel=anc
+Name=Medievalgallantmon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/299_medievalgallantmon_anc

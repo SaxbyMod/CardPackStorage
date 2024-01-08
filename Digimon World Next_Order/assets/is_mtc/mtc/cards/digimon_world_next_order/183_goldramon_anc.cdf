@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=183_goldramon
+RarityLevel=anc
+Name=Goldramon
+Category=Uncategorized
+DropWeight=2
+Description=
+IllustrationPath=digimon_world_next_order/183_goldramon_anc

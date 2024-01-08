@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=269_lobomon
+RarityLevel=unc
+Name=Lobomon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/269_lobomon_unc

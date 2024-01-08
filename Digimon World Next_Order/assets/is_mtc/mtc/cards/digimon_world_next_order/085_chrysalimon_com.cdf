@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=085_chrysalimon
+RarityLevel=com
+Name=Chrysalimon
+Category=Uncategorized
+DropWeight=10
+Description=
+IllustrationPath=digimon_world_next_order/085_chrysalimon_com

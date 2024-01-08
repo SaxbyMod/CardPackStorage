@@ -1,0 +1,8 @@
+EditionID=digimon_world_next_order
+CardID=058_bluemeramon
+RarityLevel=unc
+Name=Bluemeramon
+Category=Uncategorized
+DropWeight=5
+Description=
+IllustrationPath=digimon_world_next_order/058_bluemeramon_unc
