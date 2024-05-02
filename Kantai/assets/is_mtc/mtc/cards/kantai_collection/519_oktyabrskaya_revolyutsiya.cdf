@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=519_oktyabrskaya_revolyutsiya
+RarityLevel=rare
+Name=Oktyabrskaya Revolyutsiya
+Category=Gangut Class Fast Battleship
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/519_oktyabrskaya_revolyutsiya

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=415_maryland_kai
+RarityLevel=uncommon
+Name=Maryland Kai
+Category=Colorado Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/415_maryland_kai

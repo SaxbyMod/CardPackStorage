@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=019_akigumo_kai_ni
+RarityLevel=rare
+Name=Akigumo Kai Ni
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/019_akigumo_kai_ni

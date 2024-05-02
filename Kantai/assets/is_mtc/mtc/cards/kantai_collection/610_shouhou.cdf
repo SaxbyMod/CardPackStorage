@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=610_shouhou
+RarityLevel=common
+Name=Shouhou
+Category=Shouhou Class Light Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/610_shouhou

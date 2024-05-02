@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=438_minazuki
+RarityLevel=common
+Name=Minazuki
+Category=Mutsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/438_minazuki

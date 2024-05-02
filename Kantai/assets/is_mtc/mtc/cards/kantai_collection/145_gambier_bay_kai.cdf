@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=145_gambier_bay_kai
+RarityLevel=uncommon
+Name=Gambier Bay Kai
+Category=Casablanca Class Light Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/145_gambier_bay_kai

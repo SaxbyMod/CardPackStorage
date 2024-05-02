@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=369_kitakami_kai
+RarityLevel=uncommon
+Name=Kitakami Kai
+Category=Kuma Class Torpedo Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/369_kitakami_kai

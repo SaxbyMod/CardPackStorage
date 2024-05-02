@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=066_ashigara
+RarityLevel=common
+Name=Ashigara
+Category=Myoukou Class Heavy Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/066_ashigara

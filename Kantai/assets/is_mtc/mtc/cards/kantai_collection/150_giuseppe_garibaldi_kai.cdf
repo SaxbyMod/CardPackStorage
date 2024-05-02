@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=150_giuseppe_garibaldi_kai
+RarityLevel=uncommon
+Name=Giuseppe Garibaldi Kai
+Category=Duca degli Abruzzi Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/150_giuseppe_garibaldi_kai

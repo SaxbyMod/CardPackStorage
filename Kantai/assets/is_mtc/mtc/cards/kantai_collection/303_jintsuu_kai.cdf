@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=303_jintsuu_kai
+RarityLevel=uncommon
+Name=Jintsuu Kai
+Category=Sendai Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/303_jintsuu_kai

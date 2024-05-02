@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=362_kisaragi_kai_ni
+RarityLevel=rare
+Name=Kisaragi Kai Ni
+Category=Mutsuki Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/362_kisaragi_kai_ni

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=125_fletcher_mk_ii
+RarityLevel=ancient
+Name=Fletcher Mk.ii
+Category=Fletcher Class Destroyer
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/125_fletcher_mk_ii

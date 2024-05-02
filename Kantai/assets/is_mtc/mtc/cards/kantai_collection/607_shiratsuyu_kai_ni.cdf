@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=607_shiratsuyu_kai_ni
+RarityLevel=rare
+Name=Shiratsuyu Kai Ni
+Category=Shiratsuyu Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/607_shiratsuyu_kai_ni

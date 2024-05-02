@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=100_choukai_kai
+RarityLevel=uncommon
+Name=Choukai Kai
+Category=Takao Class Heavy Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/100_choukai_kai

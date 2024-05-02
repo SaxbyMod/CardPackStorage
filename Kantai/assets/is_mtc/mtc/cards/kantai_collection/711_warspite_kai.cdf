@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=711_warspite_kai
+RarityLevel=uncommon
+Name=Warspite Kai
+Category=Queen Elizabeth Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/711_warspite_kai

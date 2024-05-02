@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=603_shiranui_kai
+RarityLevel=uncommon
+Name=Shiranui Kai
+Category=Kagerou Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/603_shiranui_kai

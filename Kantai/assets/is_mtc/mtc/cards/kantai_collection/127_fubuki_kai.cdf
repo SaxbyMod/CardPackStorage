@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=127_fubuki_kai
+RarityLevel=uncommon
+Name=Fubuki Kai
+Category=Fubuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/127_fubuki_kai

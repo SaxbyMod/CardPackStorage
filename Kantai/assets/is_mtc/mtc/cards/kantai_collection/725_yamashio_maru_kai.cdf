@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=725_yamashio_maru_kai
+RarityLevel=uncommon
+Name=Yamashio Maru Kai
+Category=Special 2TL Type Fleet Oiler
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/725_yamashio_maru_kai

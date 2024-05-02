@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=494_nelson_kai
+RarityLevel=uncommon
+Name=Nelson Kai
+Category=Nelson Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/494_nelson_kai

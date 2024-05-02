@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=569_saratoga_mk_ii_mod_2
+RarityLevel=ancient
+Name=Saratoga Mk.ii Mod.2
+Category=Lexington Class Armored Carrier
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/569_saratoga_mk_ii_mod_2

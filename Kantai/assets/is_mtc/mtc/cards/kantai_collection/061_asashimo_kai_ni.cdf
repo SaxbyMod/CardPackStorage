@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=061_asashimo_kai_ni
+RarityLevel=rare
+Name=Asashimo Kai Ni
+Category=Yuugumo Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/061_asashimo_kai_ni

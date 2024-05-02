@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=745_yuubari_kai
+RarityLevel=uncommon
+Name=Yuubari Kai
+Category=Yuubari Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/745_yuubari_kai

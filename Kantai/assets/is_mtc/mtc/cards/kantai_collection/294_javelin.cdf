@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=294_javelin
+RarityLevel=common
+Name=Javelin
+Category=J Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/294_javelin

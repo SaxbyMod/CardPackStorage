@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=138_furutaka_kai_ni
+RarityLevel=rare
+Name=Furutaka Kai Ni
+Category=Furutaka Class Heavy Cruiser
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/138_furutaka_kai_ni

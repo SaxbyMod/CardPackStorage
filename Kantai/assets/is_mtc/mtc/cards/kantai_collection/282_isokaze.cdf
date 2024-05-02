@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=282_isokaze
+RarityLevel=common
+Name=Isokaze
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/282_isokaze

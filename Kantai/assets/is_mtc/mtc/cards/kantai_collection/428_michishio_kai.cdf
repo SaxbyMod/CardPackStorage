@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=428_michishio_kai
+RarityLevel=uncommon
+Name=Michishio Kai
+Category=Asashio Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/428_michishio_kai

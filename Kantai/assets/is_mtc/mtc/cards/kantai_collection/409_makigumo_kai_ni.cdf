@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=409_makigumo_kai_ni
+RarityLevel=rare
+Name=Makigumo Kai Ni
+Category=Yuugumo Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/409_makigumo_kai_ni

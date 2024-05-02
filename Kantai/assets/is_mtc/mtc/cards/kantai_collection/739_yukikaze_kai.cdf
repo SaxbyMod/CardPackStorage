@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=739_yukikaze_kai
+RarityLevel=uncommon
+Name=Yukikaze Kai
+Category=Kagerou Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/739_yukikaze_kai

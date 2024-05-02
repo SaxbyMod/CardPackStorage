@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=499_nevada_kai_mod_2
+RarityLevel=rare
+Name=Nevada Kai Mod.2
+Category=Nevada Class Battleship
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/499_nevada_kai_mod_2

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=749_yuudachi
+RarityLevel=common
+Name=Yuudachi
+Category=Shiratsuyu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/749_yuudachi

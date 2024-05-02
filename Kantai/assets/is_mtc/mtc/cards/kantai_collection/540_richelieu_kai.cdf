@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=540_richelieu_kai
+RarityLevel=uncommon
+Name=Richelieu Kai
+Category=Richelieu Class Fast Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/540_richelieu_kai

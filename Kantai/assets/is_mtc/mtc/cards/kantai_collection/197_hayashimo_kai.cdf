@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=197_hayashimo_kai
+RarityLevel=uncommon
+Name=Hayashimo Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/197_hayashimo_kai

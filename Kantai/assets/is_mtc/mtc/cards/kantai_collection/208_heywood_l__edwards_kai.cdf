@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=208_heywood_l__edwards_kai
+RarityLevel=uncommon
+Name=Heywood L. Edwards Kai
+Category=Fletcher Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/208_heywood_l__edwards_kai

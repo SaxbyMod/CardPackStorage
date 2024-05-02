@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=297_jean_bart_kai
+RarityLevel=uncommon
+Name=Jean Bart Kai
+Category=Richelieu Class Fast Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/297_jean_bart_kai

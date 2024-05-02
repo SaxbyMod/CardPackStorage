@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=516_okinami
+RarityLevel=common
+Name=Okinami
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/516_okinami

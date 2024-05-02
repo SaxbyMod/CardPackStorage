@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=349_kikuzuki
+RarityLevel=common
+Name=Kikuzuki
+Category=Mutsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/349_kikuzuki

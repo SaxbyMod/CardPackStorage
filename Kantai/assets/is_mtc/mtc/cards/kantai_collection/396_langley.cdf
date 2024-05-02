@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=396_langley
+RarityLevel=common
+Name=Langley
+Category=Independence Class Light Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/396_langley

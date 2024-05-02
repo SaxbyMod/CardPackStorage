@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=719_yamagumo_kai
+RarityLevel=uncommon
+Name=Yamagumo Kai
+Category=Asashio Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/719_yamagumo_kai

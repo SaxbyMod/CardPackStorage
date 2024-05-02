@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=285_isonami
+RarityLevel=common
+Name=Isonami
+Category=Fubuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/285_isonami

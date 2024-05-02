@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=233_houston_kai
+RarityLevel=uncommon
+Name=Houston Kai
+Category=Northampton Class Heavy Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/233_houston_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=118_duca_degli_abruzzi
+RarityLevel=common
+Name=Duca Degli Abruzzi
+Category=Duca degli Abruzzi Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/118_duca_degli_abruzzi

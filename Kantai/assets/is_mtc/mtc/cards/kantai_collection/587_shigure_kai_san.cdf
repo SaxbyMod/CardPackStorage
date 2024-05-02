@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=587_shigure_kai_san
+RarityLevel=ancient
+Name=Shigure Kai San
+Category=Shiratsuyu Class Destroyer
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/587_shigure_kai_san

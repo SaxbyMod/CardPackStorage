@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=718_yamagumo
+RarityLevel=common
+Name=Yamagumo
+Category=Asashio Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/718_yamagumo

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=500_nisshin
+RarityLevel=common
+Name=Nisshin
+Category=Nisshin Class Seaplane Tender
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/500_nisshin

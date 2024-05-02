@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=344_kawakaze_kai
+RarityLevel=uncommon
+Name=Kawakaze Kai
+Category=Shiratsuyu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/344_kawakaze_kai

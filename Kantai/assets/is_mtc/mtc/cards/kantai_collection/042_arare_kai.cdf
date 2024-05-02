@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=042_arare_kai
+RarityLevel=uncommon
+Name=Arare Kai
+Category=Asashio Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/042_arare_kai

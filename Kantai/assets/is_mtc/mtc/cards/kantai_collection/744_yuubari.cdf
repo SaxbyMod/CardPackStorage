@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=744_yuubari
+RarityLevel=common
+Name=Yuubari
+Category=Yuubari Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/744_yuubari

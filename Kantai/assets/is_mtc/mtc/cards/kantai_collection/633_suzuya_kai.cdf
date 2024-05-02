@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=633_suzuya_kai
+RarityLevel=uncommon
+Name=Suzuya Kai
+Category=Mogami Class Aviation Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/633_suzuya_kai

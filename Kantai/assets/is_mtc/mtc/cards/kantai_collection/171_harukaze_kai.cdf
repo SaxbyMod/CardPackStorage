@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=171_harukaze_kai
+RarityLevel=uncommon
+Name=Harukaze Kai
+Category=Kamikaze Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/171_harukaze_kai

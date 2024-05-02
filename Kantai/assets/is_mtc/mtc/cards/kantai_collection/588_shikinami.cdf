@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=588_shikinami
+RarityLevel=common
+Name=Shikinami
+Category=Ayanami Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/588_shikinami

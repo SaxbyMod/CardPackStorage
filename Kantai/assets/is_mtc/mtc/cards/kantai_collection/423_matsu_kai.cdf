@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=423_matsu_kai
+RarityLevel=uncommon
+Name=Matsu Kai
+Category=Matsu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/423_matsu_kai

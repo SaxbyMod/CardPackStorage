@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=190_hatsuyuki
+RarityLevel=common
+Name=Hatsuyuki
+Category=Fubuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/190_hatsuyuki

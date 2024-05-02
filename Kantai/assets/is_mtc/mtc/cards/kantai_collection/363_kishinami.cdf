@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=363_kishinami
+RarityLevel=common
+Name=Kishinami
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/363_kishinami

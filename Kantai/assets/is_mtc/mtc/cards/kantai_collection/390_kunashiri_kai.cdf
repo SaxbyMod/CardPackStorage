@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=390_kunashiri_kai
+RarityLevel=uncommon
+Name=Kunashiri Kai
+Category=Shimushu Class Coastal Defense Ship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/390_kunashiri_kai

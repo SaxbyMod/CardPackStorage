@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=371_kiyoshimo
+RarityLevel=common
+Name=Kiyoshimo
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/371_kiyoshimo

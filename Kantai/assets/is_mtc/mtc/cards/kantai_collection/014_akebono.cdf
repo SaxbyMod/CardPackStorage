@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=014_akebono
+RarityLevel=common
+Name=Akebono
+Category=Ayanami Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/014_akebono

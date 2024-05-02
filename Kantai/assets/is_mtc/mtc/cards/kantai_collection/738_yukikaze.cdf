@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=738_yukikaze
+RarityLevel=common
+Name=Yukikaze
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/738_yukikaze

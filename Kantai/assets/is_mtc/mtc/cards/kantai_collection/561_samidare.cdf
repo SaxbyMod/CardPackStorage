@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=561_samidare
+RarityLevel=common
+Name=Samidare
+Category=Shiratsuyu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/561_samidare

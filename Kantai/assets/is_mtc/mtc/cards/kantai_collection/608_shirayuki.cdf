@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=608_shirayuki
+RarityLevel=common
+Name=Shirayuki
+Category=Fubuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/608_shirayuki

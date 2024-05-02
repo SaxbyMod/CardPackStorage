@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=295_javelin_kai
+RarityLevel=uncommon
+Name=Javelin Kai
+Category=J Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/295_javelin_kai

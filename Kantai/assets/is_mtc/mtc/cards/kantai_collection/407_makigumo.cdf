@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=407_makigumo
+RarityLevel=common
+Name=Makigumo
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/407_makigumo

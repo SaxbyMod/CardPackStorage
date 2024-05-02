@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=178_harusame_kai
+RarityLevel=uncommon
+Name=Harusame Kai
+Category=Shiratsuyu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/178_harusame_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=198_hayashio
+RarityLevel=common
+Name=Hayashio
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/198_hayashio

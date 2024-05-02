@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=493_nelson
+RarityLevel=common
+Name=Nelson
+Category=Nelson Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/493_nelson

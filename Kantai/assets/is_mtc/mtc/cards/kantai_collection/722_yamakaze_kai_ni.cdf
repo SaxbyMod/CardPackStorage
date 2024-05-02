@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=722_yamakaze_kai_ni
+RarityLevel=rare
+Name=Yamakaze Kai Ni
+Category=Shiratsuyu Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/722_yamakaze_kai_ni

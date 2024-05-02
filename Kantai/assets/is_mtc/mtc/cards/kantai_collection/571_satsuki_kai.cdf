@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=571_satsuki_kai
+RarityLevel=uncommon
+Name=Satsuki Kai
+Category=Mutsuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/571_satsuki_kai

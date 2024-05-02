@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=183_hatsuharu_kai
+RarityLevel=uncommon
+Name=Hatsuharu Kai
+Category=Hatsuharu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/183_hatsuharu_kai

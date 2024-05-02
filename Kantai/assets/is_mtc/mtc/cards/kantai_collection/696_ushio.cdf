@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=696_ushio
+RarityLevel=common
+Name=Ushio
+Category=Ayanami Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/696_ushio

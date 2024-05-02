@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=091_chiyoda
+RarityLevel=common
+Name=Chiyoda
+Category=Chitose Class Seaplane Tender
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/091_chiyoda

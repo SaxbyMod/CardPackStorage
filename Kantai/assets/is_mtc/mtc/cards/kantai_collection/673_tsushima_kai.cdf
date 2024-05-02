@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=673_tsushima_kai
+RarityLevel=uncommon
+Name=Tsushima Kai
+Category=Etorofu Class Coastal Defense Ship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/673_tsushima_kai

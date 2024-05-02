@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=530_oyashio_kai_ni
+RarityLevel=rare
+Name=Oyashio Kai Ni
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/530_oyashio_kai_ni

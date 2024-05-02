@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=721_yamakaze_kai
+RarityLevel=uncommon
+Name=Yamakaze Kai
+Category=Shiratsuyu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/721_yamakaze_kai

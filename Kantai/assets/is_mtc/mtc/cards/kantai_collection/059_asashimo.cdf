@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=059_asashimo
+RarityLevel=common
+Name=Asashimo
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/059_asashimo

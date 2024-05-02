@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=194_hayanami
+RarityLevel=common
+Name=Hayanami
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/194_hayanami

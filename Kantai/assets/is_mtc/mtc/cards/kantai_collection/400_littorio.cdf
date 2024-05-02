@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=400_littorio
+RarityLevel=common
+Name=Littorio
+Category=Vittorio Veneto Class Fast Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/400_littorio

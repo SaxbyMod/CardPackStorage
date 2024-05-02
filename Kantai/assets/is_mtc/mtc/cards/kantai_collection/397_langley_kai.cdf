@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=397_langley_kai
+RarityLevel=uncommon
+Name=Langley Kai
+Category=Independence Class Light Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/397_langley_kai

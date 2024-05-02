@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=235_hyuuga_kai
+RarityLevel=uncommon
+Name=Hyuuga Kai
+Category=Ise Class Aviation Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/235_hyuuga_kai

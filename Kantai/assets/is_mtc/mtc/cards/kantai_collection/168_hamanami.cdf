@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=168_hamanami
+RarityLevel=common
+Name=Hamanami
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/168_hamanami

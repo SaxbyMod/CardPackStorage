@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=017_akigumo
+RarityLevel=common
+Name=Akigumo
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/017_akigumo

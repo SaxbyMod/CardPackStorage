@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=539_richelieu
+RarityLevel=common
+Name=Richelieu
+Category=Richelieu Class Fast Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/539_richelieu

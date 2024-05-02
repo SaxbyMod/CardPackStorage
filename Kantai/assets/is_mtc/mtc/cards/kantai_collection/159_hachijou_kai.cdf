@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=159_hachijou_kai
+RarityLevel=uncommon
+Name=Hachijou Kai
+Category=Shimushu Class Coastal Defense Ship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/159_hachijou_kai

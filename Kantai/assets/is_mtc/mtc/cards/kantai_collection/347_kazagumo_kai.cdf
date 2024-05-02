@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=347_kazagumo_kai
+RarityLevel=uncommon
+Name=Kazagumo Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/347_kazagumo_kai

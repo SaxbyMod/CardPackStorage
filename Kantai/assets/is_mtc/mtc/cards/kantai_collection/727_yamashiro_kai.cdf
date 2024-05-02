@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=727_yamashiro_kai
+RarityLevel=uncommon
+Name=Yamashiro Kai
+Category=Fusou Class Aviation Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/727_yamashiro_kai

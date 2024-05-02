@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=756_yuugure_kai
+RarityLevel=uncommon
+Name=Yuugure Kai
+Category=Hatsuharu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/756_yuugure_kai

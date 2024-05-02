@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=047_arashio_kai_ni
+RarityLevel=rare
+Name=Arashio Kai Ni
+Category=Asashio Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/047_arashio_kai_ni

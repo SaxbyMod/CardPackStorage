@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=730_yamato_kai
+RarityLevel=uncommon
+Name=Yamato Kai
+Category=Yamato Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/730_yamato_kai

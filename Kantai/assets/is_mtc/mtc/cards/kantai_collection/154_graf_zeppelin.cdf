@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=154_graf_zeppelin
+RarityLevel=common
+Name=Graf Zeppelin
+Category=Graf Zeppelin Class Standard Aircraft Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/154_graf_zeppelin

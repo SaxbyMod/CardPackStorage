@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=751_yuudachi_kai_ni
+RarityLevel=rare
+Name=Yuudachi Kai Ni
+Category=Shiratsuyu Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/751_yuudachi_kai_ni

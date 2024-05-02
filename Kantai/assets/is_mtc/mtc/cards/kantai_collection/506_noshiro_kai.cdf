@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=506_noshiro_kai
+RarityLevel=uncommon
+Name=Noshiro Kai
+Category=Agano Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/506_noshiro_kai

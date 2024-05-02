@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=163_haguro_kai
+RarityLevel=uncommon
+Name=Haguro Kai
+Category=Myoukou Class Heavy Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/163_haguro_kai

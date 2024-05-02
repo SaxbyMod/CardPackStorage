@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=034_amatsukaze
+RarityLevel=common
+Name=Amatsukaze
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/034_amatsukaze

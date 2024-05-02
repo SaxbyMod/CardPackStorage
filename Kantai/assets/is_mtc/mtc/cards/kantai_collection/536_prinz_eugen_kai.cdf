@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=536_prinz_eugen_kai
+RarityLevel=uncommon
+Name=Prinz Eugen Kai
+Category=Admiral Hipper Class Heavy Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/536_prinz_eugen_kai

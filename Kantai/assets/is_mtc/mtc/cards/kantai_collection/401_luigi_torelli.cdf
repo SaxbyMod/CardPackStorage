@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=401_luigi_torelli
+RarityLevel=common
+Name=Luigi Torelli
+Category=Guglielmo Marconi Class Submarine
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/401_luigi_torelli

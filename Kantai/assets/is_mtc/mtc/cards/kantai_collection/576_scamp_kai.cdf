@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=576_scamp_kai
+RarityLevel=uncommon
+Name=Scamp Kai
+Category=Gato Class Submarine
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/576_scamp_kai

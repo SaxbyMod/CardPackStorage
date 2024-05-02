@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=075_ayanami_kai_ni
+RarityLevel=rare
+Name=Ayanami Kai Ni
+Category=Ayanami Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/075_ayanami_kai_ni

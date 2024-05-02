@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=395_kuroshio_kai_ni
+RarityLevel=rare
+Name=Kuroshio Kai Ni
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/395_kuroshio_kai_ni

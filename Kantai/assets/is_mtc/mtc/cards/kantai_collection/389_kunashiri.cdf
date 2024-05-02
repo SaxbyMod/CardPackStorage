@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=389_kunashiri
+RarityLevel=common
+Name=Kunashiri
+Category=Shimushu Class Coastal Defense Ship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/389_kunashiri

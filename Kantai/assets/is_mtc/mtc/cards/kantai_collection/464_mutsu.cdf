@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=464_mutsu
+RarityLevel=common
+Name=Mutsu
+Category=Nagato Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/464_mutsu

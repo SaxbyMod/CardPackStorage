@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=666_teruzuki_kai
+RarityLevel=uncommon
+Name=Teruzuki Kai
+Category=Akizuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/666_teruzuki_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=712_washington
+RarityLevel=common
+Name=Washington
+Category=North Carolina Class Fast Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/712_washington

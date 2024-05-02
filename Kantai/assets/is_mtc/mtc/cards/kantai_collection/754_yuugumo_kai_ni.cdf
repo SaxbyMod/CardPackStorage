@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=754_yuugumo_kai_ni
+RarityLevel=rare
+Name=Yuugumo Kai Ni
+Category=Yuugumo Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/754_yuugumo_kai_ni

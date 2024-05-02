@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=495_nenohi
+RarityLevel=common
+Name=Nenohi
+Category=Hatsuharu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/495_nenohi

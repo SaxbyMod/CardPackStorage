@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=394_kuroshio_kai
+RarityLevel=uncommon
+Name=Kuroshio Kai
+Category=Kagerou Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/394_kuroshio_kai

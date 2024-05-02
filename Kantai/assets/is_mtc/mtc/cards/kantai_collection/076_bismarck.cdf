@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=076_bismarck
+RarityLevel=common
+Name=Bismarck
+Category=Bismarck Class Fast Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/076_bismarck

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=332_kashima
+RarityLevel=common
+Name=Kashima
+Category=Katori Class Training Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/332_kashima

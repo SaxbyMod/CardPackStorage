@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=729_yamato
+RarityLevel=common
+Name=Yamato
+Category=Yamato Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/729_yamato

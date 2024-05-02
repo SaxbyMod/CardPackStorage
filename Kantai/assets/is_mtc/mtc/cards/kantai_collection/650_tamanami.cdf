@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=650_tamanami
+RarityLevel=common
+Name=Tamanami
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/650_tamanami

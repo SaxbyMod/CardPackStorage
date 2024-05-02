@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=140_fusou_kai
+RarityLevel=uncommon
+Name=Fusou Kai
+Category=Fusou Class Aviation Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/140_fusou_kai

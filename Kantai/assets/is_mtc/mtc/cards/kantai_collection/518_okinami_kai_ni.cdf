@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=518_okinami_kai_ni
+RarityLevel=rare
+Name=Okinami Kai Ni
+Category=Yuugumo Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/518_okinami_kai_ni

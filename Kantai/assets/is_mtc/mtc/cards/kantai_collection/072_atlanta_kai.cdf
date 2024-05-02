@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=072_atlanta_kai
+RarityLevel=uncommon
+Name=Atlanta Kai
+Category=Atlanta Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/072_atlanta_kai

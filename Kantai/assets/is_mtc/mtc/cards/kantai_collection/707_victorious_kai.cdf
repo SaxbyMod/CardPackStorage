@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=707_victorious_kai
+RarityLevel=uncommon
+Name=Victorious Kai
+Category=Illustrious Class Armored Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/707_victorious_kai

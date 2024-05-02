@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=077_bismarck_drei
+RarityLevel=ancient
+Name=Bismarck Drei
+Category=Bismarck Class Fast Battleship
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/077_bismarck_drei

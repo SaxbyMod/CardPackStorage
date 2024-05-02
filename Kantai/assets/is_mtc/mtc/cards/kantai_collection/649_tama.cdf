@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=649_tama
+RarityLevel=common
+Name=Tama
+Category=Kuma Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/649_tama

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=732_yamato_kai_ni_juu
+RarityLevel=ancient
+Name=Yamato Kai Ni Juu
+Category=Yamato Class Aviation Battleship
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/732_yamato_kai_ni_juu

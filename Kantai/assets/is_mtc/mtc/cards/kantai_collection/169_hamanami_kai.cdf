@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=169_hamanami_kai
+RarityLevel=uncommon
+Name=Hamanami Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/169_hamanami_kai

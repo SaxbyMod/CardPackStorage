@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=433_mikuma_kai
+RarityLevel=uncommon
+Name=Mikuma Kai
+Category=Mogami Class Aviation Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/433_mikuma_kai

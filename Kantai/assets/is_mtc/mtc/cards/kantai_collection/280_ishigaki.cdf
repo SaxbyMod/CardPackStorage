@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=280_ishigaki
+RarityLevel=common
+Name=Ishigaki
+Category=Shimushu Class Coastal Defense Ship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/280_ishigaki

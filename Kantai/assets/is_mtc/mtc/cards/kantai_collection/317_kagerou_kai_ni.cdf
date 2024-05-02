@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=317_kagerou_kai_ni
+RarityLevel=rare
+Name=Kagerou Kai Ni
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/317_kagerou_kai_ni

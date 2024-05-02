@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=629_suzunami_kai
+RarityLevel=uncommon
+Name=Suzunami Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/629_suzunami_kai

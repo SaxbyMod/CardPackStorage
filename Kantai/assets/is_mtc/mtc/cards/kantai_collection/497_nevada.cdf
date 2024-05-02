@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=497_nevada
+RarityLevel=common
+Name=Nevada
+Category=Nevada Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/497_nevada

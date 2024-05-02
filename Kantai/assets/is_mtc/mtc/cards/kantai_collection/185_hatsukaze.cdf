@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=185_hatsukaze
+RarityLevel=common
+Name=Hatsukaze
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/185_hatsukaze

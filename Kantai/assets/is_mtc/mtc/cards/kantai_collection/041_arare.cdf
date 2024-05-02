@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=041_arare
+RarityLevel=common
+Name=Arare
+Category=Asashio Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/041_arare

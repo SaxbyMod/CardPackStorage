@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=427_michishio
+RarityLevel=common
+Name=Michishio
+Category=Asashio Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/427_michishio

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=471_myoukou_kai
+RarityLevel=uncommon
+Name=Myoukou Kai
+Category=Myoukou Class Heavy Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/471_myoukou_kai

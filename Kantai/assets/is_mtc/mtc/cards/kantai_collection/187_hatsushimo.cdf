@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=187_hatsushimo
+RarityLevel=common
+Name=Hatsushimo
+Category=Hatsuharu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/187_hatsushimo

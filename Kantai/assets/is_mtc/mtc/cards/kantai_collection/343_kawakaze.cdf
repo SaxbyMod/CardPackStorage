@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=343_kawakaze
+RarityLevel=common
+Name=Kawakaze
+Category=Shiratsuyu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/343_kawakaze

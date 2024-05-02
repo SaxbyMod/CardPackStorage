@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=153_gotland_kai
+RarityLevel=uncommon
+Name=Gotland Kai
+Category=Gotland Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/153_gotland_kai

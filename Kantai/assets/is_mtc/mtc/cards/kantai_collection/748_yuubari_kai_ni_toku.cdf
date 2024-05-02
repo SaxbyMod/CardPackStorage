@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=748_yuubari_kai_ni_toku
+RarityLevel=legendary
+Name=Yuubari Kai Ni Toku
+Category=Yuubari Class Light Cruiser
+DropWeight=1
+Description=
+IllustrationPath=kantai_collection/748_yuubari_kai_ni_toku

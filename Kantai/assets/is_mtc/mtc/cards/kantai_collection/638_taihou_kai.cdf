@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=638_taihou_kai
+RarityLevel=uncommon
+Name=Taihou Kai
+Category=Taihou Class Armored Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/638_taihou_kai

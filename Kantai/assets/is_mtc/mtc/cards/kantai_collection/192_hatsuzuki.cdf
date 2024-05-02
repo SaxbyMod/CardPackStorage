@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=192_hatsuzuki
+RarityLevel=common
+Name=Hatsuzuki
+Category=Akizuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/192_hatsuzuki

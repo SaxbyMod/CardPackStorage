@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=200_hayashio_kai_ni
+RarityLevel=rare
+Name=Hayashio Kai Ni
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/200_hayashio_kai_ni

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=675_tuscaloosa_kai
+RarityLevel=uncommon
+Name=Tuscaloosa Kai
+Category=New Orleans Class Heavy Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/675_tuscaloosa_kai

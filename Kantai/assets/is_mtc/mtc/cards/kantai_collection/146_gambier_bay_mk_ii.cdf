@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=146_gambier_bay_mk_ii
+RarityLevel=rare
+Name=Gambier Bay Mk.ii
+Category=Casablanca Class Light Carrier
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/146_gambier_bay_mk_ii

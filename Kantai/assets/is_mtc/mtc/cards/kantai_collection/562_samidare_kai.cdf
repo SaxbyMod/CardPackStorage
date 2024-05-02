@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=562_samidare_kai
+RarityLevel=uncommon
+Name=Samidare Kai
+Category=Shiratsuyu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/562_samidare_kai

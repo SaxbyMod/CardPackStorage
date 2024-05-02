@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=589_shikinami_kai
+RarityLevel=uncommon
+Name=Shikinami Kai
+Category=Ayanami Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/589_shikinami_kai

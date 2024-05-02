@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=337_kasumi_kai_ni
+RarityLevel=rare
+Name=Kasumi Kai Ni
+Category=Asashio Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/337_kasumi_kai_ni

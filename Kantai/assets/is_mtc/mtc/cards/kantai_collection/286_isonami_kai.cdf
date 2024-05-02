@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=286_isonami_kai
+RarityLevel=uncommon
+Name=Isonami Kai
+Category=Fubuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/286_isonami_kai

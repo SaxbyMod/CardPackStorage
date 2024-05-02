@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=583_sheffield_kai
+RarityLevel=uncommon
+Name=Sheffield Kai
+Category=Town Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/583_sheffield_kai

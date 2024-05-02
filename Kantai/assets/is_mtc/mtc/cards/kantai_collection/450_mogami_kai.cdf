@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=450_mogami_kai
+RarityLevel=uncommon
+Name=Mogami Kai
+Category=Mogami Class Aviation Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/450_mogami_kai

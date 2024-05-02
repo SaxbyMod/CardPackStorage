@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=452_mogami_kai_ni_toku
+RarityLevel=ancient
+Name=Mogami Kai Ni Toku
+Category=Mogami Class Aviation Cruiser
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/452_mogami_kai_ni_toku

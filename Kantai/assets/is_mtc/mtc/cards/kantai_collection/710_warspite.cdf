@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=710_warspite
+RarityLevel=common
+Name=Warspite
+Category=Queen Elizabeth Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/710_warspite

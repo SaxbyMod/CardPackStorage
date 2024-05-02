@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=210_hibiki_kai
+RarityLevel=uncommon
+Name=Hibiki Kai
+Category=Akatsuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/210_hibiki_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=013_akatsuki_kai_ni
+RarityLevel=rare
+Name=Akatsuki Kai Ni
+Category=Akatsuki Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/013_akatsuki_kai_ni

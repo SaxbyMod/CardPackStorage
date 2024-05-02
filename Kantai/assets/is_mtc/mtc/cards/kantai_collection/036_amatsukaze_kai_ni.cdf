@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=036_amatsukaze_kai_ni
+RarityLevel=rare
+Name=Amatsukaze Kai Ni
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/036_amatsukaze_kai_ni

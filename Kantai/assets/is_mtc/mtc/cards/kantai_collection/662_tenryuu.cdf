@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=662_tenryuu
+RarityLevel=common
+Name=Tenryuu
+Category=Tenryuu Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/662_tenryuu

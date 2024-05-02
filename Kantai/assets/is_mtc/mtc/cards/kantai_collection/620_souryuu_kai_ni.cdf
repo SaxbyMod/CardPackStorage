@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=620_souryuu_kai_ni
+RarityLevel=rare
+Name=Souryuu Kai Ni
+Category=Souryuu Class Standard Aircraft Carrier
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/620_souryuu_kai_ni

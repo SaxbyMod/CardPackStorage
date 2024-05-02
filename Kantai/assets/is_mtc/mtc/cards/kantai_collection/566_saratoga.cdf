@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=566_saratoga
+RarityLevel=common
+Name=Saratoga
+Category=Lexington Class Standard Aircraft Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/566_saratoga

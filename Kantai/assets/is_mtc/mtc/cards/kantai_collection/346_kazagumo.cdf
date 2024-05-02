@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=346_kazagumo
+RarityLevel=common
+Name=Kazagumo
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/346_kazagumo

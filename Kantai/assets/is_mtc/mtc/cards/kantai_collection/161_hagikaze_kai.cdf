@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=161_hagikaze_kai
+RarityLevel=uncommon
+Name=Hagikaze Kai
+Category=Kagerou Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/161_hagikaze_kai

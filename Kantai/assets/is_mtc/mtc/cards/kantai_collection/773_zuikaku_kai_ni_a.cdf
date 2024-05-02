@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=773_zuikaku_kai_ni_a
+RarityLevel=ancient
+Name=Zuikaku Kai Ni A
+Category=Shoukaku Class Armored Carrier
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/773_zuikaku_kai_ni_a

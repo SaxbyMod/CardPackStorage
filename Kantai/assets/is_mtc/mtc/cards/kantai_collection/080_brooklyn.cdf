@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=080_brooklyn
+RarityLevel=common
+Name=Brooklyn
+Category=Brooklyn Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/080_brooklyn

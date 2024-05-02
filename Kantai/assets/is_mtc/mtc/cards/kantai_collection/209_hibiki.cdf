@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=209_hibiki
+RarityLevel=common
+Name=Hibiki
+Category=Akatsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/209_hibiki

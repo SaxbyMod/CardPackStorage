@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=274_intrepid_kai
+RarityLevel=uncommon
+Name=Intrepid Kai
+Category=Essex Class Standard Aircraft Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/274_intrepid_kai

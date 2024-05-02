@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=224_honolulu
+RarityLevel=common
+Name=Honolulu
+Category=Brooklyn Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/224_honolulu

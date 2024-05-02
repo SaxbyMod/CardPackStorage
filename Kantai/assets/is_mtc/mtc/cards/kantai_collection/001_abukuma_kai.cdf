@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=001_abukuma_kai
+RarityLevel=uncommon
+Name=Abukuma Kai
+Category=Nagara Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/001_abukuma_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=477_naganami_kai
+RarityLevel=uncommon
+Name=Naganami Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/477_naganami_kai

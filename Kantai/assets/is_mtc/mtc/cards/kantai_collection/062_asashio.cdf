@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=062_asashio
+RarityLevel=common
+Name=Asashio
+Category=Asashio Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/062_asashio

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=683_umikaze_kai
+RarityLevel=uncommon
+Name=Umikaze Kai
+Category=Shiratsuyu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/683_umikaze_kai

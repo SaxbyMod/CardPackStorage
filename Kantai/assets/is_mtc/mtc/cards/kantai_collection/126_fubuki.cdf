@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=126_fubuki
+RarityLevel=common
+Name=Fubuki
+Category=Fubuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/126_fubuki

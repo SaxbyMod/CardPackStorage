@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=196_hayashimo
+RarityLevel=common
+Name=Hayashimo
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/196_hayashimo

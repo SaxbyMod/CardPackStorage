@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=524_ooshio_kai
+RarityLevel=uncommon
+Name=Ooshio Kai
+Category=Asashio Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/524_ooshio_kai

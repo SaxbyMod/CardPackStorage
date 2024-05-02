@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=618_souryuu
+RarityLevel=common
+Name=Souryuu
+Category=Souryuu Class Standard Aircraft Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/618_souryuu

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=342_katsuragi_kai
+RarityLevel=uncommon
+Name=Katsuragi Kai
+Category=Unryuu Class Standard Aircraft Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/342_katsuragi_kai

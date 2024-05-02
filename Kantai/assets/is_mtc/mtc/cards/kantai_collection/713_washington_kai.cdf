@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=713_washington_kai
+RarityLevel=uncommon
+Name=Washington Kai
+Category=North Carolina Class Fast Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/713_washington_kai

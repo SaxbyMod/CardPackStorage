@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=435_mikuma_kai_ni_toku
+RarityLevel=ancient
+Name=Mikuma Kai Ni Toku
+Category=Mogami Class Seaplane Tender
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/435_mikuma_kai_ni_toku

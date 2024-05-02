@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=461_musashi
+RarityLevel=common
+Name=Musashi
+Category=Yamato Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/461_musashi

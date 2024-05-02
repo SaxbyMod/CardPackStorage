@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=644_takanami_kai_ni
+RarityLevel=rare
+Name=Takanami Kai Ni
+Category=Yuugumo Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/644_takanami_kai_ni

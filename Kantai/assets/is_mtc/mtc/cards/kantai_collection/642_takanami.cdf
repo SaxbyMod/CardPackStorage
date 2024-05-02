@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=642_takanami
+RarityLevel=common
+Name=Takanami
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/642_takanami

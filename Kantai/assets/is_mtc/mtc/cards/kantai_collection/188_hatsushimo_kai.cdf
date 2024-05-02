@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=188_hatsushimo_kai
+RarityLevel=uncommon
+Name=Hatsushimo Kai
+Category=Hatsuharu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/188_hatsushimo_kai

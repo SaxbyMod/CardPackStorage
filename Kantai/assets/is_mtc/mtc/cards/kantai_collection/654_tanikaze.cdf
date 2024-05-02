@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=654_tanikaze
+RarityLevel=common
+Name=Tanikaze
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/654_tanikaze

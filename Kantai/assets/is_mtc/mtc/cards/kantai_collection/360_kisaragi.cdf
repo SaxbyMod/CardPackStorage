@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=360_kisaragi
+RarityLevel=common
+Name=Kisaragi
+Category=Mutsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/360_kisaragi

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=444_miyuki_kai_ni
+RarityLevel=rare
+Name=Miyuki Kai Ni
+Category=Fubuki Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/444_miyuki_kai_ni

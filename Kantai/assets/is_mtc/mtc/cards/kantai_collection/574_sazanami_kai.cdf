@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=574_sazanami_kai
+RarityLevel=uncommon
+Name=Sazanami Kai
+Category=Ayanami Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/574_sazanami_kai

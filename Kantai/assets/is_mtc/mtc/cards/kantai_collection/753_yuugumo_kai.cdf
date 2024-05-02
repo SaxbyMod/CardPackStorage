@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=753_yuugumo_kai
+RarityLevel=uncommon
+Name=Yuugumo Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/753_yuugumo_kai

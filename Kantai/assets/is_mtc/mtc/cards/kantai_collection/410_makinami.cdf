@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=410_makinami
+RarityLevel=common
+Name=Makinami
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/410_makinami

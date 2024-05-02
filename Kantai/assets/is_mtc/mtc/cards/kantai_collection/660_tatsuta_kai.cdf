@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=660_tatsuta_kai
+RarityLevel=uncommon
+Name=Tatsuta Kai
+Category=Tenryuu Class Light Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/660_tatsuta_kai

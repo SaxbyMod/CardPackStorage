@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=102_colorado
+RarityLevel=common
+Name=Colorado
+Category=Colorado Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/102_colorado

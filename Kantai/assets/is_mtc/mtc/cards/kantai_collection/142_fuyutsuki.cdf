@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=142_fuyutsuki
+RarityLevel=common
+Name=Fuyutsuki
+Category=Akizuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/142_fuyutsuki

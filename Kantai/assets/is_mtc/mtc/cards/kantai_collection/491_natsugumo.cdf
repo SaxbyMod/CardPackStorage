@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=491_natsugumo
+RarityLevel=common
+Name=Natsugumo
+Category=Asashio Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/491_natsugumo

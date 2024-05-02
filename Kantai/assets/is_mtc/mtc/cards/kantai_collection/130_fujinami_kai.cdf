@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=130_fujinami_kai
+RarityLevel=uncommon
+Name=Fujinami Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/130_fujinami_kai

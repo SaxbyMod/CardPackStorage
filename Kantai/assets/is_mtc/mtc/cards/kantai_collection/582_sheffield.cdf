@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=582_sheffield
+RarityLevel=common
+Name=Sheffield
+Category=Town Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/582_sheffield

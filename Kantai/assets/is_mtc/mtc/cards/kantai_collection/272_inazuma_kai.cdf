@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=272_inazuma_kai
+RarityLevel=uncommon
+Name=Inazuma Kai
+Category=Akatsuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/272_inazuma_kai

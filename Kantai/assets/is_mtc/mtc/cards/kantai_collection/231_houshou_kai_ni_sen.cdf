@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=231_houshou_kai_ni_sen
+RarityLevel=ancient
+Name=Houshou Kai Ni Sen
+Category=Houshou Class Light Carrier
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/231_houshou_kai_ni_sen

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=481_nagato
+RarityLevel=common
+Name=Nagato
+Category=Nagato Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/481_nagato

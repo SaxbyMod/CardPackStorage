@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=071_atlanta
+RarityLevel=common
+Name=Atlanta
+Category=Atlanta Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/071_atlanta

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=674_tuscaloosa
+RarityLevel=common
+Name=Tuscaloosa
+Category=New Orleans Class Heavy Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/674_tuscaloosa

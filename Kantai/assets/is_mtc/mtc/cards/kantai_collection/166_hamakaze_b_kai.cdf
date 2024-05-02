@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=166_hamakaze_b_kai
+RarityLevel=rare
+Name=Hamakaze B Kai
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/166_hamakaze_b_kai

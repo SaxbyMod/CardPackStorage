@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=621_south_dakota
+RarityLevel=common
+Name=South Dakota
+Category=South Dakota Class Fast Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/621_south_dakota

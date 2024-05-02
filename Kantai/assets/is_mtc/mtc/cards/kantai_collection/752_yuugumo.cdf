@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=752_yuugumo
+RarityLevel=common
+Name=Yuugumo
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/752_yuugumo

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=736_yayoi
+RarityLevel=common
+Name=Yayoi
+Category=Mutsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/736_yayoi

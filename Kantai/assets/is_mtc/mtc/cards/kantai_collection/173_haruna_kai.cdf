@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=173_haruna_kai
+RarityLevel=uncommon
+Name=Haruna Kai
+Category=Kongou Class Fast Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/173_haruna_kai

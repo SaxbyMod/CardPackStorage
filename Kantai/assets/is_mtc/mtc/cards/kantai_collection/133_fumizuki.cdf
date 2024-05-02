@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=133_fumizuki
+RarityLevel=common
+Name=Fumizuki
+Category=Mutsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/133_fumizuki

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=268_ikazuchi_kai
+RarityLevel=uncommon
+Name=Ikazuchi Kai
+Category=Akatsuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/268_ikazuchi_kai

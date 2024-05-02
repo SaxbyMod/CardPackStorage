@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=431_mikazuki_kai
+RarityLevel=uncommon
+Name=Mikazuki Kai
+Category=Mutsuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/431_mikazuki_kai

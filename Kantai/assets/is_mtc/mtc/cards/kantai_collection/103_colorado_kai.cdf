@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=103_colorado_kai
+RarityLevel=uncommon
+Name=Colorado Kai
+Category=Colorado Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/103_colorado_kai

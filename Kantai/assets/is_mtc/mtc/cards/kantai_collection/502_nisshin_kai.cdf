@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=502_nisshin_kai
+RarityLevel=uncommon
+Name=Nisshin Kai
+Category=Nisshin Class Seaplane Tender
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/502_nisshin_kai

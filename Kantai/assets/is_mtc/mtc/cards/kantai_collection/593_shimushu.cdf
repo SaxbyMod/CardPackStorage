@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=593_shimushu
+RarityLevel=common
+Name=Shimushu
+Category=Shimushu Class Coastal Defense Ship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/593_shimushu

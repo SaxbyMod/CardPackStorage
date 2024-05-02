@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=011_akatsuki
+RarityLevel=common
+Name=Akatsuki
+Category=Akatsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/011_akatsuki

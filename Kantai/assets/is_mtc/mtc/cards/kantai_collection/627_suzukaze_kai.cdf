@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=627_suzukaze_kai
+RarityLevel=uncommon
+Name=Suzukaze Kai
+Category=Shiratsuyu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/627_suzukaze_kai

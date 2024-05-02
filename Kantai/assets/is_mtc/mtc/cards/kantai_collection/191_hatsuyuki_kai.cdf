@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=191_hatsuyuki_kai
+RarityLevel=uncommon
+Name=Hatsuyuki Kai
+Category=Fubuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/191_hatsuyuki_kai

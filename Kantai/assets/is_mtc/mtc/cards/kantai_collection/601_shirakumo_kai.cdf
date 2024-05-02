@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=601_shirakumo_kai
+RarityLevel=uncommon
+Name=Shirakumo Kai
+Category=Fubuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/601_shirakumo_kai

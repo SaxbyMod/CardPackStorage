@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=609_shirayuki_kai
+RarityLevel=uncommon
+Name=Shirayuki Kai
+Category=Fubuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/609_shirayuki_kai

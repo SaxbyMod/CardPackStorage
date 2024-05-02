@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=073_ayanami
+RarityLevel=common
+Name=Ayanami
+Category=Ayanami Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/073_ayanami

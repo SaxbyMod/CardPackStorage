@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=226_hornet
+RarityLevel=common
+Name=Hornet
+Category=Yorktown Class Standard Aircraft Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/226_hornet

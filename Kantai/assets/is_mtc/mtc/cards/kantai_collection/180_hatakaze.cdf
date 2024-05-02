@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=180_hatakaze
+RarityLevel=common
+Name=Hatakaze
+Category=Kamikaze Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/180_hatakaze

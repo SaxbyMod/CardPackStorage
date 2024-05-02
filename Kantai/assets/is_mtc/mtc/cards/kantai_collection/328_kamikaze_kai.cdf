@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=328_kamikaze_kai
+RarityLevel=uncommon
+Name=Kamikaze Kai
+Category=Kamikaze Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/328_kamikaze_kai

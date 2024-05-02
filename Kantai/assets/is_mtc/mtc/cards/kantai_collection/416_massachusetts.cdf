@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=416_massachusetts
+RarityLevel=common
+Name=Massachusetts
+Category=South Dakota Class Fast Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/416_massachusetts

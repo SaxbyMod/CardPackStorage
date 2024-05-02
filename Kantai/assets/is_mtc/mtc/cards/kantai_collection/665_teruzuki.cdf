@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=665_teruzuki
+RarityLevel=common
+Name=Teruzuki
+Category=Akizuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/665_teruzuki

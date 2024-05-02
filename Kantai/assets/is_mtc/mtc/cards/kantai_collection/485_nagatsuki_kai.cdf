@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=485_nagatsuki_kai
+RarityLevel=uncommon
+Name=Nagatsuki Kai
+Category=Mutsuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/485_nagatsuki_kai

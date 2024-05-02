@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=403_maestrale
+RarityLevel=common
+Name=Maestrale
+Category=Maestrale Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/403_maestrale

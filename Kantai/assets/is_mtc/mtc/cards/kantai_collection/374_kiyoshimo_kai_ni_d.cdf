@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=374_kiyoshimo_kai_ni_d
+RarityLevel=ancient
+Name=Kiyoshimo Kai Ni D
+Category=Yuugumo Class Destroyer
+DropWeight=2
+Description=
+IllustrationPath=kantai_collection/374_kiyoshimo_kai_ni_d

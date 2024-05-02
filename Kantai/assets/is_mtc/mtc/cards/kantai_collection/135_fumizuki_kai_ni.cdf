@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=135_fumizuki_kai_ni
+RarityLevel=rare
+Name=Fumizuki Kai Ni
+Category=Mutsuki Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/135_fumizuki_kai_ni

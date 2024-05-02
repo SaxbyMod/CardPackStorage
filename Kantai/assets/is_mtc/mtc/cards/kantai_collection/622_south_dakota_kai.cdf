@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=622_south_dakota_kai
+RarityLevel=uncommon
+Name=South Dakota Kai
+Category=South Dakota Class Fast Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/622_south_dakota_kai

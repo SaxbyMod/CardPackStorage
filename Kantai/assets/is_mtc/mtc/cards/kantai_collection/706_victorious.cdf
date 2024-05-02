@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=706_victorious
+RarityLevel=common
+Name=Victorious
+Category=Illustrious Class Armored Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/706_victorious

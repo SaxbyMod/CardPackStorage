@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=701_uzuki
+RarityLevel=common
+Name=Uzuki
+Category=Mutsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/701_uzuki

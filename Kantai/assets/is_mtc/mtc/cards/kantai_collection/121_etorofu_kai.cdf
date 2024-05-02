@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=121_etorofu_kai
+RarityLevel=uncommon
+Name=Etorofu Kai
+Category=Etorofu Class Coastal Defense Ship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/121_etorofu_kai

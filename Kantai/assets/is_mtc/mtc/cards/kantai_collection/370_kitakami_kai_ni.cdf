@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=370_kitakami_kai_ni
+RarityLevel=rare
+Name=Kitakami Kai Ni
+Category=Kuma Class Torpedo Cruiser
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/370_kitakami_kai_ni

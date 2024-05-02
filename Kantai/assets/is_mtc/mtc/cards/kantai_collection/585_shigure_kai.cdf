@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=585_shigure_kai
+RarityLevel=uncommon
+Name=Shigure Kai
+Category=Shiratsuyu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/585_shigure_kai

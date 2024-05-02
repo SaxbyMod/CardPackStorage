@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=398_libeccio
+RarityLevel=common
+Name=Libeccio
+Category=Maestrale Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/398_libeccio

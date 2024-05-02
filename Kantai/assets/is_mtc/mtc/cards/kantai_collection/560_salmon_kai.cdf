@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=560_salmon_kai
+RarityLevel=uncommon
+Name=Salmon Kai
+Category=Salmon Class Submarine
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/560_salmon_kai

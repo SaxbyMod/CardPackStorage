@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=492_natsugumo_kai
+RarityLevel=uncommon
+Name=Natsugumo Kai
+Category=Asashio Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/492_natsugumo_kai

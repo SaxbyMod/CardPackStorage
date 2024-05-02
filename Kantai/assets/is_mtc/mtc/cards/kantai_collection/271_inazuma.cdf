@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=271_inazuma
+RarityLevel=common
+Name=Inazuma
+Category=Akatsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/271_inazuma

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=460_murasame_kai_ni
+RarityLevel=rare
+Name=Murasame Kai Ni
+Category=Shiratsuyu Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/460_murasame_kai_ni

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=551_ryuujou_kai
+RarityLevel=uncommon
+Name=Ryuujou Kai
+Category=Ryuujou Class Light Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/551_ryuujou_kai

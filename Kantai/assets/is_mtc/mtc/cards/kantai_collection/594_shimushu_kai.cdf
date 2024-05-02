@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=594_shimushu_kai
+RarityLevel=uncommon
+Name=Shimushu Kai
+Category=Shimushu Class Coastal Defense Ship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/594_shimushu_kai

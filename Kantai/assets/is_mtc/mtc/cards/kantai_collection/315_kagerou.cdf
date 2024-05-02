@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=315_kagerou
+RarityLevel=common
+Name=Kagerou
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/315_kagerou

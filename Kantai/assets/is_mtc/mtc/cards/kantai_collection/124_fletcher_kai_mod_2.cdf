@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=124_fletcher_kai_mod_2
+RarityLevel=rare
+Name=Fletcher Kai Mod.2
+Category=Fletcher Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/124_fletcher_kai_mod_2

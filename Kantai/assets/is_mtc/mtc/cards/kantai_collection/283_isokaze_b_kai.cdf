@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=283_isokaze_b_kai
+RarityLevel=rare
+Name=Isokaze B Kai
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/283_isokaze_b_kai

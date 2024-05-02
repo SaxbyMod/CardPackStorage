@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=578_scirocco_kai
+RarityLevel=uncommon
+Name=Scirocco Kai
+Category=Maestrale Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/578_scirocco_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=440_minegumo
+RarityLevel=common
+Name=Minegumo
+Category=Asashio Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/440_minegumo

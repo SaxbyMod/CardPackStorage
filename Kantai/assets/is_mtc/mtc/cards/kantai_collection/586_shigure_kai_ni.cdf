@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=586_shigure_kai_ni
+RarityLevel=rare
+Name=Shigure Kai Ni
+Category=Shiratsuyu Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/586_shigure_kai_ni

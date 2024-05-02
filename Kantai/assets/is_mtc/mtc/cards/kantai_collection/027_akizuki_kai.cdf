@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=027_akizuki_kai
+RarityLevel=uncommon
+Name=Akizuki Kai
+Category=Akizuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/027_akizuki_kai

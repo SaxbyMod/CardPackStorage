@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=514_oboro
+RarityLevel=common
+Name=Oboro
+Category=Ayanami Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/514_oboro

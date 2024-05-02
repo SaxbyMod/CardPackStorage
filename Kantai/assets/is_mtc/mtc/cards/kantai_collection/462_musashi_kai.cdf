@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=462_musashi_kai
+RarityLevel=uncommon
+Name=Musashi Kai
+Category=Yamato Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/462_musashi_kai

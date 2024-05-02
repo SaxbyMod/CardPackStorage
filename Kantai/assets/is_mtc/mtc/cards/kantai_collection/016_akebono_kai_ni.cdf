@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=016_akebono_kai_ni
+RarityLevel=rare
+Name=Akebono Kai Ni
+Category=Ayanami Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/016_akebono_kai_ni

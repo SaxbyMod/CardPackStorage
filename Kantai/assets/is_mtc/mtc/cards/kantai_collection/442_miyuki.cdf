@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=442_miyuki
+RarityLevel=common
+Name=Miyuki
+Category=Fubuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/442_miyuki

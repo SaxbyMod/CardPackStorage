@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=755_yuugure
+RarityLevel=common
+Name=Yuugure
+Category=Hatsuharu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/755_yuugure

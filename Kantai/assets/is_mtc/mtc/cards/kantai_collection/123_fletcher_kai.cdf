@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=123_fletcher_kai
+RarityLevel=uncommon
+Name=Fletcher Kai
+Category=Fletcher Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/123_fletcher_kai

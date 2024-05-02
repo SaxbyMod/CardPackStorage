@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=614_shoukaku_kai_ni
+RarityLevel=rare
+Name=Shoukaku Kai Ni
+Category=Shoukaku Class Standard Aircraft Carrier
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/614_shoukaku_kai_ni

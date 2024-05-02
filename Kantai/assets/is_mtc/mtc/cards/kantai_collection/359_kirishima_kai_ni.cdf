@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=359_kirishima_kai_ni
+RarityLevel=rare
+Name=Kirishima Kai Ni
+Category=Kongou Class Fast Battleship
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/359_kirishima_kai_ni

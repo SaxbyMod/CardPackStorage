@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=709_wakaba_kai
+RarityLevel=uncommon
+Name=Wakaba Kai
+Category=Hatsuharu Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/709_wakaba_kai

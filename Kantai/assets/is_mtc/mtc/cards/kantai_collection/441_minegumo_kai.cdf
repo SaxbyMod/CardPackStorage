@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=441_minegumo_kai
+RarityLevel=uncommon
+Name=Minegumo Kai
+Category=Asashio Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/441_minegumo_kai

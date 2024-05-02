@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=498_nevada_kai
+RarityLevel=uncommon
+Name=Nevada Kai
+Category=Nevada Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/498_nevada_kai

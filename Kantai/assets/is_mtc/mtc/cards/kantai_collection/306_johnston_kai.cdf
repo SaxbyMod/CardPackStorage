@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=306_johnston_kai
+RarityLevel=uncommon
+Name=Johnston Kai
+Category=Fletcher Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/306_johnston_kai

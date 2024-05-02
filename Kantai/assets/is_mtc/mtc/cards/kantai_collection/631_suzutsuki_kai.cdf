@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=631_suzutsuki_kai
+RarityLevel=uncommon
+Name=Suzutsuki Kai
+Category=Akizuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/631_suzutsuki_kai

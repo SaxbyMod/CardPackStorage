@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=316_kagerou_kai
+RarityLevel=uncommon
+Name=Kagerou Kai
+Category=Kagerou Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/316_kagerou_kai

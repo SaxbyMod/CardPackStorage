@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=573_sazanami
+RarityLevel=common
+Name=Sazanami
+Category=Ayanami Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/573_sazanami

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=151_gotland
+RarityLevel=common
+Name=Gotland
+Category=Gotland Class Light Cruiser
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/151_gotland

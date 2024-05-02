@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=483_nagato_kai_ni
+RarityLevel=rare
+Name=Nagato Kai Ni
+Category=Nagato Class Battleship
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/483_nagato_kai_ni

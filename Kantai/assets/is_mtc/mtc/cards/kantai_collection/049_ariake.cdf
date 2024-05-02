@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=049_ariake
+RarityLevel=common
+Name=Ariake
+Category=Hatsuharu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/049_ariake

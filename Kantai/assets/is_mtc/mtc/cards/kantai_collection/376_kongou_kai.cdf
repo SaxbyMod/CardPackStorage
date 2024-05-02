@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=376_kongou_kai
+RarityLevel=uncommon
+Name=Kongou Kai
+Category=Kongou Class Fast Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/376_kongou_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=228_houshou
+RarityLevel=common
+Name=Houshou
+Category=Houshou Class Light Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/228_houshou

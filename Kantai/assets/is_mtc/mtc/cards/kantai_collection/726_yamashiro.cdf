@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=726_yamashiro
+RarityLevel=common
+Name=Yamashiro
+Category=Fusou Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/726_yamashiro

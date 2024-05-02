@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=484_nagatsuki
+RarityLevel=common
+Name=Nagatsuki
+Category=Mutsuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/484_nagatsuki

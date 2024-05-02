@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=381_kumano_kai
+RarityLevel=uncommon
+Name=Kumano Kai
+Category=Mogami Class Aviation Cruiser
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/381_kumano_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=157_grecale_kai
+RarityLevel=uncommon
+Name=Grecale Kai
+Category=Maestrale Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/157_grecale_kai

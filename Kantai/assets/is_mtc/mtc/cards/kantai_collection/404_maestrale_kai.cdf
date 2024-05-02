@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=404_maestrale_kai
+RarityLevel=uncommon
+Name=Maestrale Kai
+Category=Maestrale Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/404_maestrale_kai

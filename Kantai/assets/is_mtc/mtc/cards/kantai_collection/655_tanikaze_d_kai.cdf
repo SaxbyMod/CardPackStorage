@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=655_tanikaze_d_kai
+RarityLevel=rare
+Name=Tanikaze D Kai
+Category=Kagerou Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/655_tanikaze_d_kai

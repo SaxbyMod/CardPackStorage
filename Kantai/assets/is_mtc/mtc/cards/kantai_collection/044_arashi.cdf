@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=044_arashi
+RarityLevel=common
+Name=Arashi
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/044_arashi

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=584_shigure
+RarityLevel=common
+Name=Shigure
+Category=Shiratsuyu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/584_shigure

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=414_maryland
+RarityLevel=common
+Name=Maryland
+Category=Colorado Class Battleship
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/414_maryland

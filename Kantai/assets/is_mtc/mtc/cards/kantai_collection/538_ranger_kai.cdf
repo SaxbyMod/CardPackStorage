@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=538_ranger_kai
+RarityLevel=uncommon
+Name=Ranger Kai
+Category=Ranger Class Standard Aircraft Carrier
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/538_ranger_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=020_akishimo
+RarityLevel=common
+Name=Akishimo
+Category=Yuugumo Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/020_akishimo

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=406_maikaze_kai
+RarityLevel=uncommon
+Name=Maikaze Kai
+Category=Kagerou Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/406_maikaze_kai

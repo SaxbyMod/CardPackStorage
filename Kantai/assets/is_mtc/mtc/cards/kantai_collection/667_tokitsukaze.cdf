@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=667_tokitsukaze
+RarityLevel=common
+Name=Tokitsukaze
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/667_tokitsukaze

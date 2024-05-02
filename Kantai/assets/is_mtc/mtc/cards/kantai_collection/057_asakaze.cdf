@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=057_asakaze
+RarityLevel=common
+Name=Asakaze
+Category=Kamikaze Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/057_asakaze
