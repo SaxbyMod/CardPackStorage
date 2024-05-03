@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=702_usugumo_kai
+RarityLevel=uncommon
+Name=Usugumo Kai
+Category=Fubuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/702_usugumo_kai

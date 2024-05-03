@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=541_rodney
-RarityLevel=common
-Name=Rodney
-Category=Nelson Class Battleship
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/541_rodney

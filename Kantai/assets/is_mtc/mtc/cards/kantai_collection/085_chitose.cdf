@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=085_chitose
-RarityLevel=common
-Name=Chitose
-Category=Chitose Class Seaplane Tender
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/085_chitose

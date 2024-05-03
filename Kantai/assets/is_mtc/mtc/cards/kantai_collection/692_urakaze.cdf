@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=692_urakaze
+RarityLevel=common
+Name=Urakaze
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/692_urakaze

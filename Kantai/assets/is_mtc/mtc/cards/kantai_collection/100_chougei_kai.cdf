@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=100_chougei_kai
+RarityLevel=uncommon
+Name=Chougei Kai
+Category=Jingei Class Submarine Tender
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/100_chougei_kai

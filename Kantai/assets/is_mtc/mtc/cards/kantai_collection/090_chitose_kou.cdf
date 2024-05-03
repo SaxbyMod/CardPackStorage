@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=090_chitose_kou
+RarityLevel=common
+Name=Chitose Kou
+Category=Chitose Class Light Carrier
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/090_chitose_kou

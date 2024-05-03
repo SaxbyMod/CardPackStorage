@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=025_akitsushima_kai
+RarityLevel=uncommon
+Name=Akitsushima Kai
+Category=Akitsushima Class Seaplane Tender
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/025_akitsushima_kai

@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=465_mutsuki
-RarityLevel=common
-Name=Mutsuki
-Category=Mutsuki Class Destroyer
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/465_mutsuki

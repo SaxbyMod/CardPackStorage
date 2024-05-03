@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=684_umikaze
+RarityLevel=common
+Name=Umikaze
+Category=Shiratsuyu Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/684_umikaze

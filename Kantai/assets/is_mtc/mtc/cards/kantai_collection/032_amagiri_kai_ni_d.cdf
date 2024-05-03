@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=032_amagiri_kai_ni_d
-RarityLevel=ancient
-Name=Amagiri Kai Ni D
-Category=Ayanami Class Destroyer
-DropWeight=2
-Description=
-IllustrationPath=kantai_collection/032_amagiri_kai_ni_d

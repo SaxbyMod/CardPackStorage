@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=083_c.cappellini_kai
+RarityLevel=uncommon
+Name=C Cappellini Kai
+Category=Marcello Class Submarine
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/083_c_cappellini_kai

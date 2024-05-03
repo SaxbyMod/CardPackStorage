@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=465_mutsu_kai
+RarityLevel=uncommon
+Name=Mutsu Kai
+Category=Nagato Class Battleship
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/465_mutsu_kai

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=653_tamanami_kai
+RarityLevel=uncommon
+Name=Tamanami Kai
+Category=Yuugumo Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/653_tamanami_kai

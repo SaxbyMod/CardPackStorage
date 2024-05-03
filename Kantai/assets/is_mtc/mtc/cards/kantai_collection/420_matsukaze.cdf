@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=420_matsukaze
+RarityLevel=common
+Name=Matsukaze
+Category=Kamikaze Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/420_matsukaze

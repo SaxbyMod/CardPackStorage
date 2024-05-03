@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=695_uranami
+RarityLevel=common
+Name=Uranami
+Category=Fubuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/695_uranami

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=701_usugumo
+RarityLevel=common
+Name=Usugumo
+Category=Fubuki Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/701_usugumo

@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=094_chiyoda_kou
-RarityLevel=common
-Name=Chiyoda Kou
-Category=Chitose Class Light Carrier
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/094_chiyoda_kou

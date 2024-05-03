@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=109_c_cappellini
-RarityLevel=common
-Name=C Cappellini
-Category=Marcello Class Submarine
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/109_c_cappellini

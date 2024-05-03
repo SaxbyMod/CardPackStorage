@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=697_uranami_kai_ni
+RarityLevel=rare
+Name=Uranami Kai Ni
+Category=Fubuki Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/697_uranami_kai_ni

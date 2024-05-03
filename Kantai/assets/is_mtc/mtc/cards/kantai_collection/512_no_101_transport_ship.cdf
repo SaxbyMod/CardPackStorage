@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=512_no_101_transport_ship
-RarityLevel=common
-Name=No.101 Transport Ship
-Category=2nd Class Transporter Amphibious Assault Ship
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/512_no_101_transport_ship

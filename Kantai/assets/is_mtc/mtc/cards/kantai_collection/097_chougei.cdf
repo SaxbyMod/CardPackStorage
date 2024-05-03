@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=097_chougei
-RarityLevel=common
-Name=Chougei
-Category=Jingei Class Submarine Tender
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/097_chougei

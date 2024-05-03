@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=104_commandant_teste
-RarityLevel=common
-Name=Commandant Teste
-Category=Commandant Teste Class Seaplane Tender
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/104_commandant_teste

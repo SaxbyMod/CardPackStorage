@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=503_northampton
-RarityLevel=common
-Name=Northampton
-Category=Northampton Class Heavy Cruiser
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/503_northampton

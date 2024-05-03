@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=512_nowaki
+RarityLevel=common
+Name=Nowaki
+Category=Kagerou Class Destroyer
+DropWeight=10
+Description=
+IllustrationPath=kantai_collection/512_nowaki

@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=045_arashi_kai
+RarityLevel=uncommon
+Name=Arashi Kai
+Category=Kagerou Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/045_arashi_kai

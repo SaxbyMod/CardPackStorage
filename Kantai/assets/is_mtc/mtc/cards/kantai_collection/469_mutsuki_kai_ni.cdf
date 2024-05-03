@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=469_mutsuki_kai_ni
+RarityLevel=rare
+Name=Mutsuki Kai Ni
+Category=Mutsuki Class Destroyer
+DropWeight=3
+Description=
+IllustrationPath=kantai_collection/469_mutsuki_kai_ni

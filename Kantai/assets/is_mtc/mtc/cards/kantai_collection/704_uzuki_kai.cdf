@@ -1,0 +1,8 @@
+EditionID=kantai_collection
+CardID=704_uzuki_kai
+RarityLevel=uncommon
+Name=Uzuki Kai
+Category=Mutsuki Class Destroyer
+DropWeight=5
+Description=
+IllustrationPath=kantai_collection/704_uzuki_kai

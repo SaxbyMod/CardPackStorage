@@ -1,8 +1,0 @@
-EditionID=kantai_collection
-CardID=352_kinugasa
-RarityLevel=common
-Name=Kinugasa
-Category=Aoba Class Heavy Cruiser
-DropWeight=10
-Description=
-IllustrationPath=kantai_collection/352_kinugasa
