@@ -1,0 +1,8 @@
+EditionID=dqtcardpack
+CardID=270_ceremonial_offering
+RarityLevel=com
+Name=Ceremonial Offering
+Category=Key items
+DropWeight=10
+Description=
+IllustrationPath=dqtcardpack/270_ceremonial_offering_com

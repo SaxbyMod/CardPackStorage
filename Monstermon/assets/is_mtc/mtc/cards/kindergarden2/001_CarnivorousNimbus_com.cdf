@@ -1,0 +1,10 @@
+
+EditionID=kindergarden2
+CardID=001_CarnivorousNimbus
+RarityLevel=com
+
+Name=Carnivorous Nimbus
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=kindergarden2/001_CarnivorousNimbus_com

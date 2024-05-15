@@ -1,0 +1,8 @@
+EditionID=dqtcardpack
+CardID=687_teeny_sanguini_biscuits
+RarityLevel=unc
+Name=Teeny Sanguini Biscuits
+Category=Otherworldly items
+DropWeight=10
+Description=Teeny Sanguini in scrumptious shortbread form!
+IllustrationPath=dqtcardpack/687_teeny_sanguini_biscuits

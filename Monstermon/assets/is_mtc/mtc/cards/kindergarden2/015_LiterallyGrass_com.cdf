@@ -1,0 +1,10 @@
+
+EditionID=kindergarden2
+CardID=015_LiterallyGrass
+RarityLevel=com
+
+Name=Literally Grass
+Category=Uncategorized
+DropWeight=10
+
+IllustrationPath=kindergarden2/015_LiterallyGrass_com

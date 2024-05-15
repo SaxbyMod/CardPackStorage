@@ -1,0 +1,10 @@
+
+EditionID=kindergarden2
+CardID=039_TeenageMutantZombie
+RarityLevel=rare
+
+Name=Teenage Mutant Zombie
+Category=Uncategorized
+DropWeight=3
+
+IllustrationPath=kindergarden2/039_TeenageMutantZombie_rare
