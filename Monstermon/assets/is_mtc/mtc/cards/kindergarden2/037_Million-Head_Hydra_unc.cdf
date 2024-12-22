@@ -1,10 +1,10 @@
 
-EditionID=crazy_game_cardpack_b
-CardID=001_blue_goblin
-RarityLevel=com
+EditionID=kindergarden2
+CardID=037_Million-Head_Hydra
+RarityLevel=unc
 
-Name=Blue Goblin
+Name=Million Head Hydra
 Category=Uncategorized
-DropWeight=10
+DropWeight=5
 
-IllustrationPath=crazy_game_cardpack_b/001_blue_goblin_com
+IllustrationPath=kindergarden2/037_Million-Head_Hydra_unc

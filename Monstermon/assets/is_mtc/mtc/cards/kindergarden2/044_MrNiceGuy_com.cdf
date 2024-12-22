@@ -1,6 +1,6 @@
 
 EditionID=kindergarden2
-CardID=044_MrNiceGuy
+CardID=044_MrNiceGuy_com
 RarityLevel=com
 
 Name=Mr Nice Guy

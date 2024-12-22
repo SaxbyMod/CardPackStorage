@@ -3,7 +3,7 @@ EditionID=kindergarden2
 CardID=003_CelestialSlug
 RarityLevel=unc
 
-Name=Blue Goblin
+Name=Celestial Slug
 Category=Uncategorized
 DropWeight=5
 

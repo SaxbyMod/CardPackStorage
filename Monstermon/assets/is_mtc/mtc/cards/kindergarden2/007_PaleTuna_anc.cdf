@@ -7,4 +7,4 @@ Name=Pale Tuna
 Category=Uncategorized
 DropWeight=5
 
-IllustrationPath=kindergarden2/007_PaleTuna_com
+IllustrationPath=kindergarden2/007_PaleTuna_anc

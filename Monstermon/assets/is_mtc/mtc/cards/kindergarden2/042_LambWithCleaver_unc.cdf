@@ -1,6 +1,6 @@
 
 EditionID=kindergarden2
-CardID=042_LambWithCleaver
+CardID=000_BucketOWater
 RarityLevel=unc
 
 Name=Lamb With Cleaver

@@ -7,4 +7,4 @@ Name=Hermit Frog
 Category=Uncategorized
 DropWeight=5
 
-IllustrationPath=kindergarden2_HermitFrog_unc
+IllustrationPath=kindergarden2/006_HermitFrog_unc

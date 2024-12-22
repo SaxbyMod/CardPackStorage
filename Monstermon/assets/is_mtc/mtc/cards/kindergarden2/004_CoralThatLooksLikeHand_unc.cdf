@@ -7,4 +7,4 @@ Name=Coral That Looks Like Hand
 Category=Uncategorized
 DropWeight=5
 
-IllustrationPath=kindergarden2/004_CoralThatLooksLikeHand_com
+IllustrationPath=kindergarden2/004_coralthatlookslikehand_unc
